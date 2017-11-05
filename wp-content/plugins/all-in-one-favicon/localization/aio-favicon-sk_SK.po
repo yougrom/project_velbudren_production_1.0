@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All in one Favicon v3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-21 23:25+0100\n"
+"PO-Revision-Date: 2013-01-21 23:25+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ aio-favicon
+#: all-in-one-favicon.php:40
+msgid "All in one Favicon"
+msgstr "All in one Favicon"
+
+#: all-in-one-favicon.php:101 all-in-one-favicon.php:109
+msgid "ICO"
+msgstr ""
+
+#: all-in-one-favicon.php:102 all-in-one-favicon.php:110
+msgid "GIF"
+msgstr ""
+
+#: all-in-one-favicon.php:103 all-in-one-favicon.php:111
+msgid "PNG"
+msgstr ""
+
+# @ aio-favicon
+#: all-in-one-favicon.php:104 all-in-one-favicon.php:112
+msgid "Apple Touch Icon"
+msgstr "Apple touch ikonka"
+
+# @ aio-favicon
+#: includes/aio-favicon-backend.php:136 includes/settings-page.php:15
+#: includes/settings-page/sp-plugin-favicon-settings.php:13
+#: includes/settings-page/sp-plugin-meta-settings.php:13
+msgid "Settings"
+msgstr "Nastavenia"
+
+# @ aio-favicon
+#: includes/aio-favicon-backend.php:161
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "Úspešne aktualizovaných %1$s nastavení."
+
+# @ aio-favicon
+#: includes/aio-favicon-backend.php:163
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "%1$s nastavení úspešene vymazaných."
+
+# @ aio-favicon
+#: includes/aio-favicon-backend.php:187
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr "Nastavenia neboli zmenené, nemáte potrebné práva."
+
+# @ aio-favicon
+#: includes/aio-favicon-backend.php:270
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"%1$s Nastavení sa nevymazalo. Buď nemáte potrebné práva, alebo ste "
+"nezaškrtli políčko."
+
+# @ aio-favicon
+#: includes/aio-favicon-frontend.php:66
+msgid "Using"
+msgstr "Používate"
+
+#: includes/settings-page.php:19
+msgid ""
+"Please enable JavaScript. Upload-functionality on this page relies on "
+"JavaScript and will not work if it's not enabled."
+msgstr ""
+
+# @ aio-favicon
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Vymazať nastavenia"
+
+# @ aio-favicon
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr "Po zaškrnutí možnosti budú vymazané všetky nastavenia modulu."
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Prispieť"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Ak nás chcete podporiť v ďalšom vývoji, zvážte prosím aspoň malú finančnú "
+"podporu, ceníme si to!"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Profesionálna podpora"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr "Zadajte prosím URL, ktorú chcete zobraziť v zozname darcov"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Vrátiť sa na nástenku"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Vybrať predvolené čiastku"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "USD"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Alebo"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Zadať inú čiastku"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Odoslať"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "Najväčšie príspevky"
+
+# @ aio-favicon
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr "Ďakujeme Vám za finančný príspevok."
+
+# @ aio-favicon
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Posledné príspevky"
+
+# @ aio-favicon
+#: includes/settings-page/sp-left-column.php:25
+msgid "Frontend"
+msgstr "Frontend"
+
+# @ aio-favicon
+#: includes/settings-page/sp-left-column.php:31
+msgid "Backend"
+msgstr "Backend"
+
+#: includes/settings-page/sp-plugin-favicon-settings.php:30
+msgid "Upload"
+msgstr ""
+
+# @ aio-favicon
+#: includes/settings-page/sp-plugin-favicon-settings.php:34
+msgid "Check box to delete favicon."
+msgstr "Zaškrtnite pre zmazanie favicon."
+
+# @ default
+#: includes/settings-page/sp-plugin-favicon-settings.php:42
+#: includes/settings-page/sp-plugin-meta-settings.php:42
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+# @ aio-favicon
+#: includes/settings-page/sp-plugin-meta-settings.php:19
+#: includes/settings-page/sp-plugin-meta-settings.php:25
+msgid "Don't add reflective shine to Apple Touch Icon"
+msgstr "Nepridávať reflexný odraz pre Apple Touch ikonku"
+
+# @ aio-favicon
+#: includes/settings-page/sp-plugin-meta-settings.php:30
+msgid "Remove link from Meta-box"
+msgstr "Odstrániť odkaz z Meta boxu"
+
+# @ aio-favicon
+#: includes/settings-page/sp-plugin-meta-settings.php:36
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr "Odstrániť odkaz na vývojársku stránku z WordPress meta boxu."
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:14
+msgid "Tips"
+msgstr "Tipy"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:20
+msgid "Favicon wikipedia entry"
+msgstr "Favicon na wikipedii"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:23
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Favicon\" target=\"_blank"
+"\">Wikipedia</a> offers much information about favicon types and sizes."
+msgstr ""
+"<a href=\"http://en.wikipedia.org/wiki/Favicon\" target=\"_blank"
+"\">Wikipedia</a> ponúka kopec informácií o ikonkách a ich veľkostiach."
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:28
+msgid "Favicon generator"
+msgstr "Favicon generátor"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:31
+msgid ""
+"<a href=\"http://www.html-kit.com/favicon/\" target=\"_blank\">HTML Kit</a> "
+"provides a favicon generator that is very easy to use."
+msgstr ""
+"<a href=\"http://www.html-kit.com/favicon/\" target=\"_blank\">HTML Kit</a> "
+"poskytuje generátor ikoniek a je ľahký na použitie."
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:36
+#, fuzzy
+msgid "Favicon CC editor"
+msgstr "Favicon generátor"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:39
+msgid ""
+"<a href=\"http://www.favicon.cc/\" target=\"_blank\">Favicon CC</a> provides "
+"a favicon editor that is very easy to use."
+msgstr ""
+"<a href=\"http://www.favicon.cc/\" target=\"_blank\">Favicon CC</a> "
+"poskytuje generátor ikoniek a je ľahký na použitie."
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:44
+msgid "Favicon validator"
+msgstr "Favicon validátor"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:47
+msgid ""
+"<a href=\"http://www.html-kit.com/favicon/validator\" target=\"_blank\">HTML "
+"Kit</a> provides a favicon validator that tells you whether your favicon is "
+"working and if it is compatible to all browsers."
+msgstr ""
+"<a href=\"http://www.html-kit.com/favicon/validator\" target=\"_blank\">HTML "
+"Kit</a> poskytuje validátor, ktorý vám povie či je ikonka funkčná a "
+"kompatibilná so všetkými prehliadačmi."
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:52
+msgid "Apple Touch Icon Howto"
+msgstr "Ako na Apple touch ikonku"
+
+# @ aio-favicon
+#: includes/settings-page/sp-tipps-box.php:55
+msgid ""
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"appleapplications/reference/safariwebcontent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\" target=\"_blank\">Apple</a> provides a "
+"howto on how to create a PNG to use as an Apple Touch Icon."
+msgstr ""
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"appleapplications/reference/safariwebcontent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\" target=\"_blank\">Apple</a> poskytuje "
+"návod, ako vytvoriť PNG ikonku pre Apple Touch."
+
+# @ aio-favicon
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "Preklady"
+
+# @ aio-favicon
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de\"  "
+"target=\"_blank\">Arne Franken</a>."
+msgstr ""
+"Anglický preklad vyhotovil <a href=\"http://www.techotronic.de\"  target="
+"\"_blank\">Arne Franken</a>."

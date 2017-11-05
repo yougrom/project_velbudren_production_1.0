@@ -1,0 +1,305 @@
+.mo2f_table_layout {
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding:0px 24px 0px 20px;
+	min-height:373px;
+}
+.mo2f_small_layout{
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding:0px 24px 10px 20px;
+}
+
+.mo2f_support_layout{
+	width: 93%;
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding-left:20px; 
+}
+.mo2f_help_layout{
+	background-color:#FFFFFF; 
+	border:1px solid #CCCCCC; 
+	padding-left:20px; 
+	min-height: 550px;
+}
+
+.mo2f_table_layout td strong {
+	margin-left: 10px;
+}
+.col1 {
+	width: 20%;
+}
+
+#panel1{
+	width: 100%;
+}
+.panel_toggle {
+	cursor: pointer;
+}
+.panel_toggle:hover {
+	text-decoration: underline;
+}
+.mo2f_table_textbox {
+	width:100%;
+	border-radius:4px;
+	height:30px;
+}
+.mo2f_settings_table {
+	width: 100%;
+}
+
+#mo2f_note{
+	background-color: #d9edf7;
+	border-radius: 4px;
+	padding: 5px;
+	color: #31708f;
+	font-style: italic;
+}
+.button-green{
+	background: #95D387 !important;
+	color: #ffffff !important;
+	border: 1px solid #95D387 !important;
+}
+.mo2f_user_layout{
+	margin-top:20px;
+	margin-right:20px;
+}
+.header2{
+	font-size:1.6em;
+	color:#00A0D2;
+}
+.alert-box{
+    margin-top: 21px;
+}
+.extra-large{
+	padding: 10px !important;
+	font-size: 2em !important;
+	height: 46px !important;
+	border-radius: 5px !important;
+	line-height:25px!important;
+}
+
+.mo2f_account_header{
+	margin: 0px !important;
+	
+}
+
+a{
+text-decoration:none !important;
+
+}
+.mo2f_help_container{
+background-color:#ccc !important;
+}
+
+.mo2f_faqs>h3, .mo2f_faqs>div{
+margin-left:15px !important;
+margin-right:5px !important;
+
+}
+.mo2f_faqs>div{
+padding: 5px 20px !important;
+border-left: 2px solid grey;
+}
+
+.mo2f_faqs>hr{
+	    border-top: 1px solid rgb(135, 129, 129) !important;
+		margin-right:20px !important;
+}
+
+.mo2f_faqs>h3>a:focus{
+	box-shadow: 0px 0px 0px 0px #fff !important;
+}
+
+.mo2f_msgs{
+	font-size: 14px !important;
+}
+
+.mo2f_row{
+	
+	display :-webkit-inline-box !important;
+}
+
+.mo2f_success_container{
+	background-color: rgba(185, 228, 155, 0.56) !important;
+	margin-left: 3px !important;
+
+}
+
+.mo2f_error_container{
+	background-color: rgba(251, 102, 0, 0.29) !important;
+	margin-left: 3px !important;
+}
+
+.configuredBasic{
+  background: url(../images/feat_smart.png) rgba(99, 143, 223, 0.42) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.configuredSmart{
+  background: url(../images/Smartphone-24.png) rgba(99, 143, 223, 0.42) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.notConfiguredBasic{
+  background: url(../images/feat_smart.png) rgba(221, 221, 221, 0.66) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.notConfiguredSmart{
+  background: url(../images/Smartphone-24.png) rgba(221, 221, 221, 0.66) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.configuredLandline{
+  background: url(../images/landline_sprite.png) rgba(99, 143, 223, 0.42) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.notConfiguredLandline{
+  background: url(../images/landline_sprite.png) rgba(221, 221, 221, 0.66) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.selectedMethod{
+	background-color: rgba(54, 157, 4, 0.42) !important;
+}
+
+.color-icon{
+	vertical-align:middle;
+	display: inline-block;
+	width: 15px;
+  	height: 15px;
+	margin-left:20px;
+}
+
+.activeMethod{
+background-color:  rgba(99, 143, 223, 0.42) !important;
+margin-left:23%;
+
+}
+.inactiveMethod{
+background-color:  rgba(221, 221, 221, 0.66) !important;
+margin-left:20.5%;
+
+}
+
+.configuredLaptop{
+  background: url(../images/laptop-24.png) rgba(99, 143, 223, 0.42) no-repeat right;
+  padding: 10px;
+  margin-bottom:0px;
+}
+
+.notConfiguredLaptop{
+  background: url(../images/laptop-24.png) rgba(221, 221, 221, 0.66) no-repeat right;
+  padding: 20px;
+  margin-bottom:0px;
+}
+
+.mo2f_column_padding{
+	padding-right: 10px;
+	
+}
+
+.mo2f_td_show{
+	display:table-cell;
+}
+
+.mo2f_td_hide{
+	display:none !important;
+}
+
+.mo2f_pricing_table{
+	text-align:center;
+	font-size: 15px !important;
+}
+
+.mo2f_pricing_header{
+	color: #fff !important;
+	margin: 8px !important;
+}
+
+.mo2f_pricing_sub_header{
+	margin: 4px !important;
+	color: #fff !important;
+}
+
+.mo2f_pricing_text{
+	font-size: 15px !important;
+	color: #fff !important;
+	font-weight: bold !important;
+}
+
+.mo2f_pricing_free_tab{
+	background-color: rgba(34, 153, 221, 0.82)!important;
+	//#29d
+}
+
+.mo2f_pricing_paid_tab{
+	background-color: #1a71a4 !important;
+}
+
+.mo2f_kba_ques{
+	width:412px !important;
+	border-radius:4px;
+	height:30px;
+	font-size: 13px !important;
+}
+.mo2f_kba_table{
+	padding-left:10px;width:80%;
+}
+
+.mo2f_kba_tb_data{
+	padding-left:80px;
+}
+.mo2f_grayed_out{
+    background-color: rgba(128, 128, 128, 0.05) !important;
+    opacity: .5;
+}
+
+.mo2f_grayed_out_link{
+	position: absolute;
+    float: right;
+    margin: 0.5% 0 0 24%;
+	z-index:99;
+}
+
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+.white_content {
+	display: none;
+	position: absolute;
+	top: 45%;
+	left: 25%;
+	width: 35%;
+	height: 10%;
+	padding: 2px;
+	border: 16px solid white;
+	background-color: white;
+	z-index:1002;
+	overflow: auto;
+}
+
+.mo_faq_blocks{
+	border-style: solid;
+    border-width: 2px;
+	border-color: #CACFD2 !important;
+	padding: 1px;
+}

@@ -1,0 +1,2311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2017-08-01 19:34:59+00:00\n"
+"PO-Revision-Date: 2017-07-28 23:16+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+"X-Poedit-SearchPathExcluded-1: ../frontend-builder/node_modules\n"
+
+#: class-et-builder-element.php:147 main-modules.php:338 main-modules.php:839
+#: main-modules.php:1183 main-modules.php:1465 main-modules.php:1584
+#: main-modules.php:1602 main-modules.php:1960 main-modules.php:2457
+#: main-modules.php:2729 main-modules.php:3342 main-modules.php:3578
+#: main-modules.php:4013 main-modules.php:5026 main-modules.php:5834
+#: main-modules.php:6344 main-modules.php:7133 main-modules.php:7407
+#: main-modules.php:7686 main-modules.php:8236 main-modules.php:8814
+#: main-modules.php:9273 main-modules.php:9921 main-modules.php:10473
+#: main-modules.php:11069 main-modules.php:11300 main-modules.php:11521
+#: main-modules.php:11932 main-modules.php:12288 main-modules.php:13367
+#: main-modules.php:13651 main-modules.php:13978 main-modules.php:14542
+#: main-modules.php:15508 main-modules.php:15923 main-modules.php:16207
+#: main-modules.php:16525 main-modules.php:17277 main-modules.php:17790
+#: main-modules.php:18220 main-modules.php:18551 main-modules.php:19250
+#: main-modules.php:19774 main-modules.php:20428 main-modules.php:20855
+#: main-modules.php:21259 main-modules.php:21410 main-modules.php:21528
+#: main-modules.php:21805 main-modules.php:22326 main-modules.php:23305
+#: main-structure-elements.php:852 main-structure-elements.php:2365
+#: main-structure-elements.php:3439
+msgid "Admin Label"
+msgstr "관리자 라벨"
+
+#: class-et-builder-element.php:154 main-modules.php:13541
+#: main-modules.php:13574
+msgid "Visibility"
+msgstr "보이기 여부"
+
+#: class-et-builder-element.php:1238 class-et-builder-settings.php:766
+#: frontend-builder/helpers.php:731 main-modules.php:561 main-modules.php:1817
+#: main-modules.php:1842 main-modules.php:1848 main-modules.php:1863
+#: main-modules.php:2103 main-modules.php:2112 main-modules.php:2853
+#: main-modules.php:3573 main-modules.php:3587 main-modules.php:4539
+#: main-modules.php:5599 main-modules.php:5610 main-modules.php:6582
+#: main-modules.php:6940 main-modules.php:6947 main-modules.php:7285
+#: main-modules.php:7293 main-modules.php:7522 main-modules.php:7530
+#: main-modules.php:7883 main-modules.php:7892 main-modules.php:8606
+#: main-modules.php:8615 main-modules.php:9089 main-modules.php:9688
+#: main-modules.php:10308 main-modules.php:10616 main-modules.php:10935
+#: main-modules.php:10944 main-modules.php:11180 main-modules.php:11187
+#: main-modules.php:11400 main-modules.php:11652 main-modules.php:11659
+#: main-modules.php:11790 main-modules.php:11798 main-modules.php:12096
+#: main-modules.php:12638 main-modules.php:13269 main-modules.php:13785
+#: main-modules.php:13793 main-modules.php:14189 main-modules.php:15782
+#: main-modules.php:15787 main-modules.php:16302 main-modules.php:16423
+#: main-modules.php:16926 main-modules.php:17574 main-modules.php:17584
+#: main-modules.php:18013 main-modules.php:18395 main-modules.php:18827
+#: main-modules.php:18839 main-modules.php:20632 main-modules.php:21343
+#: main-modules.php:21493 main-modules.php:21989 main-modules.php:22692
+msgid "Text"
+msgstr "텍스트"
+
+#: class-et-builder-element.php:1249 class-et-builder-element.php:2201
+msgid "%1$s Font"
+msgstr "%1$s 폰트"
+
+#: class-et-builder-element.php:1269
+msgid "%1$s Font Size"
+msgstr "%1$s 폰트 사이즈"
+
+#: class-et-builder-element.php:1305 class-et-builder-element.php:1315
+#: class-et-builder-element.php:2131
+msgid "%1$s Text Color"
+msgstr "%1$s 폰트 색"
+
+#: class-et-builder-element.php:1341 class-et-builder-element.php:2189
+msgid "%1$s Letter Spacing"
+msgstr "%1$s 글자 간격"
+
+#: class-et-builder-element.php:1379
+msgid "%1$s Line Height"
+msgstr "%1$s 줄 높이"
+
+#: class-et-builder-element.php:1451 class-et-builder-element.php:7119
+#: class-et-builder-settings.php:759 frontend-builder/helpers.php:668
+#: main-modules.php:3022 main-modules.php:3577 main-modules.php:4530
+#: main-modules.php:4814 main-modules.php:7885 main-modules.php:8608
+#: main-modules.php:10301 main-modules.php:10617 main-modules.php:10937
+#: main-modules.php:12100 main-modules.php:12641 main-modules.php:14181
+#: main-modules.php:16920 main-modules.php:17577 main-modules.php:18007
+#: main-modules.php:18830 main-modules.php:19553 main-modules.php:20109
+#: main-modules.php:21983 main-modules.php:22683 main-modules.php:23103
+#: main-structure-elements.php:141 main-structure-elements.php:1407
+#: main-structure-elements.php:2940
+msgid "Background"
+msgstr "배경"
+
+#: class-et-builder-element.php:1471 class-et-builder-element.php:6671
+#: main-modules.php:3819 main-modules.php:5724 main-modules.php:7046
+#: main-modules.php:7654 main-modules.php:8123 main-modules.php:8701
+#: main-modules.php:10382 main-modules.php:10661 main-modules.php:12858
+#: main-modules.php:15888 main-modules.php:17257 main-modules.php:19654
+#: main-modules.php:22306 main-structure-elements.php:233
+#: main-structure-elements.php:1811 main-structure-elements.php:3217
+msgid "Background Color"
+msgstr "배경 색상"
+
+#: class-et-builder-element.php:1482
+msgid "Use Background Color Gradient"
+msgstr "배경색 그래디언트 사용"
+
+#: class-et-builder-element.php:1486 class-et-builder-element.php:1653
+#: class-et-builder-element.php:1831 class-et-builder-element.php:1889
+#: class-et-builder-element.php:2089 class-et-builder-element.php:2217
+#: class-et-builder-element.php:2277 frontend-builder/helpers.php:254
+#: frontend-builder/helpers.php:377 frontend-builder/helpers.php:575
+#: functions.php:4116 functions.php:4623 main-modules.php:164
+#: main-modules.php:260 main-modules.php:298 main-modules.php:310
+#: main-modules.php:741 main-modules.php:753 main-modules.php:2218
+#: main-modules.php:2257 main-modules.php:2282 main-modules.php:2387
+#: main-modules.php:3130 main-modules.php:3178 main-modules.php:3208
+#: main-modules.php:3269 main-modules.php:3280 main-modules.php:3291
+#: main-modules.php:3715 main-modules.php:3842 main-modules.php:3866
+#: main-modules.php:3985 main-modules.php:4690 main-modules.php:4701
+#: main-modules.php:4712 main-modules.php:4752 main-modules.php:4778
+#: main-modules.php:4801 main-modules.php:4830 main-modules.php:4853
+#: main-modules.php:4878 main-modules.php:4955 main-modules.php:4966
+#: main-modules.php:4977 main-modules.php:5736 main-modules.php:6283
+#: main-modules.php:6311 main-modules.php:6323 main-modules.php:6735
+#: main-modules.php:7058 main-modules.php:8135 main-modules.php:8204
+#: main-modules.php:8694 main-modules.php:8713 main-modules.php:8782
+#: main-modules.php:9192 main-modules.php:9203 main-modules.php:9214
+#: main-modules.php:9823 main-modules.php:9834 main-modules.php:9845
+#: main-modules.php:12188 main-modules.php:12223 main-modules.php:12730
+#: main-modules.php:12801 main-modules.php:12812 main-modules.php:12825
+#: main-modules.php:13346 main-modules.php:13631 main-modules.php:14316
+#: main-modules.php:14362 main-modules.php:14376 main-modules.php:14390
+#: main-modules.php:14404 main-modules.php:14418 main-modules.php:15900
+#: main-modules.php:16173 main-modules.php:16991 main-modules.php:17002
+#: main-modules.php:17019 main-modules.php:17031 main-modules.php:17054
+#: main-modules.php:17066 main-modules.php:17078 main-modules.php:17108
+#: main-modules.php:17239 main-modules.php:17682 main-modules.php:17693
+#: main-modules.php:17718 main-modules.php:18156 main-modules.php:18166
+#: main-modules.php:18176 main-modules.php:18463 main-modules.php:18491
+#: main-modules.php:18505 main-modules.php:19009 main-modules.php:19024
+#: main-modules.php:19700 main-modules.php:20264 main-modules.php:20294
+#: main-modules.php:20385 main-modules.php:20396 main-modules.php:20407
+#: main-modules.php:20763 main-modules.php:20774 main-modules.php:21692
+#: main-modules.php:22040 main-modules.php:22051 main-modules.php:22068
+#: main-modules.php:22080 main-modules.php:22103 main-modules.php:22115
+#: main-modules.php:22127 main-modules.php:22157 main-modules.php:22288
+#: main-modules.php:22979 main-modules.php:22990 main-modules.php:23001
+#: main-modules.php:23041 main-modules.php:23067 main-modules.php:23090
+#: main-modules.php:23119 main-modules.php:23142 main-modules.php:23167
+#: main-modules.php:23234 main-modules.php:23245 main-modules.php:23256
+#: main-structure-elements.php:246 main-structure-elements.php:264
+#: main-structure-elements.php:302 main-structure-elements.php:316
+#: main-structure-elements.php:387 main-structure-elements.php:400
+#: main-structure-elements.php:1655 main-structure-elements.php:1669
+#: main-structure-elements.php:1739 main-structure-elements.php:1803
+#: main-structure-elements.php:3177 main-structure-elements.php:3209
+msgid "No"
+msgstr "아니요"
+
+#: class-et-builder-element.php:1487 class-et-builder-element.php:1654
+#: class-et-builder-element.php:1832 class-et-builder-element.php:1890
+#: class-et-builder-element.php:2090 class-et-builder-element.php:2216
+#: class-et-builder-element.php:2276 frontend-builder/helpers.php:253
+#: frontend-builder/helpers.php:378 frontend-builder/helpers.php:576
+#: frontend-builder/helpers.php:822 functions.php:4117 functions.php:4165
+#: functions.php:4622 functions.php:5837 main-modules.php:165
+#: main-modules.php:261 main-modules.php:299 main-modules.php:309
+#: main-modules.php:740 main-modules.php:752 main-modules.php:2219
+#: main-modules.php:2258 main-modules.php:2283 main-modules.php:2388
+#: main-modules.php:3129 main-modules.php:3179 main-modules.php:3209
+#: main-modules.php:3270 main-modules.php:3281 main-modules.php:3292
+#: main-modules.php:3716 main-modules.php:3986 main-modules.php:4700
+#: main-modules.php:4751 main-modules.php:4879 main-modules.php:4956
+#: main-modules.php:4967 main-modules.php:4978 main-modules.php:5735
+#: main-modules.php:6282 main-modules.php:6312 main-modules.php:6324
+#: main-modules.php:6736 main-modules.php:7057 main-modules.php:8134
+#: main-modules.php:8205 main-modules.php:8695 main-modules.php:8712
+#: main-modules.php:8783 main-modules.php:9191 main-modules.php:9202
+#: main-modules.php:9213 main-modules.php:9822 main-modules.php:9833
+#: main-modules.php:9844 main-modules.php:12187 main-modules.php:12224
+#: main-modules.php:12729 main-modules.php:12800 main-modules.php:12811
+#: main-modules.php:12824 main-modules.php:13347 main-modules.php:13630
+#: main-modules.php:14315 main-modules.php:14361 main-modules.php:14375
+#: main-modules.php:14389 main-modules.php:14403 main-modules.php:14417
+#: main-modules.php:15899 main-modules.php:16174 main-modules.php:16990
+#: main-modules.php:17001 main-modules.php:17018 main-modules.php:17030
+#: main-modules.php:17053 main-modules.php:17065 main-modules.php:17077
+#: main-modules.php:17107 main-modules.php:17240 main-modules.php:17683
+#: main-modules.php:17694 main-modules.php:17719 main-modules.php:18155
+#: main-modules.php:18165 main-modules.php:18175 main-modules.php:18464
+#: main-modules.php:18492 main-modules.php:18506 main-modules.php:19010
+#: main-modules.php:19025 main-modules.php:19701 main-modules.php:20265
+#: main-modules.php:20295 main-modules.php:20386 main-modules.php:20397
+#: main-modules.php:20408 main-modules.php:20762 main-modules.php:20773
+#: main-modules.php:21693 main-modules.php:22039 main-modules.php:22050
+#: main-modules.php:22067 main-modules.php:22079 main-modules.php:22102
+#: main-modules.php:22114 main-modules.php:22126 main-modules.php:22156
+#: main-modules.php:22289 main-modules.php:22989 main-modules.php:23040
+#: main-modules.php:23168 main-modules.php:23235 main-modules.php:23246
+#: main-modules.php:23257 main-structure-elements.php:247
+#: main-structure-elements.php:265 main-structure-elements.php:303
+#: main-structure-elements.php:317 main-structure-elements.php:388
+#: main-structure-elements.php:401 main-structure-elements.php:1656
+#: main-structure-elements.php:1670 main-structure-elements.php:1740
+#: main-structure-elements.php:1804 main-structure-elements.php:3178
+#: main-structure-elements.php:3210
+msgid "Yes"
+msgstr "네"
+
+#: class-et-builder-element.php:1505 class-et-builder-element.php:6791
+msgid "Gradient Start"
+msgstr "그래디언트 시작"
+
+#: class-et-builder-element.php:1518 class-et-builder-element.php:6793
+msgid "Gradient End"
+msgstr "그래디언트 끝"
+
+#: class-et-builder-element.php:1531 class-et-builder-element.php:6794
+msgid "Gradient Type"
+msgstr "그래디언트 종류"
+
+#: class-et-builder-element.php:1535 class-et-builder-element.php:6795
+#: frontend-builder/helpers.php:426
+msgid "Linear"
+msgstr "선형"
+
+#: class-et-builder-element.php:1536 class-et-builder-element.php:6796
+#: frontend-builder/helpers.php:427
+msgid "Radial"
+msgstr "방사형"
+
+#: class-et-builder-element.php:1552 class-et-builder-element.php:6797
+msgid "Gradient Direction"
+msgstr "그래디언트 방향"
+
+#: class-et-builder-element.php:1572 class-et-builder-element.php:6798
+msgid "Radial Direction"
+msgstr "방사형 방향"
+
+#: class-et-builder-element.php:1576 class-et-builder-element.php:1710
+#: class-et-builder-element.php:6799 class-et-builder-element.php:6839
+#: frontend-builder/helpers.php:311 frontend-builder/helpers.php:469
+#: functions.php:420 functions.php:428 main-modules.php:273
+#: main-modules.php:3223 main-modules.php:3752 main-modules.php:3891
+#: main-modules.php:7364 main-modules.php:17157 main-modules.php:17215
+#: main-modules.php:17671 main-modules.php:19197 main-modules.php:20309
+#: main-modules.php:22206 main-modules.php:22264
+msgid "Center"
+msgstr "가운데"
+
+#: class-et-builder-element.php:1577 class-et-builder-element.php:1706
+#: class-et-builder-element.php:6800 class-et-builder-element.php:6835
+#: frontend-builder/helpers.php:307 frontend-builder/helpers.php:470
+#: main-modules.php:3219 main-modules.php:3748 main-modules.php:17153
+#: main-modules.php:20305 main-modules.php:22202
+msgid "Top Left"
+msgstr "최고 왼"
+
+#: class-et-builder-element.php:1578 class-et-builder-element.php:3502
+#: class-et-builder-element.php:6801 class-et-builder-element.php:7203
+#: frontend-builder/helpers.php:471 frontend-builder/helpers.php:744
+#: main-modules.php:2178 main-modules.php:4817 main-modules.php:13609
+#: main-modules.php:23106
+msgid "Top"
+msgstr "상단"
+
+#: class-et-builder-element.php:1579 class-et-builder-element.php:1708
+#: class-et-builder-element.php:6802 class-et-builder-element.php:6837
+#: frontend-builder/helpers.php:309 frontend-builder/helpers.php:472
+#: main-modules.php:3221 main-modules.php:3750 main-modules.php:17155
+#: main-modules.php:20307 main-modules.php:22204
+msgid "Top Right"
+msgstr "인"
+
+#: class-et-builder-element.php:1580 class-et-builder-element.php:2261
+#: class-et-builder-element.php:3509 class-et-builder-element.php:6803
+#: class-et-builder-element.php:7204 frontend-builder/helpers.php:473
+#: frontend-builder/helpers.php:745 functions.php:421 functions.php:427
+#: main-modules.php:274 main-modules.php:2184 main-modules.php:4816
+#: main-modules.php:7365 main-modules.php:13313 main-modules.php:17216
+#: main-modules.php:17670 main-modules.php:22265 main-modules.php:23105
+msgid "Right"
+msgstr "오른쪽"
+
+#: class-et-builder-element.php:1581 class-et-builder-element.php:1714
+#: class-et-builder-element.php:6804 class-et-builder-element.php:6843
+#: frontend-builder/helpers.php:315 frontend-builder/helpers.php:474
+#: main-modules.php:3227 main-modules.php:3756 main-modules.php:17161
+#: main-modules.php:20313 main-modules.php:22210
+msgid "Bottom Right"
+msgstr "오른쪽 하단"
+
+#: class-et-builder-element.php:1582 class-et-builder-element.php:3516
+#: class-et-builder-element.php:6805 class-et-builder-element.php:7205
+#: frontend-builder/helpers.php:475 frontend-builder/helpers.php:746
+#: main-modules.php:3892 main-modules.php:4818 main-modules.php:13611
+#: main-modules.php:19198 main-modules.php:19222 main-modules.php:23107
+msgid "Bottom"
+msgstr "아래"
+
+#: class-et-builder-element.php:1583 class-et-builder-element.php:1712
+#: class-et-builder-element.php:6806 class-et-builder-element.php:6841
+#: frontend-builder/helpers.php:313 frontend-builder/helpers.php:476
+#: main-modules.php:3225 main-modules.php:3754 main-modules.php:17159
+#: main-modules.php:20311 main-modules.php:22208
+msgid "Bottom Left"
+msgstr "왼쪽 하단"
+
+#: class-et-builder-element.php:1584 class-et-builder-element.php:2262
+#: class-et-builder-element.php:3523 class-et-builder-element.php:6807
+#: class-et-builder-element.php:7206 frontend-builder/helpers.php:477
+#: frontend-builder/helpers.php:747 functions.php:419 main-modules.php:272
+#: main-modules.php:2182 main-modules.php:4815 main-modules.php:7363
+#: main-modules.php:13312 main-modules.php:17214 main-modules.php:17669
+#: main-modules.php:22263 main-modules.php:23104
+msgid "Left"
+msgstr "왼쪽"
+
+#: class-et-builder-element.php:1596 class-et-builder-element.php:6808
+msgid "Start Position"
+msgstr "시작 지점"
+
+#: class-et-builder-element.php:1616 class-et-builder-element.php:6809
+msgid "End Position"
+msgstr "끝 지점"
+
+#: class-et-builder-element.php:1638 class-et-builder-element.php:6975
+#: main-modules.php:3701
+msgid "Background Image"
+msgstr "배경 이미지:"
+
+#: class-et-builder-element.php:1641 class-et-builder-element.php:6979
+#: frontend-builder/helpers.php:232 main-modules.php:125 main-modules.php:1143
+#: main-modules.php:1638 main-modules.php:2305 main-modules.php:3704
+#: main-modules.php:3828 main-modules.php:5706 main-modules.php:7644
+#: main-modules.php:13880 main-modules.php:19158 main-modules.php:19210
+#: main-modules.php:21653
+msgid "Upload an image"
+msgstr "이미지 업로드"
+
+#: class-et-builder-element.php:1642 class-et-builder-element.php:6980
+#: frontend-builder/helpers.php:233 main-modules.php:3705
+msgid "Choose a Background Image"
+msgstr "배경 이미지를 선택하세요"
+
+#: class-et-builder-element.php:1643 class-et-builder-element.php:6981
+#: frontend-builder/helpers.php:234 main-modules.php:3706
+msgid "Set As Background"
+msgstr "배경으로 설정"
+
+#: class-et-builder-element.php:1649 class-et-builder-element.php:6982
+#: main-modules.php:17103 main-modules.php:22152
+msgid "Use Parallax Effect"
+msgstr "페럴렉스 효과 사용하기"
+
+#: class-et-builder-element.php:1665
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"활성화되면, 배경 이미지가 스크롤할 때 고정된 상태가 되고, 재미있는 패럴렉스 "
+"효과를 생성합니다."
+
+#: class-et-builder-element.php:1671 class-et-builder-element.php:6985
+#: main-modules.php:17123 main-modules.php:22172
+msgid "Parallax Method"
+msgstr "시차방법"
+
+#: class-et-builder-element.php:1675 class-et-builder-element.php:6986
+#: frontend-builder/helpers.php:275 main-modules.php:3196 main-modules.php:3736
+#: main-modules.php:17128 main-modules.php:20282 main-modules.php:22177
+msgid "True Parallax"
+msgstr "트루 패럴렉스"
+
+#: class-et-builder-element.php:1676 class-et-builder-element.php:6987
+#: frontend-builder/helpers.php:274 frontend-builder/helpers.php:784
+#: frontend-builder/helpers.php:860 main-modules.php:3195 main-modules.php:3735
+#: main-modules.php:17127 main-modules.php:20281 main-modules.php:22176
+msgid "CSS"
+msgstr "CSS"
+
+#: class-et-builder-element.php:1681 main-modules.php:3201
+#: main-modules.php:3741 main-modules.php:20287
+msgid "Define the method, used for the parallax effect."
+msgstr "기법을 정으하세요, 패럴렉스 효과를 위해 사용됩니다."
+
+#: class-et-builder-element.php:1687 class-et-builder-element.php:6988
+#: main-modules.php:3234 main-modules.php:3763 main-modules.php:17136
+#: main-modules.php:20320 main-modules.php:22185
+msgid "Background Image Size"
+msgstr "배경 이미지 크기"
+
+#: class-et-builder-element.php:1691 class-et-builder-element.php:6818
+#: frontend-builder/helpers.php:291 main-modules.php:3238 main-modules.php:3767
+#: main-modules.php:17140 main-modules.php:20324 main-modules.php:22189
+msgid "Cover"
+msgstr "Cover"
+
+#: class-et-builder-element.php:1692 class-et-builder-element.php:6819
+#: frontend-builder/helpers.php:292 main-modules.php:3239 main-modules.php:3768
+#: main-modules.php:17141 main-modules.php:20325 main-modules.php:22190
+msgid "Fit"
+msgstr "Fit"
+
+#: class-et-builder-element.php:1693 class-et-builder-element.php:6820
+#: frontend-builder/helpers.php:293 main-modules.php:3240 main-modules.php:3769
+#: main-modules.php:17142 main-modules.php:20326 main-modules.php:22191
+msgid "Actual Size"
+msgstr "실제 크기"
+
+#: class-et-builder-element.php:1702 class-et-builder-element.php:6990
+#: main-modules.php:3215 main-modules.php:3744 main-modules.php:17149
+#: main-modules.php:20301 main-modules.php:22198
+msgid "Background Image Position"
+msgstr "배경 이미지 위치"
+
+#: class-et-builder-element.php:1707 class-et-builder-element.php:6836
+#: frontend-builder/helpers.php:308 main-modules.php:3220 main-modules.php:3749
+#: main-modules.php:17154 main-modules.php:20306 main-modules.php:22203
+msgid "Top Center"
+msgstr "최고의 센터"
+
+#: class-et-builder-element.php:1709 class-et-builder-element.php:6838
+#: frontend-builder/helpers.php:310 main-modules.php:3222 main-modules.php:3753
+#: main-modules.php:17156 main-modules.php:20308 main-modules.php:22205
+msgid "Center Left"
+msgstr "센터는 왼쪽"
+
+#: class-et-builder-element.php:1711 class-et-builder-element.php:6840
+#: frontend-builder/helpers.php:312 main-modules.php:3224 main-modules.php:3751
+#: main-modules.php:17158 main-modules.php:20310 main-modules.php:22207
+msgid "Center Right"
+msgstr "해 센터"
+
+#: class-et-builder-element.php:1713 class-et-builder-element.php:6842
+#: frontend-builder/helpers.php:314 main-modules.php:3226 main-modules.php:3755
+#: main-modules.php:17160 main-modules.php:20312 main-modules.php:22209
+msgid "Bottom Center"
+msgstr "아래 센터"
+
+#: class-et-builder-element.php:1723 class-et-builder-element.php:6992
+#: main-modules.php:3777 main-modules.php:17168 main-modules.php:22217
+msgid "Background Image Repeat"
+msgstr "배경 이미지 반복"
+
+#: class-et-builder-element.php:1727 class-et-builder-element.php:6855
+#: frontend-builder/helpers.php:334 main-modules.php:3786
+#: main-modules.php:17177 main-modules.php:22226
+msgid "No Repeat"
+msgstr "반복 없음"
+
+#: class-et-builder-element.php:1728 class-et-builder-element.php:6856
+#: frontend-builder/helpers.php:329 main-modules.php:3781
+#: main-modules.php:17172 main-modules.php:22221
+msgid "Repeat"
+msgstr "반복"
+
+#: class-et-builder-element.php:1729 class-et-builder-element.php:6857
+#: frontend-builder/helpers.php:330 main-modules.php:3782
+#: main-modules.php:17173 main-modules.php:22222
+msgid "Repeat X (horizontal)"
+msgstr "X 반복 (가로)"
+
+#: class-et-builder-element.php:1730 class-et-builder-element.php:6858
+#: frontend-builder/helpers.php:331 main-modules.php:3783
+#: main-modules.php:17174 main-modules.php:22223
+msgid "Repeat Y (vertical)"
+msgstr "Y 반복 (세로)"
+
+#: class-et-builder-element.php:1731 class-et-builder-element.php:6859
+#: frontend-builder/helpers.php:332 main-modules.php:3784
+#: main-modules.php:17175 main-modules.php:22224
+msgid "Space"
+msgstr "공간"
+
+#: class-et-builder-element.php:1732 class-et-builder-element.php:6860
+#: frontend-builder/helpers.php:333 main-modules.php:3785
+#: main-modules.php:17176 main-modules.php:22225
+msgid "Round"
+msgstr "원형"
+
+#: class-et-builder-element.php:1741 class-et-builder-element.php:6994
+#: main-modules.php:3793 main-modules.php:17184 main-modules.php:22233
+msgid "Background Image Blend"
+msgstr "배경 이미지 혼합"
+
+#: class-et-builder-element.php:1745 class-et-builder-element.php:6882
+#: frontend-builder/helpers.php:348 main-modules.php:3797
+#: main-modules.php:17188 main-modules.php:22237
+msgid "Normal"
+msgstr "일반"
+
+#: class-et-builder-element.php:1746 class-et-builder-element.php:6883
+#: frontend-builder/helpers.php:349 main-modules.php:3798
+#: main-modules.php:17189 main-modules.php:22238
+msgid "Multiply"
+msgstr "곱하기"
+
+#: class-et-builder-element.php:1747 class-et-builder-element.php:6884
+#: frontend-builder/helpers.php:350 main-modules.php:3799
+#: main-modules.php:17190 main-modules.php:22239
+msgid "Screen"
+msgstr "스크린"
+
+#: class-et-builder-element.php:1748 class-et-builder-element.php:6885
+#: frontend-builder/helpers.php:351 main-modules.php:57 main-modules.php:559
+#: main-modules.php:614 main-modules.php:1091 main-modules.php:1363
+#: main-modules.php:1583 main-modules.php:3583 main-modules.php:3800
+#: main-modules.php:4536 main-modules.php:9087 main-modules.php:9125
+#: main-modules.php:9686 main-modules.php:9747 main-modules.php:14187
+#: main-modules.php:15312 main-modules.php:15357 main-modules.php:17191
+#: main-modules.php:20629 main-modules.php:21619 main-modules.php:22240
+#: main-modules.php:22689
+msgid "Overlay"
+msgstr "오버레이"
+
+#: class-et-builder-element.php:1749 class-et-builder-element.php:6886
+#: frontend-builder/helpers.php:352 main-modules.php:3801
+#: main-modules.php:17192 main-modules.php:22241
+msgid "Darken"
+msgstr "어둡게"
+
+#: class-et-builder-element.php:1750 class-et-builder-element.php:6887
+#: frontend-builder/helpers.php:353 main-modules.php:3802
+#: main-modules.php:17193 main-modules.php:22242
+msgid "Lighten"
+msgstr "밝게"
+
+#: class-et-builder-element.php:1751 class-et-builder-element.php:6888
+#: frontend-builder/helpers.php:354 main-modules.php:3803
+#: main-modules.php:17194 main-modules.php:22243
+msgid "Color Dodge"
+msgstr "색상 닷지"
+
+#: class-et-builder-element.php:1752 class-et-builder-element.php:6889
+#: frontend-builder/helpers.php:355 main-modules.php:3804
+#: main-modules.php:17195 main-modules.php:22244
+msgid "Color Burn"
+msgstr "색상 번"
+
+#: class-et-builder-element.php:1753 class-et-builder-element.php:6890
+#: frontend-builder/helpers.php:356 main-modules.php:3805
+#: main-modules.php:17196 main-modules.php:22245
+msgid "Hard Light"
+msgstr "하드 라이트"
+
+#: class-et-builder-element.php:1754 class-et-builder-element.php:6891
+#: frontend-builder/helpers.php:357 main-modules.php:3806
+#: main-modules.php:17197 main-modules.php:22246
+msgid "Soft Light"
+msgstr "소프트 라이트"
+
+#: class-et-builder-element.php:1755 class-et-builder-element.php:6892
+#: frontend-builder/helpers.php:358 main-modules.php:3807
+#: main-modules.php:17198 main-modules.php:22247
+msgid "Difference"
+msgstr "차이"
+
+#: class-et-builder-element.php:1756 class-et-builder-element.php:6893
+#: frontend-builder/helpers.php:359 main-modules.php:3808
+#: main-modules.php:17199 main-modules.php:22248
+msgid "Exclusion"
+msgstr "제외"
+
+#: class-et-builder-element.php:1757 class-et-builder-element.php:6894
+#: frontend-builder/helpers.php:360 main-modules.php:3809
+#: main-modules.php:17200 main-modules.php:22249
+msgid "Hue"
+msgstr "색조"
+
+#: class-et-builder-element.php:1758 class-et-builder-element.php:6895
+#: frontend-builder/helpers.php:361 main-modules.php:3810
+#: main-modules.php:17201 main-modules.php:22250
+msgid "Saturation"
+msgstr "채도"
+
+#: class-et-builder-element.php:1759 class-et-builder-element.php:6640
+#: class-et-builder-element.php:6896 frontend-builder/helpers.php:362
+#: main-modules.php:3811 main-modules.php:13546 main-modules.php:13566
+#: main-modules.php:17202 main-modules.php:22251
+msgid "Color"
+msgstr "색상"
+
+#: class-et-builder-element.php:1760 class-et-builder-element.php:6897
+#: frontend-builder/helpers.php:363 main-modules.php:3812
+#: main-modules.php:17203 main-modules.php:22252
+msgid "Luminosity"
+msgstr "광도"
+
+#: class-et-builder-element.php:1771 class-et-builder-element.php:7074
+#: main-modules.php:3933
+msgid "Background Video MP4"
+msgstr "배경 동영상 .MP4"
+
+#: class-et-builder-element.php:1775 class-et-builder-element.php:1791
+#: class-et-builder-element.php:7078 frontend-builder/helpers.php:536
+#: frontend-builder/helpers.php:548 main-modules.php:1116 main-modules.php:1130
+#: main-modules.php:1612 main-modules.php:1628 main-modules.php:3937
+#: main-modules.php:3951
+msgid "Upload a video"
+msgstr "동영상 업로드"
+
+#: class-et-builder-element.php:1776 class-et-builder-element.php:7079
+#: frontend-builder/helpers.php:537 main-modules.php:3938
+msgid "Choose a Background Video MP4 File"
+msgstr "배경 동영상 .MP4 파일 선택"
+
+#: class-et-builder-element.php:1777 class-et-builder-element.php:1793
+#: class-et-builder-element.php:7080 frontend-builder/helpers.php:538
+#: frontend-builder/helpers.php:550 main-modules.php:3939 main-modules.php:3953
+msgid "Set As Background Video"
+msgstr "배경 동영상로 설정"
+
+#: class-et-builder-element.php:1778 main-modules.php:3940
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"모든 동영상은 모든 브라우저를 지원하기 위해서 .MP4와 .WEBM 두가지 포멧 모두 "
+"업로드되어야 합니다. 여기에 .MP4 버전을 업로드하세요. 중요 공지: 동영상 배경"
+"은 모바일 기기에서는 활성화되지 않습니다. 대신에, 귀하가 설정한 배경 이미지"
+"가 사용됩니다. 이러한 이유로, 최적의 결과를 위해서, 배경 이미지와 동영상을 모"
+"두 정의해 주셔야 합니다."
+
+#: class-et-builder-element.php:1787 class-et-builder-element.php:7081
+#: main-modules.php:3947
+msgid "Background Video Webm"
+msgstr "배경 동영상 .WEBM"
+
+#: class-et-builder-element.php:1792 class-et-builder-element.php:7082
+#: frontend-builder/helpers.php:549 main-modules.php:3952
+msgid "Choose a Background Video WEBM File"
+msgstr "배경 동영상용 .WEBM 파일선택"
+
+#: class-et-builder-element.php:1794 main-modules.php:3954
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"모든 동영상은 모든 브라우저를 지원하기 위해서 .MP4와 .WEBM 두가지 포멧 모두 "
+"업로드되어야 합니다. 여기에 .WEBM 버전을 업로드하세요. 중요 공지: 동영상 배경"
+"은 모바일 기기에서는 활성화되지 않습니다. 대신에, 귀하가 설정한 배경 이미지"
+"가 사용됩니다. 이러한 이유로, 최적의 결과를 위해서, 배경 이미지와 동영상을 모"
+"두 정의해 주셔야 합니다."
+
+#: class-et-builder-element.php:1803 class-et-builder-element.php:7083
+#: main-modules.php:3961
+msgid "Background Video Width"
+msgstr "배경 동영상 너비"
+
+#: class-et-builder-element.php:1806 main-modules.php:3965
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"동영상 사이즈를 올바르게 하기 위해, 동영상의 정확한 너비(픽셀 단위)를 여기 입"
+"력해 주셔야 합니다."
+
+#: class-et-builder-element.php:1815 class-et-builder-element.php:7084
+#: main-modules.php:3971
+msgid "Background Video Height"
+msgstr "배경 동영상 높이"
+
+#: class-et-builder-element.php:1818 main-modules.php:3975
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"동영상 사이즈를 올바르게 하기 위해, 동영상의 정확한 높이(픽셀 단위)를 여기 입"
+"력해 주셔야 합니다."
+
+#: class-et-builder-element.php:1827 class-et-builder-element.php:7085
+#: main-modules.php:3981
+msgid "Pause Video"
+msgstr "동영상 일시정지"
+
+#: class-et-builder-element.php:1836 main-modules.php:3989
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "다른 플레이어가 재생을 시작하면 동영상이 일시 정지하는 것을 허용"
+
+#: class-et-builder-element.php:1876
+msgid "Border"
+msgstr "테두리"
+
+#: class-et-builder-element.php:1885
+msgid "Use Border"
+msgstr "테두리 사용"
+
+#: class-et-builder-element.php:1904
+msgid "Border Color"
+msgstr "테두리 색"
+
+#: class-et-builder-element.php:1915
+msgid "Border Width"
+msgstr "테두리 너비"
+
+#: class-et-builder-element.php:1926
+msgid "Border Style"
+msgstr "테두리 양식"
+
+#: class-et-builder-element.php:1961 class-et-builder-settings.php:764
+#: main-modules.php:3029 main-modules.php:4543 main-modules.php:10312
+#: main-modules.php:20116 main-modules.php:22696
+#: main-structure-elements.php:159 main-structure-elements.php:1425
+#: main-structure-elements.php:2957
+msgid "Spacing"
+msgstr "간격"
+
+#: class-et-builder-element.php:1971 main-structure-elements.php:1792
+msgid "Custom Margin"
+msgstr "사용자정의 외부여백"
+
+#: class-et-builder-element.php:2026 main-structure-elements.php:273
+#: main-structure-elements.php:1767 main-structure-elements.php:3148
+msgid "Custom Padding"
+msgstr "사용자정의 내부여백"
+
+#: class-et-builder-element.php:2085
+msgid "Use Custom Styles for %1$s "
+msgstr "를 사용하는 주문 스타일을 %1$s "
+
+#: class-et-builder-element.php:2115
+msgid "%1$s Text Size"
+msgstr "%1$s 의 텍스트 크기"
+
+#: class-et-builder-element.php:2143
+msgid "%1$s Background Color"
+msgstr "%1$s Background Color"
+
+#: class-et-builder-element.php:2155
+msgid "%1$s Border Width"
+msgstr "%1$s Border Width"
+
+#: class-et-builder-element.php:2166
+msgid "%1$s Border Color"
+msgstr "%1$s Border Color"
+
+#: class-et-builder-element.php:2178
+msgid "%1$s Border Radius"
+msgstr "%1$s 경 간 반경"
+
+#: class-et-builder-element.php:2210
+msgid "Add %1$s Icon"
+msgstr "추가 %1$s 의 아이콘"
+
+#: class-et-builder-element.php:2215 frontend-builder/assets.php:98
+#: functions.php:1267
+msgid "Default"
+msgstr "기본"
+
+#: class-et-builder-element.php:2232
+msgid "%1$s Icon"
+msgstr "%1$s 의 아이콘"
+
+#: class-et-builder-element.php:2245
+msgid "%1$s Icon Color"
+msgstr "%1$s 상 색상"
+
+#: class-et-builder-element.php:2257
+msgid "%1$s Icon Placement"
+msgstr "%1$s )아이콘을 배치"
+
+#: class-et-builder-element.php:2271
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "만 보여줄 아이콘 Hover 를 %1$s"
+
+#: class-et-builder-element.php:2286
+msgid "%1$s Hover Text Color"
+msgstr "%1$s Hover 텍스트 색상"
+
+#: class-et-builder-element.php:2298
+msgid "%1$s Hover Background Color"
+msgstr "%1$s Hover 배경색"
+
+#: class-et-builder-element.php:2310
+msgid "%1$s Hover Border Color"
+msgstr "%1$s Hover 테두리 색"
+
+#: class-et-builder-element.php:2322
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s Hover 경 간 반경"
+
+#: class-et-builder-element.php:2333
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s Hover Letter 간격"
+
+#: class-et-builder-element.php:2407 class-et-builder-element.php:7278
+#: main-modules.php:16437 main-modules.php:16633
+msgid "Before"
+msgstr "이전"
+
+#: class-et-builder-element.php:2412 class-et-builder-element.php:7279
+#: main-modules.php:2903 main-modules.php:7276 main-modules.php:16441
+#: main-modules.php:16637
+msgid "Main Element"
+msgstr "주요소"
+
+#: class-et-builder-element.php:2415 class-et-builder-element.php:7280
+#: main-modules.php:16445 main-modules.php:16641
+msgid "After"
+msgstr "이후"
+
+#: class-et-builder-element.php:2465
+msgid "CSS ID &amp; Classes"
+msgstr "CSS ID & 클래스"
+
+#: class-et-builder-element.php:2466 class-et-builder-settings.php:256
+#: class-et-builder-settings.php:761 main-structure-elements.php:182
+#: main-structure-elements.php:1450 main-structure-elements.php:2980
+msgid "Custom CSS"
+msgstr "사용자 맞춤 CSS"
+
+#: class-et-builder-element.php:2924
+msgid "Background:"
+msgstr "배경:"
+
+#: class-et-builder-element.php:3224 class-et-builder-element.php:4086
+#: frontend-builder/helpers.php:734
+msgid "Add New Item"
+msgstr "새 아이템 추가"
+
+#: class-et-builder-element.php:3245 frontend-builder/helpers.php:775
+msgid "equals"
+msgstr "일치함"
+
+#: class-et-builder-element.php:3246 frontend-builder/helpers.php:776
+msgid "does not equal"
+msgstr "일치하지 않음"
+
+#: class-et-builder-element.php:3247 frontend-builder/helpers.php:777
+msgid "is greater than"
+msgstr "이(가) 오른쪽보다 큼"
+
+#: class-et-builder-element.php:3248 frontend-builder/helpers.php:778
+msgid "is less than"
+msgstr "이(가) 오른쪽보다 적음"
+
+#: class-et-builder-element.php:3249 frontend-builder/helpers.php:779
+msgid "contains"
+msgstr "포함"
+
+#: class-et-builder-element.php:3250 frontend-builder/helpers.php:780
+msgid "does not contain"
+msgstr "포함 안 함"
+
+#: class-et-builder-element.php:3251 frontend-builder/helpers.php:781
+msgid "is empty"
+msgstr "이(가) 비어 있음"
+
+#: class-et-builder-element.php:3252 frontend-builder/helpers.php:782
+msgid "is not empty"
+msgstr "이(가) 비어 있지 않음"
+
+#: class-et-builder-element.php:3269 frontend-builder/helpers.php:773
+#: main-modules.php:13131
+msgid "checked"
+msgstr "체크됨"
+
+#: class-et-builder-element.php:3270 frontend-builder/helpers.php:774
+#: main-modules.php:13132
+msgid "not checked"
+msgstr "체크되지 않음"
+
+#: class-et-builder-element.php:3271
+msgid "Add New Rule"
+msgstr "새로운 규칙 추가"
+
+#: class-et-builder-element.php:3351 class-et-builder-element.php:6675
+#: class-et-builder-element.php:6792
+msgid "Hex Value"
+msgstr "색상 값"
+
+#: class-et-builder-element.php:3363
+msgid "Choose Custom Color"
+msgstr "사용자정의 색 선택"
+
+#: class-et-builder-element.php:3374 frontend-builder/helpers.php:737
+msgid "Upload"
+msgstr "업로드"
+
+#: class-et-builder-element.php:3375
+msgid "Choose image"
+msgstr "이미지 선택"
+
+#: class-et-builder-element.php:3376
+msgid "Set image"
+msgstr "이미지 설정"
+
+#: class-et-builder-element.php:3831 class-et-builder-element.php:4072
+#: frontend-builder/helpers.php:764 main-modules.php:1915 main-modules.php:2366
+#: main-modules.php:2918 main-modules.php:3992 main-modules.php:4527
+#: main-modules.php:5766 main-modules.php:6792 main-modules.php:7088
+#: main-modules.php:8165 main-modules.php:8743 main-modules.php:9080
+#: main-modules.php:9679 main-modules.php:11715 main-modules.php:11878
+#: main-modules.php:13262 main-modules.php:14179 main-modules.php:14325
+#: main-modules.php:15307 main-modules.php:16350 main-modules.php:16735
+#: main-modules.php:18877 main-modules.php:19229 main-modules.php:19552
+#: main-modules.php:20622 main-modules.php:21364 main-modules.php:21506
+#: main-modules.php:22680
+msgid "Content"
+msgstr "컨텐츠"
+
+#: class-et-builder-element.php:3832 frontend-builder/helpers.php:765
+#: frontend-builder/helpers.php:859
+msgid "Design"
+msgstr "디자인"
+
+#: class-et-builder-element.php:3833 frontend-builder/helpers.php:766
+msgid "Advanced"
+msgstr "고급"
+
+#: class-et-builder-element.php:4047
+msgid "You don't have sufficient permissions to access the settings"
+msgstr "여러분 밑천 없는 충분한 권한 액세스 설정"
+
+#: class-et-builder-element.php:4073 main-modules.php:2920
+#: main-modules.php:11718 main-modules.php:12696
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "여기에서는 현재 탭 내에 표시될 콘텐츠를 정의할 수 있습니다."
+
+#: class-et-builder-element.php:4086
+msgid "Add New %s"
+msgstr "새 %s 추가"
+
+#: class-et-builder-element.php:4098
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: class-et-builder-element.php:4218
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s 설정"
+
+#: class-et-builder-element.php:4220
+msgid "Item"
+msgstr "항목"
+
+#: class-et-builder-element.php:4220 frontend-builder/helpers.php:799
+#: functions.php:2050 functions.php:2343 functions.php:2643
+msgid "Module"
+msgstr "모듈"
+
+#: class-et-builder-element.php:6641
+msgid "Gradient"
+msgstr "그래디언트"
+
+#: class-et-builder-element.php:6642 main-modules.php:4 main-modules.php:51
+#: main-modules.php:2302 main-modules.php:5600 main-modules.php:7524
+#: main-modules.php:13786 main-modules.php:15353 main-modules.php:18837
+#: main-modules.php:21613
+msgid "Image"
+msgstr "이미지"
+
+#: class-et-builder-element.php:6643 main-modules.php:1073
+#: main-modules.php:1090 main-modules.php:1339 main-modules.php:1562
+#: main-modules.php:1582
+msgid "Video"
+msgstr "동영상"
+
+#: class-et-builder-element.php:6788
+msgid "Background Gradient"
+msgstr "배경 그래디언트"
+
+#: class-et-builder-element.php:6789 class-et-builder-element.php:6983
+#: class-et-builder-element.php:7086 class-et-builder-settings.php:50
+#: class-et-builder-settings.php:106 class-et-builder-settings.php:156
+#: class-et-builder-settings.php:171 class-et-builder-settings.php:435
+#: functions.php:4625 main-modules.php:204 main-modules.php:776
+#: main-modules.php:3141 main-modules.php:3167 main-modules.php:4890
+#: main-modules.php:4916 main-modules.php:10398 main-modules.php:11010
+#: main-modules.php:11262 main-modules.php:14347 main-modules.php:14442
+#: main-modules.php:14518 main-modules.php:16149 main-modules.php:16161
+#: main-modules.php:16505 main-modules.php:20227 main-modules.php:20253
+#: main-modules.php:20797 main-modules.php:21225 main-modules.php:21237
+#: main-modules.php:21732 main-modules.php:23179 main-modules.php:23205
+msgid "On"
+msgstr "켜기"
+
+#: class-et-builder-element.php:6790 class-et-builder-element.php:6984
+#: class-et-builder-element.php:7087 class-et-builder-settings.php:51
+#: class-et-builder-settings.php:107 class-et-builder-settings.php:157
+#: class-et-builder-settings.php:172 class-et-builder-settings.php:436
+#: functions.php:4624 main-modules.php:203 main-modules.php:775
+#: main-modules.php:3140 main-modules.php:3166 main-modules.php:4889
+#: main-modules.php:4915 main-modules.php:10399 main-modules.php:11011
+#: main-modules.php:11263 main-modules.php:14346 main-modules.php:14441
+#: main-modules.php:14517 main-modules.php:16150 main-modules.php:16162
+#: main-modules.php:16504 main-modules.php:20226 main-modules.php:20252
+#: main-modules.php:20796 main-modules.php:21226 main-modules.php:21238
+#: main-modules.php:21731 main-modules.php:23178 main-modules.php:23204
+msgid "Off"
+msgstr "끄기"
+
+#: class-et-builder-element.php:7118 class-et-builder-element.php:7201
+#: class-et-builder-element.php:7277 class-et-builder-element.php:7332
+#: functions.php:2640 main-structure-elements.php:4068
+msgid "Column"
+msgstr "열"
+
+#: class-et-builder-element.php:7202
+msgid "Padding"
+msgstr "내부여백"
+
+#: class-et-builder-element.php:7333 main-modules.php:344 main-modules.php:845
+#: main-modules.php:1189 main-modules.php:1471 main-modules.php:1966
+#: main-modules.php:2463 main-modules.php:2735 main-modules.php:3348
+#: main-modules.php:5032 main-modules.php:5840 main-modules.php:6350
+#: main-modules.php:7139 main-modules.php:7413 main-modules.php:7692
+#: main-modules.php:8242 main-modules.php:8820 main-modules.php:9279
+#: main-modules.php:9927 main-modules.php:10479 main-modules.php:11075
+#: main-modules.php:11306 main-modules.php:11527 main-modules.php:11938
+#: main-modules.php:12294 main-modules.php:13373 main-modules.php:13657
+#: main-modules.php:13984 main-modules.php:14548 main-modules.php:15514
+#: main-modules.php:15929 main-modules.php:16213 main-modules.php:16531
+#: main-modules.php:17283 main-modules.php:17796 main-modules.php:18226
+#: main-modules.php:18557 main-modules.php:19256 main-modules.php:19780
+#: main-modules.php:20434 main-modules.php:20861 main-modules.php:21265
+#: main-modules.php:21416 main-modules.php:21534 main-modules.php:21811
+#: main-modules.php:22332 main-modules.php:23311
+#: main-structure-elements.php:858 main-structure-elements.php:2371
+#: main-structure-elements.php:3445
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: class-et-builder-element.php:7334 main-modules.php:352 main-modules.php:853
+#: main-modules.php:1197 main-modules.php:1479 main-modules.php:1974
+#: main-modules.php:2471 main-modules.php:2743 main-modules.php:3356
+#: main-modules.php:5040 main-modules.php:5848 main-modules.php:6358
+#: main-modules.php:7147 main-modules.php:7421 main-modules.php:7700
+#: main-modules.php:8250 main-modules.php:8828 main-modules.php:9287
+#: main-modules.php:9935 main-modules.php:10487 main-modules.php:11083
+#: main-modules.php:11314 main-modules.php:11535 main-modules.php:11946
+#: main-modules.php:12302 main-modules.php:13381 main-modules.php:13665
+#: main-modules.php:13992 main-modules.php:14556 main-modules.php:15522
+#: main-modules.php:15937 main-modules.php:16221 main-modules.php:16539
+#: main-modules.php:17291 main-modules.php:17804 main-modules.php:18234
+#: main-modules.php:18565 main-modules.php:19264 main-modules.php:19788
+#: main-modules.php:20442 main-modules.php:20869 main-modules.php:21273
+#: main-modules.php:21424 main-modules.php:21542 main-modules.php:21819
+#: main-modules.php:22340 main-modules.php:23319
+#: main-structure-elements.php:866 main-structure-elements.php:2379
+#: main-structure-elements.php:3453
+msgid "CSS Class"
+msgstr "CSS 클래스"
+
+#: class-et-builder-settings.php:54
+msgid "Enable Split Testing"
+msgstr "스플릿 테스트 활성화"
+
+#: class-et-builder-settings.php:69
+msgid "Bounce Rate Limit"
+msgstr "반송율 제한"
+
+#: class-et-builder-settings.php:89
+msgid "Stats refresh interval"
+msgstr "통계수치 리프레시 주기"
+
+#: class-et-builder-settings.php:93
+msgid "Hourly"
+msgstr "매시간"
+
+#: class-et-builder-settings.php:94
+msgid "Daily"
+msgstr "매일"
+
+#: class-et-builder-settings.php:110
+msgid "Shortcode Tracking"
+msgstr "단축코드(Shortcode) 트렉킹"
+
+#: class-et-builder-settings.php:125
+msgid "Shortcode for Tracking:"
+msgstr "트렉킹을 위한 단축코드:"
+
+#: class-et-builder-settings.php:153
+msgid "Output Styles Inline"
+msgstr "인라인으로 스타일 내보내기"
+
+#: class-et-builder-settings.php:154
+msgid ""
+"With previous versions of the builder, css styles for the modules' design "
+"settings were output inline in the footer. Enable this option to restore "
+"that behavior."
+msgstr ""
+"본 프로그램의 기존 버전에서는 모듈 디자인 설정에 대한 CSS 스타일이 푸터에 인"
+"라인으로 출력되었습니다. 이 옵션을 활성화하면 기존 방식대로 복원합니다."
+
+#: class-et-builder-settings.php:168 class-et-builder-settings.php:763
+msgid "Product Tour"
+msgstr "상품 가이드"
+
+#: class-et-builder-settings.php:169
+msgid ""
+"If enabled Product Tour will be started automatically when Visual Builder "
+"launched for the first time"
+msgstr ""
+"활성화된 경우 처음으로 비주얼 빌더가 실행되었을 때 자동으로 상품 안내를 시작"
+"합니다"
+
+#: class-et-builder-settings.php:263
+msgid "Color Picker Color Pallete"
+msgstr "컬러 픽커 컬러 팔레트"
+
+#: class-et-builder-settings.php:272 main-structure-elements.php:412
+#: main-structure-elements.php:1751 main-structure-elements.php:3189
+msgid "Gutter Width"
+msgstr "사용자정의 간격"
+
+#: class-et-builder-settings.php:287
+msgid "Light Text Color"
+msgstr "옅은 글자색"
+
+#: class-et-builder-settings.php:295
+msgid "Dark Text Color"
+msgstr "진한 글자색"
+
+#: class-et-builder-settings.php:303
+msgid "Content Area Background Color"
+msgstr "내용 영역 배경색"
+
+#: class-et-builder-settings.php:311
+msgid "Section Background Color"
+msgstr "섹션 배경색"
+
+#: class-et-builder-settings.php:424
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for this page "
+"will be cached and served as a static file. Enabling this option can help "
+"improve performance."
+msgstr ""
+"이 옵션이 활성화된 경우, 이 페이지에 대한 빌더의 인라인 CSS 스타일이 캐시되"
+"어 정적 파일로 제공됩니다. 이 옵션을 활성화시키면 성능 향상에 도움이 될 수 있"
+"습니다."
+
+#: class-et-builder-settings.php:425
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for all pages "
+"will be cached and served as static files. Enabling this option can help "
+"improve performance."
+msgstr ""
+"이 옵션이 활성화된 경우, 모든 페이지에 대한 빌더의 인라인 CSS 스타일이 캐시되"
+"어 정적 파일로 제공됩니다. 이 옵션을 활성화시키면 성능 향상에 도움이 될 수 있"
+"습니다."
+
+#: class-et-builder-settings.php:432
+msgid "Static CSS File Generation"
+msgstr "정적 CSS 파일 생성"
+
+#: class-et-builder-settings.php:612
+msgid "Main"
+msgstr "메인"
+
+#: class-et-builder-settings.php:760
+msgid "Color Palette"
+msgstr "색상 팔레트"
+
+#: class-et-builder-settings.php:762
+msgid "Performance"
+msgstr "성능"
+
+#: class-et-builder-settings.php:765 functions.php:2647 functions.php:5544
+msgid "Split Testing"
+msgstr "스플릿 테스트"
+
+#: comments_template.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"이 포스트는 암호로 보호 되어 있습니다. 코멘트를 보려면 암호를 입력하세요."
+
+#: comments_template.php:12
+msgid "0 Comments"
+msgstr "0개의 댓글"
+
+#: comments_template.php:12 functions.php:576 functions.php:2702
+msgid "1 Comment"
+msgstr "코멘트 1개"
+
+#: comments_template.php:12 main-modules.php:17977
+msgid "Comments"
+msgstr "댓글"
+
+#: comments_template.php:16 comments_template.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 오래된 댓글"
+
+#: comments_template.php:17 comments_template.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "새로운 댓글 <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments_template.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr "트랙백/핑백"
+
+#: comments_template.php:54 main-modules.php:18283
+msgid "Submit Comment"
+msgstr "코멘트 제출"
+
+#: comments_template.php:54
+msgid "Submit a Comment"
+msgstr "댓글 제출"
+
+#: comments_template.php:54
+msgid "Leave a Reply to %s"
+msgstr "%s님에게 답장 남기기"
+
+#: core.php:37
+msgid "Add New Layout"
+msgstr "새로운 레이아웃 추가"
+
+#: core.php:38 functions.php:5640
+msgid "Edit Layout"
+msgstr "레이아웃 편집"
+
+#: core.php:39
+msgid "New Layout"
+msgstr "새로운 레이아웃"
+
+#: core.php:40 functions.php:106
+msgid "All Layouts"
+msgstr "모든 레이아웃"
+
+#: core.php:41
+msgid "View Layout"
+msgstr "레이아웃 보기"
+
+#: core.php:42
+msgid "Search Layouts"
+msgstr "레이아웃 검색"
+
+#: core.php:43 core.php:1883
+msgid "Nothing found"
+msgstr "아무 것도 찾지 못했습니다"
+
+#: core.php:44 core.php:1884
+msgid "Nothing found in Trash"
+msgstr "휴지통에서 아무 것도 찾지 못했습니다"
+
+#: core.php:79
+msgid "Scope"
+msgstr "범위"
+
+#: core.php:92
+msgid "Layout Type"
+msgstr "레이아웃 방식"
+
+#: core.php:105
+msgid "Module Width"
+msgstr "모듈 너비"
+
+#: core.php:118
+msgid "Category"
+msgstr "카테고리"
+
+#: core.php:211
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> 위젯 영역이 만들어졌습니다. 영역을 더 생성할 수 있으며 "
+"끝난 후에는 페이지를 업데이트하여 전체 영역을 보세요."
+
+#: core.php:345
+msgid "Administrator"
+msgstr "관리자"
+
+#: core.php:346
+msgid "Editor"
+msgstr "Editor"
+
+#: core.php:347
+msgid "Author"
+msgstr "저작자"
+
+#: core.php:348
+msgid "Contributor"
+msgstr "째"
+
+#: core.php:397
+msgid "Replace the existing content with loaded layout"
+msgstr "새로운 레이아웃을 사용하여 기존 내용 바꾸기"
+
+#: core.php:451
+msgid "Load"
+msgstr "로드"
+
+#: core.php:454 functions.php:1948 functions.php:3912
+msgid "Delete"
+msgstr "삭제"
+
+#: core.php:486 core.php:3594 functions.php:6328
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"당신의 Divi 라이브러리에 아이템을 저장하지 않으셨습니다. 아이템이 당신의 라이"
+"브러리에 저장되면 쉽게 사용할 수 있도록 여기에 나타납니다."
+
+#: core.php:1234 core.php:1387
+msgid "Error while saving."
+msgstr "저장하는 동안 오류가 발생했습니다."
+
+#: core.php:1241
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "죄송하지만, 이 항목을 편집할 수 있는 권한이 없습니다."
+
+#: core.php:1373 core.php:1406
+msgid "Not saved, editor out of focus"
+msgstr "저장되지 않음, 편집기가 포커스를 벗어남"
+
+#: core.php:1381 core.php:1423
+msgid "Builder settings synced"
+msgstr "빌더 설정 동기화됨"
+
+#. translators: draft saved date format, see https:secure.php.net/date
+#: core.php:1390
+msgid "g:i:s a"
+msgstr ""
+
+#. translators: %s: date and time
+#: core.php:1392
+msgid "Draft saved at %s."
+msgstr "%s에 초안이 저장되었습니다."
+
+#: core.php:1567 core.php:1640
+msgid "Error: "
+msgstr "오류: "
+
+#: core.php:1775
+msgid "Please enter first name"
+msgstr "를 입력해 주세요 첫번째 이름"
+
+#: core.php:1779
+msgid "Incorrect email"
+msgstr "잘못된 이메일"
+
+#: core.php:1783
+msgid "Configuration error: List is not defined"
+msgstr "Configuration error:목록 정의하지 않는 경우"
+
+#: core.php:1795
+msgid "Subscribed - look for the confirmation email!"
+msgstr "등록되었습니다 - 확인 이메일을 확인하세요!"
+
+#: core.php:1799
+msgid "Subscription Error: "
+msgstr "구독 오류: "
+
+#: core.php:1874
+msgid "Projects"
+msgstr "프로젝트"
+
+#: core.php:1875
+msgid "Project"
+msgstr "프로젝트"
+
+#: core.php:1876
+msgid "Add New"
+msgstr "새로운 항목 추가"
+
+#: core.php:1877
+msgid "Add New Project"
+msgstr "추가 새로운 프로젝트"
+
+#: core.php:1878
+msgid "Edit Project"
+msgstr "Edit 프로젝트"
+
+#: core.php:1879
+msgid "New Project"
+msgstr "새로운 프로젝트"
+
+#: core.php:1880
+msgid "All Projects"
+msgstr "모든 프로젝트"
+
+#: core.php:1881
+msgid "View Project"
+msgstr "프로젝트 전망"
+
+#: core.php:1882
+msgid "Search Projects"
+msgstr "프로젝트 검색"
+
+#: core.php:1911
+msgid "Project Categories"
+msgstr "프로젝트 종류"
+
+#: core.php:1912
+msgid "Project Category"
+msgstr "프로젝트 종류"
+
+#: core.php:1913
+msgid "Search Categories"
+msgstr "검색 카테고리"
+
+#: core.php:1914 frontend-builder/helpers.php:854 functions.php:97
+#: functions.php:2352
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+#: core.php:1915
+msgid "Parent Category"
+msgstr "부모는 종류"
+
+#: core.php:1916
+msgid "Parent Category:"
+msgstr "모 Category:"
+
+#: core.php:1917
+msgid "Edit Category"
+msgstr "범주 편집"
+
+#: core.php:1918
+msgid "Update Category"
+msgstr "카테고리 업데이트"
+
+#: core.php:1919
+msgid "Add New Category"
+msgstr "추가하는 새로운 카테고리"
+
+#: core.php:1920
+msgid "New Category Name"
+msgstr "새로운 카테고 이름"
+
+#: core.php:1921 main-modules.php:18396
+msgid "Categories"
+msgstr "카테고리"
+
+#: core.php:1933
+msgid "Project Tags"
+msgstr "프로젝트 Tags"
+
+#: core.php:1934
+msgid "Project Tag"
+msgstr "프로젝트 태그"
+
+#: core.php:1935
+msgid "Search Tags"
+msgstr "검색 Tags"
+
+#: core.php:1936
+msgid "All Tags"
+msgstr "모든 Tags"
+
+#: core.php:1937
+msgid "Parent Tag"
+msgstr "모 태그"
+
+#: core.php:1938
+msgid "Parent Tag:"
+msgstr "모 Tag:"
+
+#: core.php:1939
+msgid "Edit Tag"
+msgstr "태그 편집"
+
+#: core.php:1940
+msgid "Update Tag"
+msgstr "업데이트 태그"
+
+#: core.php:1941
+msgid "Add New Tag"
+msgstr "추가 새로운 태그"
+
+#: core.php:1942
+msgid "New Tag Name"
+msgstr "뉴 태그 이름"
+
+#: core.php:1943
+msgid "Tags"
+msgstr "태그"
+
+#: core.php:2034
+msgid ""
+"You are using the %1$s plugin. We recommend clearing the plugin cache after "
+"updating your theme."
+msgstr ""
+"%1$s 플러그 인을 사용하고 계십니다. 테마를 업데이트 하신 후 플러그 인 캐시를 "
+"제거하시기 바랍니다."
+
+#: core.php:2043
+msgid "Clear Plugin Cache"
+msgstr "플러그 인 캐시 제거"
+
+#: core.php:2047
+msgid ""
+"Builder files may also be cached in your browser. Please clear your browser "
+"cache."
+msgstr ""
+"빌더 파일도 당신의 브라우저에 캐시될 수 있습니다. 브라우저 캐시를 제거해 주세"
+"요."
+
+#: core.php:2051
+msgid "Clear Browser Cache"
+msgstr "브라우저 캐시 제거"
+
+#: core.php:2075
+msgid "Builder Cache Warning"
+msgstr "빌더 캐시 경고"
+
+#: core.php:2076
+msgid ""
+"The Divi Builder has been updated, however your browser is loading an old "
+"cached version of the builder. Loading old files can cause the builder to "
+"malfunction."
+msgstr ""
+"Divi 빌더가 업데이트 되었습니다. 하지만 당신의 브라우저가 옛 버전의 빌더 캐시"
+"를 로딩하고 있습니다. 옛 버전의 파일을 로딩하면 빌더에 나쁜 영향을 줄 수 있습"
+"니다."
+
+#: core.php:2077 core.php:2131
+msgid "Reload The Builder"
+msgstr "빌더 재로드"
+
+#: core.php:2080
+msgid ""
+"If you have cleared your plugin cache and browser cache, but still get this "
+"warning, then your files may be cached at the DNS or Server level. Contact "
+"your host or CDN for assistance."
+msgstr ""
+"플러그인 캐시와 브라우저 캐시를 모두 지우고 난 후에도 경고가 계속되면, DNS나 "
+"서버 수준에서 당신의 파일들이 캐시되어 있을 수 있습니다. 호스트나 CDN에게 도"
+"움을 요청하세요."
+
+#: core.php:2129
+msgid "Divi Builder Timeout"
+msgstr "Divi 빌더 중단"
+
+#: core.php:2132
+msgid ""
+"Oops, it looks like the Divi Builder failed to load. Performing the "
+"following actions may help solve the problem."
+msgstr ""
+"Divi 빌더가 로드하지 못한 것 같습니다. 다음 작업을 수행하면 이 문제를 해결하"
+"는 데 도움이 될 수 있습니다."
+
+#: core.php:2161
+msgid "You Have Unsaved Changes"
+msgstr "저장되지 않은 변경 내용이 있습니다."
+
+#: core.php:2162
+msgid ""
+"Your page contains changes that have not been saved. If you close the "
+"builder without saving, these changes will be lost. If you would like to "
+"leave the builder and save all changes, please select <strong>Save & Exit</"
+"strong>. If you would like to discard all recent changes, choose "
+"<strong>Discard & Exit</strong>."
+msgstr ""
+"페이지에 저장되지 않은 변경 내용이 있습니다. 저장하지 않고 빌더를 닫으면, 이 "
+"변경 내용은 손실됩니다. 이 빌더를 닫으면서 모든 변경 내용을 저장하고 싶으시다"
+"면, <strong>저장 후 종료</strong>를 선택해 주세요. 최근의 변경 내용을 모두 취"
+"소하고 싶은 경우에는 <strong>취소 후 종료</strong>를 선택하세요."
+
+#: core.php:2163
+msgid "Discard & Exit"
+msgstr "취소 후 종료"
+
+#: core.php:2164 functions.php:3687
+msgid "Save & Exit"
+msgstr "저장 및 나가기"
+
+#: core.php:2191
+msgid "A Browser Backup Exists"
+msgstr "브라우저 백업이 존재합니다."
+
+#: core.php:2192
+msgid ""
+"A browser backup exists for this post that is newer than  the version you "
+"are currently viewing. This backup was captured during your previous editing "
+"session, but you never saved it. Would you like to restore this backup and "
+"continue editing where you left off?"
+msgstr ""
+"이 게시물에 대해 현재 보고 계신 버전보다 더 최근 버전인 브라우저 백업이 존재"
+"합니다. 이 백업은 이전 편집 세션 동안 캡처되었지만 고객님께서 저장하지 않으셨"
+"습니다. 이 백업을 복원하고 중단한 지점부터 편집을 계속하시겠습니까?"
+
+#: core.php:2193 core.php:2222
+msgid "Don't Restore"
+msgstr "복원하지 않습니다"
+
+#: core.php:2194 core.php:2223
+msgid "Restore"
+msgstr "복원합니다"
+
+#: core.php:2220
+msgid "An Autosave Exists"
+msgstr "자동 저장된 파일이 존재합니다."
+
+#: core.php:2221
+msgid ""
+"A recent autosave exists for this post that is newer than the version you "
+"are currently viewing. This autosave was captured during your previous "
+"editing session, but you never saved it. Would you like to restore this "
+"autosave and continue editing where you left off?"
+msgstr ""
+"이 게시물에 대해 현재 보고 계신 버전보다 더 최근 버전인 자동 저장본이 존재합"
+"니다. 이 자동 저장본은 이전 편집 세션 동안 캡처되었지만 고객님께서 저장하지 "
+"않으셨습니다. 이 자동 저장본을 복원하고 중단한 지점부터 편집을 계속하시겠습니"
+"까?"
+
+#: core.php:2251
+msgid "Your Save Has Failed"
+msgstr "저장하지 못했습니다."
+
+#: core.php:2252
+msgid ""
+"An error has occurred while saving your page. Various problems can cause a "
+"save to fail, such as a lack of server resources, firewall blockages, plugin "
+"conflicts or server misconfiguration. You can try saving again by clicking "
+"Try Again, or you can download a backup of your unsaved page by clicking "
+"Download Backup. Backups can be restored using the portability system while "
+"next editing your page."
+msgstr ""
+"페이지를 저장하는 동안 오류가 발생했습니다. 서버 자원 부족, 방화벽 차단, 플러"
+"그인 충돌, 잘못된 서버 구성 등 다양한 문제가 저장 실패를 초래할 수 있습니다. "
+"다시 시도를 클릭해 저장을 다시 시도하거나, 백업 다운로드를 클릭해 저장되지 않"
+"는 페이지의 백업 파일을 다운로드할 수 있습니다. 백업 파일은 향후 페이지 편집 "
+"시 포터빌리티 시스템을 사용해 복원할 수 있습니다."
+
+#: core.php:2253
+msgid ""
+"Contacting your host and asking them to increase the following PHP variables "
+"may help: memory_limit, max_execution_time, upload_max_filesize, "
+"post_max_size, max_input_time, max_input_vars. In addition, auditing your "
+"firewall error log (such as ModSecurity) may reveal false positives that are "
+"preventing saves from completing."
+msgstr ""
+"호스트에 요청해 다음 PHP 변수를 증가시키는 것이 도움이 될 수도 있습니다: "
+"memory_limit, max_execution_time, upload_max_filesize, post_max_size, "
+"max_input_time, max_input_vars. 또한, 방화벽 오류 로그(ModSecurity 등)를 감사"
+"하는 것도 저장을 방해하는 오탐 원인을 밝히는 데 도움이 될 수 있습니다."
+
+#: core.php:2254
+msgid ""
+"Lastly, it is recommended that you temporarily disable all WordPress plugins "
+"and browser extensions and try to save again to determine if something is "
+"causing a conflict."
+msgstr ""
+"마지막으로, 모든 WordPress 플러그인 및 브라우저 확장 기능을 일시적으로 비활성"
+"화한 후, 다시 저장을 시도해 충돌을 일으키는 원인이 있는지 밝히는 방법도 권장"
+"해 드립니다."
+
+#: core.php:2255
+msgid "Try Again"
+msgstr "다시 시도"
+
+#: core.php:2256
+msgid "Download Backup"
+msgstr "백업 다운로드"
+
+#: core.php:2275
+msgid "You have WP_DEBUG enabled. Please disable this setting in wp-config.php"
+msgstr "WP_DEBUG를 켰습니다. wp-config.php에서 이 설정을 꺼주세요."
+
+#: core.php:2276
+msgid "Disable Debug Mode"
+msgstr "디버그 모드 해제"
+
+#: core.php:2308
+msgid ""
+"You are using third party plugins. Try disabling each plugin to see if one "
+"is causing a conflict."
+msgstr ""
+"제3자가 공급한 플러그인을 사용하고 있습니다. 서로 충돌하지 않는지 각각의 플러"
+"그인을 꺼주세요."
+
+#: core.php:2309
+msgid "Manage Your Plugins"
+msgstr "플러그인 관리"
+
+#: core.php:2323
+msgid "You are using an outdated version of WordPress. Please upgrade."
+msgstr "옛 버전의 WordPress를 사용하고 있습니다. 업그레이드 해 주세요."
+
+#: core.php:2324
+msgid "Upgrade WordPress"
+msgstr "WordPress 업그레이드"
+
+#: core.php:2342
+msgid ""
+"Please increase your PHP Memory Limit to 128M. You can return the value to "
+"default via the Divi Theme Options in the future"
+msgstr ""
+"PHP 메모리 용량을 128M 로 늘려주세요. 나중에라도 Divi 테마 옵션을 통해서 기본"
+"값으로 복구할 수 있습니다."
+
+#: core.php:2343
+msgid "Increase Your Memory Limit Now"
+msgstr "지금 메모리 용량을 늘리세요"
+
+#: core.php:2366
+msgid ""
+"You are using an outdated version of the theme. The latest version is %1$s"
+msgstr "옛 버전의 테마를 사용하고 있습니다. 최신 버전은 %1$s 입니다."
+
+#: core.php:2369
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#: core.php:2467
+msgid "Disable Memory Limit Increase"
+msgstr "메모리 용량 증가 금지"
+
+#: core.php:2784
+msgid "Divi Role Editor Settings"
+msgstr "Divi 롤 편집기 설정"
+
+#: core.php:2792 frontend-builder/assets.php:67
+msgid "Divi Builder Layout"
+msgstr "Divi 빌더 레이아웃"
+
+#: core.php:2799
+msgid "Divi Builder Layouts"
+msgstr "Divi 빌더 레이아웃들"
+
+#: core.php:3716
+msgid "This is not a valid excuse to not escape the passed value."
+msgstr "이것은 전달된 값을 이스케이프하지 않는 정당한 이유가 아닙니다."
+
+#: core.php:3746
+msgid "This is not a valid excuse to not sanitize the passed value."
+msgstr "이것은 전달된 값을 삭제하지 않는 정당한 이유가 아닙니다."
+
+#: framework.php:98
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr "시기 바랍 확인분야는 아래하가 입력한 정확한 정보입니다."
+
+#: framework.php:100
+msgid "Please, fill in the following fields:"
+msgstr "다음 필드에 기입하십시오 :"
+
+#: framework.php:101
+msgid "Please, fix the following errors:"
+msgstr "다음 오류를 수정하세요:"
+
+#: framework.php:102
+msgid "Invalid email"
+msgstr "잘못된 이메일"
+
+#: framework.php:103
+msgid "Captcha"
+msgstr "캡차"
+
+#: framework.php:104
+msgid "Prev"
+msgstr "이전"
+
+#: framework.php:105
+msgid "Previous"
+msgstr "이전"
+
+#: framework.php:106
+msgid "Next"
+msgstr "다음"
+
+#: framework.php:107
+msgid "You entered the wrong number in captcha."
+msgstr "캡차에 잘못된 수를 입력했습니다."
+
+#: framework.php:153
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr "권한 있습니다. 미리보기할 수 없는 접근 외부%1$s 습니다."
+
+#: frontend-builder/assets.php:97 frontend-builder/helpers.php:750
+msgid "Clear"
+msgstr "지우기"
+
+#: frontend-builder/assets.php:99
+msgid "Select Color"
+msgstr "색 선택"
+
+#: frontend-builder/assets.php:100
+msgid "Current Color"
+msgstr "현재 색"
+
+#: frontend-builder/assets.php:155 functions.php:2380
+msgid "Your memory limit has been increased"
+msgstr "메모리 용량이 증가했습니다."
+
+#: frontend-builder/assets.php:156 functions.php:2381
+msgid "Your memory limit can't be changed automatically"
+msgstr "메모리 용량을 자동으로 변경할 수 없습니다."
+
+#: frontend-builder/helpers.php:179
+msgid "Backup of %s"
+msgstr "%s의 백업"
+
+#: frontend-builder/helpers.php:229
+msgid "Column %s Background Image"
+msgstr "단 %s 배경 이미지"
+
+#: frontend-builder/helpers.php:235 main-modules.php:3707
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"정의되면, 이 이미지는 이 모듈의 배경으로 사용될 것입니다. 배경 이미지를 삭제"
+"하려면, 설정 필드에서 URL을 삭제하세요."
+
+#: frontend-builder/helpers.php:241
+msgid "Column %s Background Color"
+msgstr "단 %s 배경 색"
+
+#: frontend-builder/helpers.php:249
+msgid "Column %s Parallax Effect"
+msgstr "단 %s 페럴렉스 효과"
+
+#: frontend-builder/helpers.php:264 main-modules.php:17120
+#: main-modules.php:22169
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr "여기에서 포함된 이미지에 대한 시차효과의 사용여부를 선택할 수 있습니다"
+
+#: frontend-builder/helpers.php:270
+msgid "Column %s Parallax Method"
+msgstr "단 %s 페럴렉스 방법"
+
+#: frontend-builder/helpers.php:281 main-modules.php:17133
+#: main-modules.php:22182
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr "여기에서 포함된 이미지에 대한 시차방법을 선택할 수 있습니다"
+
+#: frontend-builder/helpers.php:287
+msgid "Column %s Background Image Size"
+msgstr "열 %s 배경 이미지 크기"
+
+#: frontend-builder/helpers.php:303
+msgid "Column %s Background Image Position"
+msgstr "열 %s 배경 이미지 위치"
+
+#: frontend-builder/helpers.php:325
+msgid "Column %s Background Image Repeat"
+msgstr "열 %s 배경 이미지 반복"
+
+#: frontend-builder/helpers.php:344
+msgid "Column %s Background Image Blend"
+msgstr "열 %s 배경 이미지 혼합"
+
+#: frontend-builder/helpers.php:373
+msgid "Column %s Use Background Color Gradient"
+msgstr "열 %s 배경색 그래디언트 사용"
+
+#: frontend-builder/helpers.php:394
+msgid "Column %s Gradient Start"
+msgstr "열 %s 그래디언트 시작"
+
+#: frontend-builder/helpers.php:408
+msgid "Column %s Gradient End"
+msgstr "열 %s 그래디언트 끝"
+
+#: frontend-builder/helpers.php:422
+msgid "Column %s Gradient Type"
+msgstr "열 %s 그래디언트 종류"
+
+#: frontend-builder/helpers.php:444
+msgid "Column %s Gradient Direction"
+msgstr "열 %s 그래디언트 방향"
+
+#: frontend-builder/helpers.php:465
+msgid "Column %s Radial Direction"
+msgstr "열 %s 방사형 방향"
+
+#: frontend-builder/helpers.php:490
+msgid "Column %s Start Position"
+msgstr "열 %s 시작 위치"
+
+#: frontend-builder/helpers.php:511
+msgid "Column %s End Position"
+msgstr "열 %s 끝 위치"
+
+#: frontend-builder/helpers.php:532
+msgid "Column %s Background Video MP4"
+msgstr "열 %s 배경 비디오 MP4"
+
+#: frontend-builder/helpers.php:544
+msgid "Column %s Background Video Webm"
+msgstr "열 %s 배경 비디오 Webm"
+
+#: frontend-builder/helpers.php:556
+msgid "Column %s Background Video Width"
+msgstr "열 %s 배경 비디오 너비"
+
+#: frontend-builder/helpers.php:563
+msgid "Column %s Background Video Height"
+msgstr "열 %s 배경 비디오 높이"
+
+#: frontend-builder/helpers.php:571
+msgid "Column %s Pause Video"
+msgstr "열 %s 비디오 일시 정지"
+
+#: frontend-builder/helpers.php:596
+msgid "Column %s Custom Padding"
+msgstr "단 %s 사용자 패딩"
+
+#: frontend-builder/helpers.php:600 main-structure-elements.php:277
+#: main-structure-elements.php:1771 main-structure-elements.php:3152
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"내부여백을 특정값으로 조절하거나 빈칸을 만들어 기본 내부여백을 사용하세요."
+
+#: frontend-builder/helpers.php:608
+msgid "Column %s CSS ID"
+msgstr "단 %s CSS 아이디"
+
+#: frontend-builder/helpers.php:617
+msgid "Column %s CSS Class"
+msgstr "단 %s CSS 클래스"
+
+#: frontend-builder/helpers.php:626
+msgid "Column %s before"
+msgstr "단 %s 앞"
+
+#: frontend-builder/helpers.php:634
+msgid "Column %s Main Element"
+msgstr "단 %s 주요 요소"
+
+#: frontend-builder/helpers.php:640
+msgid "Column %s After"
+msgstr "단 %s 뒤"
+
+#: frontend-builder/helpers.php:672
+msgid "Column %s Background"
+msgstr "열 %s 배경"
+
+#: frontend-builder/helpers.php:675 main-modules.php:12387
+msgid "Thanks for contacting us"
+msgstr "저희에게 연락 주셔서 감사합니다"
+
+#: frontend-builder/helpers.php:676 frontend-builder/helpers.php:727
+#: main-modules.php:7994 main-modules.php:12536
+msgid "Submit"
+msgstr "제출"
+
+#: frontend-builder/helpers.php:679 main-modules.php:13165
+msgid "No options added."
+msgstr "옵션이 추가되지 않았습니다."
+
+#: frontend-builder/helpers.php:680
+msgid "-- Please Select --"
+msgstr "-- 선택하세요 --"
+
+#: frontend-builder/helpers.php:683 main-modules.php:16017
+msgid "Day(s)"
+msgstr "일(s)"
+
+#: frontend-builder/helpers.php:684 main-modules.php:16024
+msgid "Day"
+msgstr "일"
+
+#: frontend-builder/helpers.php:685 main-modules.php:16018
+msgid "Hour(s)"
+msgstr "시간(s)"
+
+#: frontend-builder/helpers.php:686 main-modules.php:16019
+msgid "Hrs"
+msgstr "시간"
+
+#: frontend-builder/helpers.php:687 main-modules.php:16020
+msgid "Minute(s)"
+msgstr "분(s)"
+
+#: frontend-builder/helpers.php:688 main-modules.php:16021
+msgid "Min"
+msgstr "분"
+
+#: frontend-builder/helpers.php:689 main-modules.php:16022
+msgid "Second(s)"
+msgstr "둘째로(s)"
+
+#: frontend-builder/helpers.php:690 main-modules.php:16023
+msgid "Sec"
+msgstr "초"
+
+#: frontend-builder/helpers.php:693 functions.php:6382 main-modules.php:8418
+#: main-modules.php:12317
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: frontend-builder/helpers.php:694 main-modules.php:8416
+msgid "First Name"
+msgstr "이름"
+
+#: frontend-builder/helpers.php:695 main-modules.php:8417
+msgid "Last Name"
+msgstr "성"
+
+#: frontend-builder/helpers.php:696 functions.php:6381 main-modules.php:8493
+#: main-modules.php:12316 main-modules.php:13863
+msgid "Name"
+msgstr "이름"
+
+#: frontend-builder/helpers.php:697 main-modules.php:12097
+#: main-modules.php:12194
+msgid "Email"
+msgstr "이메일"
+
+#: frontend-builder/helpers.php:700 main-modules.php:10211
+#: main-modules.php:12785 main-modules.php:12839
+msgid "All"
+msgstr "모두"
+
+#: frontend-builder/helpers.php:703
+msgid "Login as %s"
+msgstr "%s 로 로그인 하기"
+
+#: frontend-builder/helpers.php:704 main-modules.php:8569 main-modules.php:8999
+msgid "Login"
+msgstr "로그인"
+
+#: frontend-builder/helpers.php:705 main-modules.php:8959
+msgid "Log out"
+msgstr "로그아웃"
+
+#: frontend-builder/helpers.php:706 main-modules.php:8992
+msgid "Forgot your password?"
+msgstr "암호를 잊으셨나요?"
+
+#: frontend-builder/helpers.php:707 main-modules.php:8971
+msgid "Username"
+msgstr "아이디"
+
+#: frontend-builder/helpers.php:708 main-modules.php:8972
+msgid "Password"
+msgstr "암호"
+
+#: frontend-builder/helpers.php:709
+msgid ""
+"Note: this field is used to disable browser autofill during the form editing "
+"in VB"
+msgstr ""
+"참고: 이 필드는 VB로 양식 편집 시, 브라우저 자동 채우기를 비활성화하는 데 사"
+"용됩니다."
+
+#: frontend-builder/helpers.php:712 frontend-builder/helpers.php:719
+msgid "by "
+msgstr "에 의해서 "
+
+#: frontend-builder/helpers.php:715 frontend-builder/helpers.php:826
+#: main-modules.php:17540 main-modules.php:17967
+msgid "Search"
+msgstr "검색"
+
+#: frontend-builder/helpers.php:716 main-modules.php:17966
+msgid "Search for:"
+msgstr "다음을 검색:"
+
+#: frontend-builder/helpers.php:722 main-modules.php:16837
+msgid "Follow"
+msgstr "팔로우"
+
+#: frontend-builder/helpers.php:725 frontend-builder/helpers.php:921
+#: functions.php:3239 functions.php:3933 functions.php:3988 functions.php:4134
+#: functions.php:4256 functions.php:6573
+msgid "Save"
+msgstr "저장"
+
+#: frontend-builder/helpers.php:726
+msgid "Save Draft"
+msgstr "초안 저장하기"
+
+#: frontend-builder/helpers.php:727 frontend-builder/helpers.php:922
+#: functions.php:6573
+msgid "Publish"
+msgstr "발행하기"
+
+#: frontend-builder/helpers.php:730
+msgid "Visual"
+msgstr "시각"
+
+#: frontend-builder/helpers.php:740
+msgid "Add Media"
+msgstr "미디어 추가하기"
+
+#: frontend-builder/helpers.php:741
+msgid "Insert Media"
+msgstr "미디어 끼워넣기"
+
+#: frontend-builder/helpers.php:751 functions.php:2385
+msgid "Select"
+msgstr "선택"
+
+#: frontend-builder/helpers.php:754 functions.php:440
+msgid "Update Gallery"
+msgstr "겔러리 업데이트"
+
+#: frontend-builder/helpers.php:757 main-modules.php:16120
+#: main-modules.php:16326 main-modules.php:21196
+msgid "Find"
+msgstr "찾기"
+
+#: frontend-builder/helpers.php:758 functions.php:2345
+msgid "Geocode was not successful for the following reason"
+msgstr "다음의 이유 때문에 지오코드가 성공적이지 못했습니다"
+
+#: frontend-builder/helpers.php:759 functions.php:2346
+msgid "Geocoder failed due to"
+msgstr "다음에 의해 지오코더에 오류 발생"
+
+#: frontend-builder/helpers.php:760 functions.php:2347
+msgid "No results found"
+msgstr "결과 없음"
+
+#: frontend-builder/helpers.php:761 functions.php:2360
+msgid "Invalid Pin and address data. Please try again."
+msgstr "잘못된 PIN 및 주소 데이터입니다. 다시 시도하세요."
+
+#: frontend-builder/helpers.php:769 main-modules.php:16105
+#: main-modules.php:21181
+msgid "Change API Key"
+msgstr "API 키 바꾸기"
+
+#: frontend-builder/helpers.php:770 main-modules.php:1148 main-modules.php:1643
+msgid "Generate From Video"
+msgstr "동영상으로부터 생성"
+
+#: frontend-builder/helpers.php:787 frontend-builder/helpers.php:932
+#: functions.php:3214 functions.php:3300 functions.php:3301 functions.php:6795
+#: functions.php:7119
+msgid "Undo"
+msgstr "취소"
+
+#: frontend-builder/helpers.php:788 frontend-builder/helpers.php:931
+#: functions.php:3215 functions.php:3292 functions.php:3293 functions.php:6803
+#: functions.php:7126
+msgid "Redo"
+msgstr "되돌리기"
+
+#: frontend-builder/helpers.php:789 functions.php:3131
+msgid "Lock"
+msgstr "잠금"
+
+#: frontend-builder/helpers.php:790 functions.php:3130
+msgid "Unlock"
+msgstr "잠금 해제"
+
+#: frontend-builder/helpers.php:791 functions.php:3100
+msgid "Copy"
+msgstr "증"
+
+#: frontend-builder/helpers.php:792 functions.php:3112 functions.php:3118
+msgid "Paste"
+msgstr "붙여넣기"
+
+#: frontend-builder/helpers.php:793
+msgid "Copy Style"
+msgstr "스타일 복사"
+
+#: frontend-builder/helpers.php:794
+msgid "Paste Style"
+msgstr "스타일 붙여넣기"
+
+#: frontend-builder/helpers.php:795 functions.php:3140
+msgid "Disable"
+msgstr "저작자"
+
+#: frontend-builder/helpers.php:796 functions.php:3139 main-modules.php:12819
+msgid "Enable"
+msgstr "할"
+
+#: frontend-builder/helpers.php:797 frontend-builder/helpers.php:853
+#: functions.php:3124 functions.php:3259 functions.php:3260
+msgid "Save to Library"
+msgstr "라이브러리에 저장"
+
+#: frontend-builder/helpers.php:800 functions.php:2052 functions.php:2641
+#: functions.php:6461 functions.php:6582 main-structure-elements.php:1379
+#: main-structure-elements.php:2912
+msgid "Row"
+msgstr "행"
+
+#: frontend-builder/helpers.php:801 functions.php:2053 functions.php:2636
+#: functions.php:6459 functions.php:6580 main-structure-elements.php:5
+msgid "Section"
+msgstr "절"
+
+#: frontend-builder/helpers.php:803 functions.php:3158
+msgid "Disable Global"
+msgstr "글로벌 사용방지"
+
+#: frontend-builder/helpers.php:806 functions.php:3826
+msgid "Insert Module"
+msgstr "모듈 삽입"
+
+#: frontend-builder/helpers.php:807 functions.php:3782
+msgid "Insert Columns"
+msgstr "열들 삽입"
+
+#: frontend-builder/helpers.php:808
+msgid "Insert Section"
+msgstr "섹션 끼워넣기"
+
+#: frontend-builder/helpers.php:809
+msgid "Insert Row"
+msgstr "줄 끼워넣기"
+
+#: frontend-builder/helpers.php:810 functions.php:3827
+msgid "New Module"
+msgstr "새 모듈"
+
+#: frontend-builder/helpers.php:811 functions.php:3784
+msgid "New Row"
+msgstr "새 행"
+
+#: frontend-builder/helpers.php:812
+msgid "New Section"
+msgstr "새로운 섹션"
+
+#: frontend-builder/helpers.php:813 functions.php:3445 functions.php:3754
+#: functions.php:3797 functions.php:3860 functions.php:5594
+msgid "Add From Library"
+msgstr "라이브러리에서 추가"
+
+#: frontend-builder/helpers.php:814
+msgid "Add to Library"
+msgstr "라이브러리에 추가하기"
+
+#: frontend-builder/helpers.php:815
+msgid "loading..."
+msgstr "로딩 중…"
+
+#: frontend-builder/helpers.php:816 functions.php:6498
+msgid "Regular"
+msgstr "일반"
+
+#: frontend-builder/helpers.php:817 functions.php:6500 main-modules.php:9150
+#: main-modules.php:9780 main-modules.php:14262
+msgid "Fullwidth"
+msgstr "꽉찬너비"
+
+#: frontend-builder/helpers.php:818 functions.php:6499
+msgid "Specialty"
+msgstr "특징"
+
+#: frontend-builder/helpers.php:819
+msgid "Choose Layout"
+msgstr "레이아웃 선택하기"
+
+#: frontend-builder/helpers.php:820 frontend-builder/helpers.php:912
+#: functions.php:3275 functions.php:3276 functions.php:3957
+msgid "Clear Layout"
+msgstr "레이아웃 클리어"
+
+#: frontend-builder/helpers.php:821
+msgid "All of your current page content will be lost. Do you wish to proceed?"
+msgstr "현재 페이지의 내용이 전부 삭제됩니다. 계속 진행 하시겠습니까?"
+
+#: frontend-builder/helpers.php:823 frontend-builder/helpers.php:910
+#: functions.php:3267 functions.php:3268
+msgid "Load From Library"
+msgstr "라이브러리에서 로딩"
+
+#: frontend-builder/helpers.php:824 functions.php:3859
+msgid "Predefined Layouts"
+msgstr "사전정의된 레이아웃"
+
+#: frontend-builder/helpers.php:825
+msgid "Replace existing content."
+msgstr "현재 내용으로 바꾸기"
+
+#: frontend-builder/helpers.php:827 frontend-builder/helpers.php:915
+#: functions.php:5662 functions.php:5666
+msgid "Portability"
+msgstr "이동성"
+
+#: frontend-builder/helpers.php:828
+msgid "Export"
+msgstr "내보내기"
+
+#: frontend-builder/helpers.php:829
+msgid "Import"
+msgstr "불러오기"
+
+#: frontend-builder/helpers.php:830
+msgid ""
+"Exporting your Divi Builder Layout will create a JSON file that can be "
+"imported into a different website."
+msgstr ""
+"사용자 Divi Builder 레이아웃을 내보내면 JSON 파일을 생성하게 되며 이는 다른 "
+"웹사이트에서 불러올 수 있습니다. "
+
+#: frontend-builder/helpers.php:831
+msgid "Export File Name"
+msgstr "내보내기 파일 이름"
+
+#: frontend-builder

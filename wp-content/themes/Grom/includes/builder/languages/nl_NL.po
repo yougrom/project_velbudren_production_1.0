@@ -1,0 +1,4116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2017-07-25 20:38:51+00:00\n"
+"PO-Revision-Date: 2017-07-28 23:03+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+"X-Poedit-SearchPathExcluded-1: ../frontend-builder/node_modules\n"
+
+#: class-et-builder-element.php:147 main-modules.php:338 main-modules.php:839
+#: main-modules.php:1183 main-modules.php:1465 main-modules.php:1584
+#: main-modules.php:1602 main-modules.php:1960 main-modules.php:2457
+#: main-modules.php:2729 main-modules.php:3342 main-modules.php:3578
+#: main-modules.php:4013 main-modules.php:5026 main-modules.php:5834
+#: main-modules.php:6344 main-modules.php:7133 main-modules.php:7407
+#: main-modules.php:7686 main-modules.php:8236 main-modules.php:8814
+#: main-modules.php:9273 main-modules.php:9921 main-modules.php:10473
+#: main-modules.php:11069 main-modules.php:11300 main-modules.php:11521
+#: main-modules.php:11932 main-modules.php:12288 main-modules.php:13367
+#: main-modules.php:13651 main-modules.php:13978 main-modules.php:14542
+#: main-modules.php:15508 main-modules.php:15923 main-modules.php:16207
+#: main-modules.php:16525 main-modules.php:17277 main-modules.php:17790
+#: main-modules.php:18220 main-modules.php:18551 main-modules.php:19250
+#: main-modules.php:19774 main-modules.php:20428 main-modules.php:20855
+#: main-modules.php:21259 main-modules.php:21410 main-modules.php:21528
+#: main-modules.php:21805 main-modules.php:22326 main-modules.php:23305
+#: main-structure-elements.php:852 main-structure-elements.php:2365
+#: main-structure-elements.php:3439
+msgid "Admin Label"
+msgstr "Admin Label"
+
+#: class-et-builder-element.php:154 main-modules.php:13541
+#: main-modules.php:13574
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: class-et-builder-element.php:1238 class-et-builder-settings.php:766
+#: frontend-builder/helpers.php:731 main-modules.php:561 main-modules.php:1817
+#: main-modules.php:1842 main-modules.php:1848 main-modules.php:1863
+#: main-modules.php:2103 main-modules.php:2112 main-modules.php:2853
+#: main-modules.php:3573 main-modules.php:3587 main-modules.php:4539
+#: main-modules.php:5599 main-modules.php:5610 main-modules.php:6582
+#: main-modules.php:6940 main-modules.php:6947 main-modules.php:7285
+#: main-modules.php:7293 main-modules.php:7522 main-modules.php:7530
+#: main-modules.php:7883 main-modules.php:7892 main-modules.php:8606
+#: main-modules.php:8615 main-modules.php:9089 main-modules.php:9688
+#: main-modules.php:10308 main-modules.php:10616 main-modules.php:10935
+#: main-modules.php:10944 main-modules.php:11180 main-modules.php:11187
+#: main-modules.php:11400 main-modules.php:11652 main-modules.php:11659
+#: main-modules.php:11790 main-modules.php:11798 main-modules.php:12096
+#: main-modules.php:12638 main-modules.php:13269 main-modules.php:13785
+#: main-modules.php:13793 main-modules.php:14189 main-modules.php:15782
+#: main-modules.php:15787 main-modules.php:16302 main-modules.php:16423
+#: main-modules.php:16926 main-modules.php:17574 main-modules.php:17584
+#: main-modules.php:18013 main-modules.php:18395 main-modules.php:18827
+#: main-modules.php:18839 main-modules.php:20632 main-modules.php:21343
+#: main-modules.php:21493 main-modules.php:21989 main-modules.php:22692
+msgid "Text"
+msgstr "Tekst"
+
+#: class-et-builder-element.php:1249 class-et-builder-element.php:2201
+msgid "%1$s Font"
+msgstr "%1$s Lettertype"
+
+#: class-et-builder-element.php:1269
+msgid "%1$s Font Size"
+msgstr "%1$s Tekengrootte"
+
+#: class-et-builder-element.php:1305 class-et-builder-element.php:1315
+#: class-et-builder-element.php:2131
+msgid "%1$s Text Color"
+msgstr "%1$s Tekstkleur"
+
+#: class-et-builder-element.php:1341 class-et-builder-element.php:2189
+msgid "%1$s Letter Spacing"
+msgstr "%1$s Letterspatiëring"
+
+#: class-et-builder-element.php:1379
+msgid "%1$s Line Height"
+msgstr "%1$s Lijnhoogte"
+
+#: class-et-builder-element.php:1451 class-et-builder-element.php:7119
+#: class-et-builder-settings.php:759 frontend-builder/helpers.php:668
+#: main-modules.php:3022 main-modules.php:3577 main-modules.php:4530
+#: main-modules.php:4814 main-modules.php:7885 main-modules.php:8608
+#: main-modules.php:10301 main-modules.php:10617 main-modules.php:10937
+#: main-modules.php:12100 main-modules.php:12641 main-modules.php:14181
+#: main-modules.php:16920 main-modules.php:17577 main-modules.php:18007
+#: main-modules.php:18830 main-modules.php:19553 main-modules.php:20109
+#: main-modules.php:21983 main-modules.php:22683 main-modules.php:23103
+#: main-structure-elements.php:141 main-structure-elements.php:1407
+#: main-structure-elements.php:2940
+msgid "Background"
+msgstr "Achtergrond"
+
+#: class-et-builder-element.php:1471 class-et-builder-element.php:6671
+#: main-modules.php:3819 main-modules.php:5724 main-modules.php:7046
+#: main-modules.php:7654 main-modules.php:8123 main-modules.php:8701
+#: main-modules.php:10382 main-modules.php:10661 main-modules.php:12858
+#: main-modules.php:15888 main-modules.php:17257 main-modules.php:19654
+#: main-modules.php:22306 main-structure-elements.php:233
+#: main-structure-elements.php:1811 main-structure-elements.php:3217
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: class-et-builder-element.php:1482
+msgid "Use Background Color Gradient"
+msgstr "Gebruik achtergrond met kleurverloop"
+
+#: class-et-builder-element.php:1486 class-et-builder-element.php:1653
+#: class-et-builder-element.php:1831 class-et-builder-element.php:1889
+#: class-et-builder-element.php:2089 class-et-builder-element.php:2217
+#: class-et-builder-element.php:2277 frontend-builder/helpers.php:254
+#: frontend-builder/helpers.php:377 frontend-builder/helpers.php:575
+#: functions.php:4116 functions.php:4623 main-modules.php:164
+#: main-modules.php:260 main-modules.php:298 main-modules.php:310
+#: main-modules.php:741 main-modules.php:753 main-modules.php:2218
+#: main-modules.php:2257 main-modules.php:2282 main-modules.php:2387
+#: main-modules.php:3130 main-modules.php:3178 main-modules.php:3208
+#: main-modules.php:3269 main-modules.php:3280 main-modules.php:3291
+#: main-modules.php:3715 main-modules.php:3842 main-modules.php:3866
+#: main-modules.php:3985 main-modules.php:4690 main-modules.php:4701
+#: main-modules.php:4712 main-modules.php:4752 main-modules.php:4778
+#: main-modules.php:4801 main-modules.php:4830 main-modules.php:4853
+#: main-modules.php:4878 main-modules.php:4955 main-modules.php:4966
+#: main-modules.php:4977 main-modules.php:5736 main-modules.php:6283
+#: main-modules.php:6311 main-modules.php:6323 main-modules.php:6735
+#: main-modules.php:7058 main-modules.php:8135 main-modules.php:8204
+#: main-modules.php:8694 main-modules.php:8713 main-modules.php:8782
+#: main-modules.php:9192 main-modules.php:9203 main-modules.php:9214
+#: main-modules.php:9823 main-modules.php:9834 main-modules.php:9845
+#: main-modules.php:12188 main-modules.php:12223 main-modules.php:12730
+#: main-modules.php:12801 main-modules.php:12812 main-modules.php:12825
+#: main-modules.php:13346 main-modules.php:13631 main-modules.php:14316
+#: main-modules.php:14362 main-modules.php:14376 main-modules.php:14390
+#: main-modules.php:14404 main-modules.php:14418 main-modules.php:15900
+#: main-modules.php:16173 main-modules.php:16991 main-modules.php:17002
+#: main-modules.php:17019 main-modules.php:17031 main-modules.php:17054
+#: main-modules.php:17066 main-modules.php:17078 main-modules.php:17108
+#: main-modules.php:17239 main-modules.php:17682 main-modules.php:17693
+#: main-modules.php:17718 main-modules.php:18156 main-modules.php:18166
+#: main-modules.php:18176 main-modules.php:18463 main-modules.php:18491
+#: main-modules.php:18505 main-modules.php:19009 main-modules.php:19024
+#: main-modules.php:19700 main-modules.php:20264 main-modules.php:20294
+#: main-modules.php:20385 main-modules.php:20396 main-modules.php:20407
+#: main-modules.php:20763 main-modules.php:20774 main-modules.php:21692
+#: main-modules.php:22040 main-modules.php:22051 main-modules.php:22068
+#: main-modules.php:22080 main-modules.php:22103 main-modules.php:22115
+#: main-modules.php:22127 main-modules.php:22157 main-modules.php:22288
+#: main-modules.php:22979 main-modules.php:22990 main-modules.php:23001
+#: main-modules.php:23041 main-modules.php:23067 main-modules.php:23090
+#: main-modules.php:23119 main-modules.php:23142 main-modules.php:23167
+#: main-modules.php:23234 main-modules.php:23245 main-modules.php:23256
+#: main-structure-elements.php:246 main-structure-elements.php:264
+#: main-structure-elements.php:302 main-structure-elements.php:316
+#: main-structure-elements.php:387 main-structure-elements.php:400
+#: main-structure-elements.php:1655 main-structure-elements.php:1669
+#: main-structure-elements.php:1739 main-structure-elements.php:1803
+#: main-structure-elements.php:3177 main-structure-elements.php:3209
+msgid "No"
+msgstr "Nee"
+
+#: class-et-builder-element.php:1487 class-et-builder-element.php:1654
+#: class-et-builder-element.php:1832 class-et-builder-element.php:1890
+#: class-et-builder-element.php:2090 class-et-builder-element.php:2216
+#: class-et-builder-element.php:2276 frontend-builder/helpers.php:253
+#: frontend-builder/helpers.php:378 frontend-builder/helpers.php:576
+#: frontend-builder/helpers.php:822 functions.php:4117 functions.php:4165
+#: functions.php:4622 functions.php:5837 main-modules.php:165
+#: main-modules.php:261 main-modules.php:299 main-modules.php:309
+#: main-modules.php:740 main-modules.php:752 main-modules.php:2219
+#: main-modules.php:2258 main-modules.php:2283 main-modules.php:2388
+#: main-modules.php:3129 main-modules.php:3179 main-modules.php:3209
+#: main-modules.php:3270 main-modules.php:3281 main-modules.php:3292
+#: main-modules.php:3716 main-modules.php:3986 main-modules.php:4700
+#: main-modules.php:4751 main-modules.php:4879 main-modules.php:4956
+#: main-modules.php:4967 main-modules.php:4978 main-modules.php:5735
+#: main-modules.php:6282 main-modules.php:6312 main-modules.php:6324
+#: main-modules.php:6736 main-modules.php:7057 main-modules.php:8134
+#: main-modules.php:8205 main-modules.php:8695 main-modules.php:8712
+#: main-modules.php:8783 main-modules.php:9191 main-modules.php:9202
+#: main-modules.php:9213 main-modules.php:9822 main-modules.php:9833
+#: main-modules.php:9844 main-modules.php:12187 main-modules.php:12224
+#: main-modules.php:12729 main-modules.php:12800 main-modules.php:12811
+#: main-modules.php:12824 main-modules.php:13347 main-modules.php:13630
+#: main-modules.php:14315 main-modules.php:14361 main-modules.php:14375
+#: main-modules.php:14389 main-modules.php:14403 main-modules.php:14417
+#: main-modules.php:15899 main-modules.php:16174 main-modules.php:16990
+#: main-modules.php:17001 main-modules.php:17018 main-modules.php:17030
+#: main-modules.php:17053 main-modules.php:17065 main-modules.php:17077
+#: main-modules.php:17107 main-modules.php:17240 main-modules.php:17683
+#: main-modules.php:17694 main-modules.php:17719 main-modules.php:18155
+#: main-modules.php:18165 main-modules.php:18175 main-modules.php:18464
+#: main-modules.php:18492 main-modules.php:18506 main-modules.php:19010
+#: main-modules.php:19025 main-modules.php:19701 main-modules.php:20265
+#: main-modules.php:20295 main-modules.php:20386 main-modules.php:20397
+#: main-modules.php:20408 main-modules.php:20762 main-modules.php:20773
+#: main-modules.php:21693 main-modules.php:22039 main-modules.php:22050
+#: main-modules.php:22067 main-modules.php:22079 main-modules.php:22102
+#: main-modules.php:22114 main-modules.php:22126 main-modules.php:22156
+#: main-modules.php:22289 main-modules.php:22989 main-modules.php:23040
+#: main-modules.php:23168 main-modules.php:23235 main-modules.php:23246
+#: main-modules.php:23257 main-structure-elements.php:247
+#: main-structure-elements.php:265 main-structure-elements.php:303
+#: main-structure-elements.php:317 main-structure-elements.php:388
+#: main-structure-elements.php:401 main-structure-elements.php:1656
+#: main-structure-elements.php:1670 main-structure-elements.php:1740
+#: main-structure-elements.php:1804 main-structure-elements.php:3178
+#: main-structure-elements.php:3210
+msgid "Yes"
+msgstr "Ja"
+
+#: class-et-builder-element.php:1505 class-et-builder-element.php:6791
+msgid "Gradient Start"
+msgstr "Begin verloop"
+
+#: class-et-builder-element.php:1518 class-et-builder-element.php:6793
+msgid "Gradient End"
+msgstr "Einde verloop"
+
+#: class-et-builder-element.php:1531 class-et-builder-element.php:6794
+msgid "Gradient Type"
+msgstr "Type verloop"
+
+#: class-et-builder-element.php:1535 class-et-builder-element.php:6795
+#: frontend-builder/helpers.php:426
+msgid "Linear"
+msgstr "Lineair"
+
+#: class-et-builder-element.php:1536 class-et-builder-element.php:6796
+#: frontend-builder/helpers.php:427
+msgid "Radial"
+msgstr "Radiaal"
+
+#: class-et-builder-element.php:1552 class-et-builder-element.php:6797
+msgid "Gradient Direction"
+msgstr "Richting verloop"
+
+#: class-et-builder-element.php:1572 class-et-builder-element.php:6798
+msgid "Radial Direction"
+msgstr "Radiale richting"
+
+#: class-et-builder-element.php:1576 class-et-builder-element.php:1710
+#: class-et-builder-element.php:6799 class-et-builder-element.php:6839
+#: frontend-builder/helpers.php:311 frontend-builder/helpers.php:469
+#: functions.php:420 functions.php:428 main-modules.php:273
+#: main-modules.php:3223 main-modules.php:3752 main-modules.php:3891
+#: main-modules.php:7364 main-modules.php:17157 main-modules.php:17215
+#: main-modules.php:17671 main-modules.php:19197 main-modules.php:20309
+#: main-modules.php:22206 main-modules.php:22264
+msgid "Center"
+msgstr "Midden"
+
+#: class-et-builder-element.php:1577 class-et-builder-element.php:1706
+#: class-et-builder-element.php:6800 class-et-builder-element.php:6835
+#: frontend-builder/helpers.php:307 frontend-builder/helpers.php:470
+#: main-modules.php:3219 main-modules.php:3748 main-modules.php:17153
+#: main-modules.php:20305 main-modules.php:22202
+msgid "Top Left"
+msgstr "Top Links"
+
+#: class-et-builder-element.php:1578 class-et-builder-element.php:3502
+#: class-et-builder-element.php:6801 class-et-builder-element.php:7203
+#: frontend-builder/helpers.php:471 frontend-builder/helpers.php:744
+#: main-modules.php:2178 main-modules.php:4817 main-modules.php:13609
+#: main-modules.php:23106
+msgid "Top"
+msgstr "Bovenkant"
+
+#: class-et-builder-element.php:1579 class-et-builder-element.php:1708
+#: class-et-builder-element.php:6802 class-et-builder-element.php:6837
+#: frontend-builder/helpers.php:309 frontend-builder/helpers.php:472
+#: main-modules.php:3221 main-modules.php:3750 main-modules.php:17155
+#: main-modules.php:20307 main-modules.php:22204
+msgid "Top Right"
+msgstr "Rechts Boven"
+
+#: class-et-builder-element.php:1580 class-et-builder-element.php:2261
+#: class-et-builder-element.php:3509 class-et-builder-element.php:6803
+#: class-et-builder-element.php:7204 frontend-builder/helpers.php:473
+#: frontend-builder/helpers.php:745 functions.php:421 functions.php:427
+#: main-modules.php:274 main-modules.php:2184 main-modules.php:4816
+#: main-modules.php:7365 main-modules.php:13313 main-modules.php:17216
+#: main-modules.php:17670 main-modules.php:22265 main-modules.php:23105
+msgid "Right"
+msgstr "Rechts"
+
+#: class-et-builder-element.php:1581 class-et-builder-element.php:1714
+#: class-et-builder-element.php:6804 class-et-builder-element.php:6843
+#: frontend-builder/helpers.php:315 frontend-builder/helpers.php:474
+#: main-modules.php:3227 main-modules.php:3756 main-modules.php:17161
+#: main-modules.php:20313 main-modules.php:22210
+msgid "Bottom Right"
+msgstr "Rechts Onderaan"
+
+#: class-et-builder-element.php:1582 class-et-builder-element.php:3516
+#: class-et-builder-element.php:6805 class-et-builder-element.php:7205
+#: frontend-builder/helpers.php:475 frontend-builder/helpers.php:746
+#: main-modules.php:3892 main-modules.php:4818 main-modules.php:13611
+#: main-modules.php:19198 main-modules.php:19222 main-modules.php:23107
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: class-et-builder-element.php:1583 class-et-builder-element.php:1712
+#: class-et-builder-element.php:6806 class-et-builder-element.php:6841
+#: frontend-builder/helpers.php:313 frontend-builder/helpers.php:476
+#: main-modules.php:3225 main-modules.php:3754 main-modules.php:17159
+#: main-modules.php:20311 main-modules.php:22208
+msgid "Bottom Left"
+msgstr "Onderaan Links"
+
+#: class-et-builder-element.php:1584 class-et-builder-element.php:2262
+#: class-et-builder-element.php:3523 class-et-builder-element.php:6807
+#: class-et-builder-element.php:7206 frontend-builder/helpers.php:477
+#: frontend-builder/helpers.php:747 functions.php:419 main-modules.php:272
+#: main-modules.php:2182 main-modules.php:4815 main-modules.php:7363
+#: main-modules.php:13312 main-modules.php:17214 main-modules.php:17669
+#: main-modules.php:22263 main-modules.php:23104
+msgid "Left"
+msgstr "Links"
+
+#: class-et-builder-element.php:1596 class-et-builder-element.php:6808
+msgid "Start Position"
+msgstr "Beginpositie"
+
+#: class-et-builder-element.php:1616 class-et-builder-element.php:6809
+msgid "End Position"
+msgstr "Eindpositie"
+
+#: class-et-builder-element.php:1638 class-et-builder-element.php:6975
+#: main-modules.php:3701
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: class-et-builder-element.php:1641 class-et-builder-element.php:6979
+#: frontend-builder/helpers.php:232 main-modules.php:125 main-modules.php:1143
+#: main-modules.php:1638 main-modules.php:2305 main-modules.php:3704
+#: main-modules.php:3828 main-modules.php:5706 main-modules.php:7644
+#: main-modules.php:13880 main-modules.php:19158 main-modules.php:19210
+#: main-modules.php:21653
+msgid "Upload an image"
+msgstr "Laad een foto"
+
+#: class-et-builder-element.php:1642 class-et-builder-element.php:6980
+#: frontend-builder/helpers.php:233 main-modules.php:3705
+msgid "Choose a Background Image"
+msgstr "Kies een achtergrondafbeelding"
+
+#: class-et-builder-element.php:1643 class-et-builder-element.php:6981
+#: frontend-builder/helpers.php:234 main-modules.php:3706
+msgid "Set As Background"
+msgstr "Instellen als achtergrond"
+
+#: class-et-builder-element.php:1649 class-et-builder-element.php:6982
+#: main-modules.php:17103 main-modules.php:22152
+msgid "Use Parallax Effect"
+msgstr "Gebruik het Parallax effect"
+
+#: class-et-builder-element.php:1665
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Als dit is ingeschakeld, zal uw achtergrondafbeelding vast blijven staan als "
+"u scrollt, wat een parallax effect creëert."
+
+#: class-et-builder-element.php:1671 class-et-builder-element.php:6985
+#: main-modules.php:17123 main-modules.php:22172
+msgid "Parallax Method"
+msgstr "Parallax-methode"
+
+#: class-et-builder-element.php:1675 class-et-builder-element.php:6986
+#: frontend-builder/helpers.php:275 main-modules.php:3196 main-modules.php:3736
+#: main-modules.php:17128 main-modules.php:20282 main-modules.php:22177
+msgid "True Parallax"
+msgstr "Ware Parallax"
+
+#: class-et-builder-element.php:1676 class-et-builder-element.php:6987
+#: frontend-builder/helpers.php:274 frontend-builder/helpers.php:784
+#: frontend-builder/helpers.php:860 main-modules.php:3195 main-modules.php:3735
+#: main-modules.php:17127 main-modules.php:20281 main-modules.php:22176
+msgid "CSS"
+msgstr "CSS"
+
+#: class-et-builder-element.php:1681 main-modules.php:3201
+#: main-modules.php:3741 main-modules.php:20287
+msgid "Define the method, used for the parallax effect."
+msgstr "Definieer de methode die gebruikt wordt voor het parallax effect."
+
+#: class-et-builder-element.php:1687 class-et-builder-element.php:6988
+#: main-modules.php:3234 main-modules.php:3763 main-modules.php:17136
+#: main-modules.php:20320 main-modules.php:22185
+msgid "Background Image Size"
+msgstr "Achtergrond-Afbeelding Formaat"
+
+#: class-et-builder-element.php:1691 class-et-builder-element.php:6818
+#: frontend-builder/helpers.php:291 main-modules.php:3238 main-modules.php:3767
+#: main-modules.php:17140 main-modules.php:20324 main-modules.php:22189
+msgid "Cover"
+msgstr "Dekking"
+
+#: class-et-builder-element.php:1692 class-et-builder-element.php:6819
+#: frontend-builder/helpers.php:292 main-modules.php:3239 main-modules.php:3768
+#: main-modules.php:17141 main-modules.php:20325 main-modules.php:22190
+msgid "Fit"
+msgstr "Fit"
+
+#: class-et-builder-element.php:1693 class-et-builder-element.php:6820
+#: frontend-builder/helpers.php:293 main-modules.php:3240 main-modules.php:3769
+#: main-modules.php:17142 main-modules.php:20326 main-modules.php:22191
+msgid "Actual Size"
+msgstr "De Werkelijke Grootte"
+
+#: class-et-builder-element.php:1702 class-et-builder-element.php:6990
+#: main-modules.php:3215 main-modules.php:3744 main-modules.php:17149
+#: main-modules.php:20301 main-modules.php:22198
+msgid "Background Image Position"
+msgstr "Achtergrond Positie"
+
+#: class-et-builder-element.php:1707 class-et-builder-element.php:6836
+#: frontend-builder/helpers.php:308 main-modules.php:3220 main-modules.php:3749
+#: main-modules.php:17154 main-modules.php:20306 main-modules.php:22203
+msgid "Top Center"
+msgstr "Top Center"
+
+#: class-et-builder-element.php:1709 class-et-builder-element.php:6838
+#: frontend-builder/helpers.php:310 main-modules.php:3222 main-modules.php:3753
+#: main-modules.php:17156 main-modules.php:20308 main-modules.php:22205
+msgid "Center Left"
+msgstr "Midden Links"
+
+#: class-et-builder-element.php:1711 class-et-builder-element.php:6840
+#: frontend-builder/helpers.php:312 main-modules.php:3224 main-modules.php:3751
+#: main-modules.php:17158 main-modules.php:20310 main-modules.php:22207
+msgid "Center Right"
+msgstr "Het Midden Van De Rechter"
+
+#: class-et-builder-element.php:1713 class-et-builder-element.php:6842
+#: frontend-builder/helpers.php:314 main-modules.php:3226 main-modules.php:3755
+#: main-modules.php:17160 main-modules.php:20312 main-modules.php:22209
+msgid "Bottom Center"
+msgstr "Onderaan In Het Midden"
+
+#: class-et-builder-element.php:1723 class-et-builder-element.php:6992
+#: main-modules.php:3777 main-modules.php:17168 main-modules.php:22217
+msgid "Background Image Repeat"
+msgstr "Herhalen achtergrondafbeelding"
+
+#: class-et-builder-element.php:1727 class-et-builder-element.php:6855
+#: frontend-builder/helpers.php:334 main-modules.php:3786
+#: main-modules.php:17177 main-modules.php:22226
+msgid "No Repeat"
+msgstr "Geen herhaling"
+
+#: class-et-builder-element.php:1728 class-et-builder-element.php:6856
+#: frontend-builder/helpers.php:329 main-modules.php:3781
+#: main-modules.php:17172 main-modules.php:22221
+msgid "Repeat"
+msgstr "Herhaling"
+
+#: class-et-builder-element.php:1729 class-et-builder-element.php:6857
+#: frontend-builder/helpers.php:330 main-modules.php:3782
+#: main-modules.php:17173 main-modules.php:22222
+msgid "Repeat X (horizontal)"
+msgstr "X herhalen (horizontaal)"
+
+#: class-et-builder-element.php:1730 class-et-builder-element.php:6858
+#: frontend-builder/helpers.php:331 main-modules.php:3783
+#: main-modules.php:17174 main-modules.php:22223
+msgid "Repeat Y (vertical)"
+msgstr "Y herhalen (verticaal)"
+
+#: class-et-builder-element.php:1731 class-et-builder-element.php:6859
+#: frontend-builder/helpers.php:332 main-modules.php:3784
+#: main-modules.php:17175 main-modules.php:22224
+msgid "Space"
+msgstr "Ruimte"
+
+#: class-et-builder-element.php:1732 class-et-builder-element.php:6860
+#: frontend-builder/helpers.php:333 main-modules.php:3785
+#: main-modules.php:17176 main-modules.php:22225
+msgid "Round"
+msgstr "Rond"
+
+#: class-et-builder-element.php:1741 class-et-builder-element.php:6994
+#: main-modules.php:3793 main-modules.php:17184 main-modules.php:22233
+msgid "Background Image Blend"
+msgstr "Overvloeien achtergrondafbeelding"
+
+#: class-et-builder-element.php:1745 class-et-builder-element.php:6882
+#: frontend-builder/helpers.php:348 main-modules.php:3797
+#: main-modules.php:17188 main-modules.php:22237
+msgid "Normal"
+msgstr "Normaal"
+
+#: class-et-builder-element.php:1746 class-et-builder-element.php:6883
+#: frontend-builder/helpers.php:349 main-modules.php:3798
+#: main-modules.php:17189 main-modules.php:22238
+msgid "Multiply"
+msgstr "Vermenigvuldigen"
+
+#: class-et-builder-element.php:1747 class-et-builder-element.php:6884
+#: frontend-builder/helpers.php:350 main-modules.php:3799
+#: main-modules.php:17190 main-modules.php:22239
+msgid "Screen"
+msgstr "Bleken"
+
+#: class-et-builder-element.php:1748 class-et-builder-element.php:6885
+#: frontend-builder/helpers.php:351 main-modules.php:57 main-modules.php:559
+#: main-modules.php:614 main-modules.php:1091 main-modules.php:1363
+#: main-modules.php:1583 main-modules.php:3583 main-modules.php:3800
+#: main-modules.php:4536 main-modules.php:9087 main-modules.php:9125
+#: main-modules.php:9686 main-modules.php:9747 main-modules.php:14187
+#: main-modules.php:15312 main-modules.php:15357 main-modules.php:17191
+#: main-modules.php:20629 main-modules.php:21619 main-modules.php:22240
+#: main-modules.php:22689
+msgid "Overlay"
+msgstr "Bedekking"
+
+#: class-et-builder-element.php:1749 class-et-builder-element.php:6886
+#: frontend-builder/helpers.php:352 main-modules.php:3801
+#: main-modules.php:17192 main-modules.php:22241
+msgid "Darken"
+msgstr "Donkerder"
+
+#: class-et-builder-element.php:1750 class-et-builder-element.php:6887
+#: frontend-builder/helpers.php:353 main-modules.php:3802
+#: main-modules.php:17193 main-modules.php:22242
+msgid "Lighten"
+msgstr "Lichter"
+
+#: class-et-builder-element.php:1751 class-et-builder-element.php:6888
+#: frontend-builder/helpers.php:354 main-modules.php:3803
+#: main-modules.php:17194 main-modules.php:22243
+msgid "Color Dodge"
+msgstr "Tegenhouden"
+
+#: class-et-builder-element.php:1752 class-et-builder-element.php:6889
+#: frontend-builder/helpers.php:355 main-modules.php:3804
+#: main-modules.php:17195 main-modules.php:22244
+msgid "Color Burn"
+msgstr "Doordrukken"
+
+#: class-et-builder-element.php:1753 class-et-builder-element.php:6890
+#: frontend-builder/helpers.php:356 main-modules.php:3805
+#: main-modules.php:17196 main-modules.php:22245
+msgid "Hard Light"
+msgstr "Fel licht"
+
+#: class-et-builder-element.php:1754 class-et-builder-element.php:6891
+#: frontend-builder/helpers.php:357 main-modules.php:3806
+#: main-modules.php:17197 main-modules.php:22246
+msgid "Soft Light"
+msgstr "Zwak licht"
+
+#: class-et-builder-element.php:1755 class-et-builder-element.php:6892
+#: frontend-builder/helpers.php:358 main-modules.php:3807
+#: main-modules.php:17198 main-modules.php:22247
+msgid "Difference"
+msgstr "Verschil"
+
+#: class-et-builder-element.php:1756 class-et-builder-element.php:6893
+#: frontend-builder/helpers.php:359 main-modules.php:3808
+#: main-modules.php:17199 main-modules.php:22248
+msgid "Exclusion"
+msgstr "Uitsluiting"
+
+#: class-et-builder-element.php:1757 class-et-builder-element.php:6894
+#: frontend-builder/helpers.php:360 main-modules.php:3809
+#: main-modules.php:17200 main-modules.php:22249
+msgid "Hue"
+msgstr "Kleurtoon"
+
+#: class-et-builder-element.php:1758 class-et-builder-element.php:6895
+#: frontend-builder/helpers.php:361 main-modules.php:3810
+#: main-modules.php:17201 main-modules.php:22250
+msgid "Saturation"
+msgstr "Verzadiging"
+
+#: class-et-builder-element.php:1759 class-et-builder-element.php:6640
+#: class-et-builder-element.php:6896 frontend-builder/helpers.php:362
+#: main-modules.php:3811 main-modules.php:13546 main-modules.php:13566
+#: main-modules.php:17202 main-modules.php:22251
+msgid "Color"
+msgstr "Kleur"
+
+#: class-et-builder-element.php:1760 class-et-builder-element.php:6897
+#: frontend-builder/helpers.php:363 main-modules.php:3812
+#: main-modules.php:17203 main-modules.php:22252
+msgid "Luminosity"
+msgstr "Helderheid"
+
+#: class-et-builder-element.php:1771 class-et-builder-element.php:7074
+#: main-modules.php:3933
+msgid "Background Video MP4"
+msgstr "Achtergrondvideo .MP4"
+
+#: class-et-builder-element.php:1775 class-et-builder-element.php:1791
+#: class-et-builder-element.php:7078 frontend-builder/helpers.php:536
+#: frontend-builder/helpers.php:548 main-modules.php:1116 main-modules.php:1130
+#: main-modules.php:1612 main-modules.php:1628 main-modules.php:3937
+#: main-modules.php:3951
+msgid "Upload a video"
+msgstr "Een video uploaden"
+
+#: class-et-builder-element.php:1776 class-et-builder-element.php:7079
+#: frontend-builder/helpers.php:537 main-modules.php:3938
+msgid "Choose a Background Video MP4 File"
+msgstr "Kies een achtergrondvideo .MP4 File"
+
+#: class-et-builder-element.php:1777 class-et-builder-element.php:1793
+#: class-et-builder-element.php:7080 frontend-builder/helpers.php:538
+#: frontend-builder/helpers.php:550 main-modules.php:3939 main-modules.php:3953
+msgid "Set As Background Video"
+msgstr "Stel in als achtergrondvideo"
+
+#: class-et-builder-element.php:1778 main-modules.php:3940
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle video’s moeten worden geupload in zowel  .MP4 en .WEBM formats om een "
+"maximale toepasbaarheid te verzekeren in alle browsers. Upload hier de .MP4 "
+"versie. Belangrijk: Video-achtergronden zijn uitgeschakeld op mobiele "
+"apparaten. Hiervoor in de plaats wordt de achtergrondfoto gebruikt. Om deze "
+"reden moet u zowel een achtergrondfoto als een achtergrondvideo instellen om "
+"verzekerd te zijn van de beste resultaten."
+
+#: class-et-builder-element.php:1787 class-et-builder-element.php:7081
+#: main-modules.php:3947
+msgid "Background Video Webm"
+msgstr "Achtergrondvideo .WEBM"
+
+#: class-et-builder-element.php:1792 class-et-builder-element.php:7082
+#: frontend-builder/helpers.php:549 main-modules.php:3952
+msgid "Choose a Background Video WEBM File"
+msgstr "Kies een achtergrondvideo .WEBM File"
+
+#: class-et-builder-element.php:1794 main-modules.php:3954
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle video’s moeten worden geupload in zowel  .MP4 en .WEBM formaat om een "
+"maximale toepasbaarheid te verzekeren in alle browsers. Upload hier de .WEBM "
+"versie. Belangrijk: Video-achtergronden zijn uitgeschakeld op mobiele "
+"apparaten. Hiervoor in de plaats wordt de achtergrondfoto gebruikt. Om deze "
+"reden moet u zowel een achtergrondfoto als een achtergrondvideo instellen om "
+"verzekerd te zijn van de beste resultaten."
+
+#: class-et-builder-element.php:1803 class-et-builder-element.php:7083
+#: main-modules.php:3961
+msgid "Background Video Width"
+msgstr "Breedte Achtergrondvideo"
+
+#: class-et-builder-element.php:1806 main-modules.php:3965
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Om er voor te zorgen dat video’s juist gedimensioneerd zijn, moet u de "
+"exacte breedte van uw video (in pixels) hier invoeren."
+
+#: class-et-builder-element.php:1815 class-et-builder-element.php:7084
+#: main-modules.php:3971
+msgid "Background Video Height"
+msgstr "Breedte achtergrondvideo"
+
+#: class-et-builder-element.php:1818 main-modules.php:3975
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Om er voor te zorgen dat video’s juist gedimensioneerd zijn, moet u de "
+"exacte breedte van uw video (in pixels) hier invoeren."
+
+#: class-et-builder-element.php:1827 class-et-builder-element.php:7085
+#: main-modules.php:3981
+msgid "Pause Video"
+msgstr "Pauzeer video"
+
+#: class-et-builder-element.php:1836 main-modules.php:3989
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+"Geef andere spelers toestemming de video te pauzeren als ze beginnen met "
+"spelen."
+
+#: class-et-builder-element.php:1876
+msgid "Border"
+msgstr "Rand"
+
+#: class-et-builder-element.php:1885
+msgid "Use Border"
+msgstr "Boord gebruiken"
+
+#: class-et-builder-element.php:1904
+msgid "Border Color"
+msgstr "Boordkleur"
+
+#: class-et-builder-element.php:1915
+msgid "Border Width"
+msgstr "Boordbreedte"
+
+#: class-et-builder-element.php:1926
+msgid "Border Style"
+msgstr "Boordstijl"
+
+#: class-et-builder-element.php:1961 class-et-builder-settings.php:764
+#: main-modules.php:3029 main-modules.php:4543 main-modules.php:10312
+#: main-modules.php:20116 main-modules.php:22696
+#: main-structure-elements.php:159 main-structure-elements.php:1425
+#: main-structure-elements.php:2957
+msgid "Spacing"
+msgstr "Afstand"
+
+#: class-et-builder-element.php:1971 main-structure-elements.php:1792
+msgid "Custom Margin"
+msgstr "Aangepaste marge"
+
+#: class-et-builder-element.php:2026 main-structure-elements.php:273
+#: main-structure-elements.php:1767 main-structure-elements.php:3148
+msgid "Custom Padding"
+msgstr "Aangepaste buffer"
+
+#: class-et-builder-element.php:2085
+msgid "Use Custom Styles for %1$s "
+msgstr "Het gebruik van Aangepaste Stijlen voor %1$s "
+
+#: class-et-builder-element.php:2115
+msgid "%1$s Text Size"
+msgstr "%1$s Tekst Grootte"
+
+#: class-et-builder-element.php:2143
+msgid "%1$s Background Color"
+msgstr "%1$s Achtergrond Kleur"
+
+#: class-et-builder-element.php:2155
+msgid "%1$s Border Width"
+msgstr "%1$s Breedte van de Rand"
+
+#: class-et-builder-element.php:2166
+msgid "%1$s Border Color"
+msgstr "%1$s Kleur Rand"
+
+#: class-et-builder-element.php:2178
+msgid "%1$s Border Radius"
+msgstr "%1$s Border Radius"
+
+#: class-et-builder-element.php:2210
+msgid "Add %1$s Icon"
+msgstr "Add %1$s Pictogram"
+
+#: class-et-builder-element.php:2215 frontend-builder/assets.php:98
+#: functions.php:1267
+msgid "Default"
+msgstr "Standaard"
+
+#: class-et-builder-element.php:2232
+msgid "%1$s Icon"
+msgstr "%1$s Pictogram"
+
+#: class-et-builder-element.php:2245
+msgid "%1$s Icon Color"
+msgstr "%1$s Pictogram Kleur"
+
+#: class-et-builder-element.php:2257
+msgid "%1$s Icon Placement"
+msgstr "%1$s Pictogram Plaatsing"
+
+#: class-et-builder-element.php:2271
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "Alleen Pictogram Weergeven Op Beweeg voor %1$s"
+
+#: class-et-builder-element.php:2286
+msgid "%1$s Hover Text Color"
+msgstr "%1$s Hover Kleur van de Tekst"
+
+#: class-et-builder-element.php:2298
+msgid "%1$s Hover Background Color"
+msgstr "%1$s zwevende Achtergrond Kleur"
+
+#: class-et-builder-element.php:2310
+msgid "%1$s Hover Border Color"
+msgstr "%1$s Hover Kleur Rand"
+
+#: class-et-builder-element.php:2322
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s Hover Border Radius"
+
+#: class-et-builder-element.php:2333
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s Hover Letter Spatiering"
+
+#: class-et-builder-element.php:2407 class-et-builder-element.php:7278
+#: main-modules.php:16437 main-modules.php:16633
+msgid "Before"
+msgstr "Vóór"
+
+#: class-et-builder-element.php:2412 class-et-builder-element.php:7279
+#: main-modules.php:2903 main-modules.php:7276 main-modules.php:16441
+#: main-modules.php:16637
+msgid "Main Element"
+msgstr "Hoofdelement"
+
+#: class-et-builder-element.php:2415 class-et-builder-element.php:7280
+#: main-modules.php:16445 main-modules.php:16641
+msgid "After"
+msgstr "Na"
+
+#: class-et-builder-element.php:2465
+msgid "CSS ID &amp; Classes"
+msgstr "CSS-id en -klasses"
+
+#: class-et-builder-element.php:2466 class-et-builder-settings.php:256
+#: class-et-builder-settings.php:761 main-structure-elements.php:182
+#: main-structure-elements.php:1450 main-structure-elements.php:2980
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: class-et-builder-element.php:2924
+msgid "Background:"
+msgstr "Achtergrond:"
+
+#: class-et-builder-element.php:3224 class-et-builder-element.php:4086
+#: frontend-builder/helpers.php:734
+msgid "Add New Item"
+msgstr "Voeg nieuw artikel toe"
+
+#: class-et-builder-element.php:3245 frontend-builder/helpers.php:775
+msgid "equals"
+msgstr "gelijk aan"
+
+#: class-et-builder-element.php:3246 frontend-builder/helpers.php:776
+msgid "does not equal"
+msgstr "niet gelijk aan"
+
+#: class-et-builder-element.php:3247 frontend-builder/helpers.php:777
+msgid "is greater than"
+msgstr "is groter dan"
+
+#: class-et-builder-element.php:3248 frontend-builder/helpers.php:778
+msgid "is less than"
+msgstr "is minder dan"
+
+#: class-et-builder-element.php:3249 frontend-builder/helpers.php:779
+msgid "contains"
+msgstr "bevat"
+
+#: class-et-builder-element.php:3250 frontend-builder/helpers.php:780
+msgid "does not contain"
+msgstr "bevat geen"
+
+#: class-et-builder-element.php:3251 frontend-builder/helpers.php:781
+msgid "is empty"
+msgstr "is leeg"
+
+#: class-et-builder-element.php:3252 frontend-builder/helpers.php:782
+msgid "is not empty"
+msgstr "is niet leeg"
+
+#: class-et-builder-element.php:3269 frontend-builder/helpers.php:773
+#: main-modules.php:13131
+msgid "checked"
+msgstr "aangevinkt"
+
+#: class-et-builder-element.php:3270 frontend-builder/helpers.php:774
+#: main-modules.php:13132
+msgid "not checked"
+msgstr "niet aangevinkt"
+
+#: class-et-builder-element.php:3271
+msgid "Add New Rule"
+msgstr "Een nieuw regel toevoegen"
+
+#: class-et-builder-element.php:3351 class-et-builder-element.php:6675
+#: class-et-builder-element.php:6792
+msgid "Hex Value"
+msgstr "Hex Waarde"
+
+#: class-et-builder-element.php:3363
+msgid "Choose Custom Color"
+msgstr "Aangepaste kleur kiezen"
+
+#: class-et-builder-element.php:3374 frontend-builder/helpers.php:737
+msgid "Upload"
+msgstr "Uploaden"
+
+#: class-et-builder-element.php:3375
+msgid "Choose image"
+msgstr "Afbeelding kiezen"
+
+#: class-et-builder-element.php:3376
+msgid "Set image"
+msgstr "Afbeelding instellen"
+
+#: class-et-builder-element.php:3831 class-et-builder-element.php:4072
+#: frontend-builder/helpers.php:764 main-modules.php:1915 main-modules.php:2366
+#: main-modules.php:2918 main-modules.php:3992 main-modules.php:4527
+#: main-modules.php:5766 main-modules.php:6792 main-modules.php:7088
+#: main-modules.php:8165 main-modules.php:8743 main-modules.php:9080
+#: main-modules.php:9679 main-modules.php:11715 main-modules.php:11878
+#: main-modules.php:13262 main-modules.php:14179 main-modules.php:14325
+#: main-modules.php:15307 main-modules.php:16350 main-modules.php:16735
+#: main-modules.php:18877 main-modules.php:19229 main-modules.php:19552
+#: main-modules.php:20622 main-modules.php:21364 main-modules.php:21506
+#: main-modules.php:22680
+msgid "Content"
+msgstr "Content"
+
+#: class-et-builder-element.php:3832 frontend-builder/helpers.php:765
+#: frontend-builder/helpers.php:859
+msgid "Design"
+msgstr "Ontwerp"
+
+#: class-et-builder-element.php:3833 frontend-builder/helpers.php:766
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: class-et-builder-element.php:4047
+msgid "You don't have sufficient permissions to access the settings"
+msgstr ""
+"U hebt niet de voldoende machtigingen om toegang te krijgen tot de "
+"instellingen"
+
+#: class-et-builder-element.php:4073 main-modules.php:2920
+#: main-modules.php:11718 main-modules.php:12696
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Hier kunt u de inhoud definiëren dat binnen het huidige tabblad zal worden "
+"geplaatst."
+
+#: class-et-builder-element.php:4086
+msgid "Add New %s"
+msgstr "Nieuwe %s toevoegen"
+
+#: class-et-builder-element.php:4098
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: class-et-builder-element.php:4218
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s instellingen"
+
+#: class-et-builder-element.php:4220
+msgid "Item"
+msgstr "Item"
+
+#: class-et-builder-element.php:4220 frontend-builder/helpers.php:799
+#: functions.php:2050 functions.php:2343 functions.php:2643
+msgid "Module"
+msgstr "Module"
+
+#: class-et-builder-element.php:6641
+msgid "Gradient"
+msgstr "Verloop"
+
+#: class-et-builder-element.php:6642 main-modules.php:4 main-modules.php:51
+#: main-modules.php:2302 main-modules.php:5600 main-modules.php:7524
+#: main-modules.php:13786 main-modules.php:15353 main-modules.php:18837
+#: main-modules.php:21613
+msgid "Image"
+msgstr "Afbeelding"
+
+#: class-et-builder-element.php:6643 main-modules.php:1073
+#: main-modules.php:1090 main-modules.php:1339 main-modules.php:1562
+#: main-modules.php:1582
+msgid "Video"
+msgstr "Video"
+
+#: class-et-builder-element.php:6788
+msgid "Background Gradient"
+msgstr "Achtergrond met verloop"
+
+#: class-et-builder-element.php:6789 class-et-builder-element.php:6983
+#: class-et-builder-element.php:7086 class-et-builder-settings.php:50
+#: class-et-builder-settings.php:106 class-et-builder-settings.php:156
+#: class-et-builder-settings.php:171 class-et-builder-settings.php:435
+#: functions.php:4625 main-modules.php:204 main-modules.php:776
+#: main-modules.php:3141 main-modules.php:3167 main-modules.php:4890
+#: main-modules.php:4916 main-modules.php:10398 main-modules.php:11010
+#: main-modules.php:11262 main-modules.php:14347 main-modules.php:14442
+#: main-modules.php:14518 main-modules.php:16149 main-modules.php:16161
+#: main-modules.php:16505 main-modules.php:20227 main-modules.php:20253
+#: main-modules.php:20797 main-modules.php:21225 main-modules.php:21237
+#: main-modules.php:21732 main-modules.php:23179 main-modules.php:23205
+msgid "On"
+msgstr "Aan"
+
+#: class-et-builder-element.php:6790 class-et-builder-element.php:6984
+#: class-et-builder-element.php:7087 class-et-builder-settings.php:51
+#: class-et-builder-settings.php:107 class-et-builder-settings.php:157
+#: class-et-builder-settings.php:172 class-et-builder-settings.php:436
+#: functions.php:4624 main-modules.php:203 main-modules.php:775
+#: main-modules.php:3140 main-modules.php:3166 main-modules.php:4889
+#: main-modules.php:4915 main-modules.php:10399 main-modules.php:11011
+#: main-modules.php:11263 main-modules.php:14346 main-modules.php:14441
+#: main-modules.php:14517 main-modules.php:16150 main-modules.php:16162
+#: main-modules.php:16504 main-modules.php:20226 main-modules.php:20252
+#: main-modules.php:20796 main-modules.php:21226 main-modules.php:21238
+#: main-modules.php:21731 main-modules.php:23178 main-modules.php:23204
+msgid "Off"
+msgstr "Uit"
+
+#: class-et-builder-element.php:7118 class-et-builder-element.php:7201
+#: class-et-builder-element.php:7277 class-et-builder-element.php:7332
+#: functions.php:2640 main-structure-elements.php:4068
+msgid "Column"
+msgstr "Kolom"
+
+#: class-et-builder-element.php:7202
+msgid "Padding"
+msgstr "Buffer"
+
+#: class-et-builder-element.php:7333 main-modules.php:344 main-modules.php:845
+#: main-modules.php:1189 main-modules.php:1471 main-modules.php:1966
+#: main-modules.php:2463 main-modules.php:2735 main-modules.php:3348
+#: main-modules.php:5032 main-modules.php:5840 main-modules.php:6350
+#: main-modules.php:7139 main-modules.php:7413 main-modules.php:7692
+#: main-modules.php:8242 main-modules.php:8820 main-modules.php:9279
+#: main-modules.php:9927 main-modules.php:10479 main-modules.php:11075
+#: main-modules.php:11306 main-modules.php:11527 main-modules.php:11938
+#: main-modules.php:12294 main-modules.php:13373 main-modules.php:13657
+#: main-modules.php:13984 main-modules.php:14548 main-modules.php:15514
+#: main-modules.php:15929 main-modules.php:16213 main-modules.php:16531
+#: main-modules.php:17283 main-modules.php:17796 main-modules.php:18226
+#: main-modules.php:18557 main-modules.php:19256 main-modules.php:19780
+#: main-modules.php:20434 main-modules.php:20861 main-modules.php:21265
+#: main-modules.php:21416 main-modules.php:21534 main-modules.php:21811
+#: main-modules.php:22332 main-modules.php:23311
+#: main-structure-elements.php:858 main-structure-elements.php:2371
+#: main-structure-elements.php:3445
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: class-et-builder-element.php:7334 main-modules.php:352 main-modules.php:853
+#: main-modules.php:1197 main-modules.php:1479 main-modules.php:1974
+#: main-modules.php:2471 main-modules.php:2743 main-modules.php:3356
+#: main-modules.php:5040 main-modules.php:5848 main-modules.php:6358
+#: main-modules.php:7147 main-modules.php:7421 main-modules.php:7700
+#: main-modules.php:8250 main-modules.php:8828 main-modules.php:9287
+#: main-modules.php:9935 main-modules.php:10487 main-modules.php:11083
+#: main-modules.php:11314 main-modules.php:11535 main-modules.php:11946
+#: main-modules.php:12302 main-modules.php:13381 main-modules.php:13665
+#: main-modules.php:13992 main-modules.php:14556 main-modules.php:15522
+#: main-modules.php:15937 main-modules.php:16221 main-modules.php:16539
+#: main-modules.php:17291 main-modules.php:17804 main-modules.php:18234
+#: main-modules.php:18565 main-modules.php:19264 main-modules.php:19788
+#: main-modules.php:20442 main-modules.php:20869 main-modules.php:21273
+#: main-modules.php:21424 main-modules.php:21542 main-modules.php:21819
+#: main-modules.php:22340 main-modules.php:23319
+#: main-structure-elements.php:866 main-structure-elements.php:2379
+#: main-structure-elements.php:3453
+msgid "CSS Class"
+msgstr "CSS Klasse"
+
+#: class-et-builder-settings.php:54
+msgid "Enable Split Testing"
+msgstr "Inschakelen van splittesting"
+
+#: class-et-builder-settings.php:69
+msgid "Bounce Rate Limit"
+msgstr "Bounce frequentielimiet"
+
+#: class-et-builder-settings.php:89
+msgid "Stats refresh interval"
+msgstr "Statistieken ververs interval"
+
+#: class-et-builder-settings.php:93
+msgid "Hourly"
+msgstr "Uurlijks"
+
+#: class-et-builder-settings.php:94
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: class-et-builder-settings.php:110
+msgid "Shortcode Tracking"
+msgstr "Shortcode Tracking"
+
+#: class-et-builder-settings.php:125
+msgid "Shortcode for Tracking:"
+msgstr "Shortcode voor tracking:"
+
+#: class-et-builder-settings.php:153
+msgid "Output Styles Inline"
+msgstr "Uitvoerstijlen inline"
+
+#: class-et-builder-settings.php:154
+msgid ""
+"With previous versions of the builder, css styles for the modules' design "
+"settings were output inline in the footer. Enable this option to restore "
+"that behavior."
+msgstr ""
+"Bij eerdere versies van de Builder werden CSS-stijlen voor de "
+"ontwerpinstellingen van de modules inline uitgevoerd in de footer. Schakel "
+"deze optie in om dat gedrag te herstellen."
+
+#: class-et-builder-settings.php:168 class-et-builder-settings.php:763
+msgid "Product Tour"
+msgstr "Producttour"
+
+#: class-et-builder-settings.php:169
+msgid ""
+"If enabled Product Tour will be started automatically when Visual Builder "
+"launched for the first time"
+msgstr ""
+"Als de Producttour is ingeschakels, wordt deze automatisch gestart wanneer "
+"de Visual Builder voor het eerst wordt opgestart"
+
+#: class-et-builder-settings.php:263
+msgid "Color Picker Color Pallete"
+msgstr "Kleurkiezer kleurenpalet"
+
+#: class-et-builder-settings.php:272 main-structure-elements.php:412
+#: main-structure-elements.php:1751 main-structure-elements.php:3189
+msgid "Gutter Width"
+msgstr "Kolomspatiëring"
+
+#: class-et-builder-settings.php:287
+msgid "Light Text Color"
+msgstr "Lichte Tekstkleur"
+
+#: class-et-builder-settings.php:295
+msgid "Dark Text Color"
+msgstr "Donkere Tekstkleur"
+
+#: class-et-builder-settings.php:303
+msgid "Content Area Background Color"
+msgstr "Inhoudsgebied achtergrondkleur"
+
+#: class-et-builder-settings.php:311
+msgid "Section Background Color"
+msgstr "Sectie Achtergrondkleur"
+
+#: class-et-builder-settings.php:424
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for this page "
+"will be cached and served as a static file. Enabling this option can help "
+"improve performance."
+msgstr ""
+"Wanneer deze optie is ingeschakeld, worden de inline CSS-stijlen van de "
+"Builder voor deze pagina opgeslagen in het cache en aangeboden als statisch "
+"bestand. Het inschakelen van deze optie kan de prestaties verbeteren."
+
+#: class-et-builder-settings.php:425
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for all pages "
+"will be cached and served as static files. Enabling this option can help "
+"improve performance."
+msgstr ""
+"Wanneer deze optie is ingeschakeld, worden de inline CSS-stijlen van de "
+"Builder voor alle pagina's opgeslagen in het cache en aangeboden als "
+"statische bestanden. Het inschakelen van deze optie kan de prestaties "
+"verbeteren."
+
+#: class-et-builder-settings.php:432
+msgid "Static CSS File Generation"
+msgstr "Generering statisch CSS-bestand"
+
+#: class-et-builder-settings.php:612
+msgid "Main"
+msgstr "Hoofd"
+
+#: class-et-builder-settings.php:760
+msgid "Color Palette"
+msgstr "Kleurenpalet"
+
+#: class-et-builder-settings.php:762
+msgid "Performance"
+msgstr "Prestaties"
+
+#: class-et-builder-settings.php:765 functions.php:2647 functions.php:5544
+msgid "Split Testing"
+msgstr "Splittesting"
+
+#: comments_template.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Deze post is met een wachtwoord beschermd. Voer het wachtwoord in om "
+"reacties te bekijken."
+
+#: comments_template.php:12
+msgid "0 Comments"
+msgstr "0 reacties"
+
+#: comments_template.php:12 functions.php:576 functions.php:2702
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: comments_template.php:12 main-modules.php:17977
+msgid "Comments"
+msgstr "Reacties"
+
+#: comments_template.php:16 comments_template.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere reacties"
+
+#: comments_template.php:17 comments_template.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere reacties <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments_template.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: comments_template.php:54 main-modules.php:18283
+msgid "Submit Comment"
+msgstr "Reactie versturen"
+
+#: comments_template.php:54
+msgid "Submit a Comment"
+msgstr "Een reactie versturen"
+
+#: comments_template.php:54
+msgid "Leave a Reply to %s"
+msgstr "Laat een reactie achter voor %s"
+
+#: core.php:37
+msgid "Add New Layout"
+msgstr "Voeg Nieuwe Layout Toe"
+
+#: core.php:38 functions.php:5640
+msgid "Edit Layout"
+msgstr "Layout bewerken"
+
+#: core.php:39
+msgid "New Layout"
+msgstr "Nieuwe Layout"
+
+#: core.php:40 functions.php:106
+msgid "All Layouts"
+msgstr "Alle Layouts"
+
+#: core.php:41
+msgid "View Layout"
+msgstr "Bekijk Layout"
+
+#: core.php:42
+msgid "Search Layouts"
+msgstr "Zoek Layouts"
+
+#: core.php:43 core.php:1883
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: core.php:44 core.php:1884
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in Prullenbak"
+
+#: core.php:79
+msgid "Scope"
+msgstr "Bereik"
+
+#: core.php:92
+msgid "Layout Type"
+msgstr "Opmaaktype"
+
+#: core.php:105
+msgid "Module Width"
+msgstr "Module-breedte"
+
+#: core.php:118
+msgid "Category"
+msgstr "Categorie"
+
+#: core.php:211
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> widgetgebied is gecreëerd. U kunt meerdere gebieden "
+"creëren; zodra u klaar bent, herlaadt dan de pagina om alle gebieden te zien."
+
+#: core.php:345
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: core.php:346
+msgid "Editor"
+msgstr "Editor"
+
+#: core.php:347
+msgid "Author"
+msgstr "Auteur"
+
+#: core.php:348
+msgid "Contributor"
+msgstr "Medewerker"
+
+#: core.php:397
+msgid "Replace the existing content with loaded layout"
+msgstr "Vervang de bestaande contect met de nieuwe layout"
+
+#: core.php:451
+msgid "Load"
+msgstr "Laden"
+
+#: core.php:454 functions.php:1948 functions.php:3912
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: core.php:486 core.php:3594 functions.php:6328
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"U heeft nog geen items opgeslagen in uw Divi bibliotheek. Eenmaal een item "
+"is opgeslagen in uw bibliotheek, zal het hier voor makkelijk gebruik "
+"verschijnen."
+
+#: core.php:1234 core.php:1387
+msgid "Error while saving."
+msgstr "Fout tijdens opslaan."
+
+#: core.php:1241
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "Sorry, je kunt dit item niet bewerken."
+
+#: core.php:1373 core.php:1406
+msgid "Not saved, editor out of focus"
+msgstr "Niet opgeslagen, editor buiten focus"
+
+#: core.php:1381 core.php:1423
+msgid "Builder settings synced"
+msgstr "Bouwerinstellingen gesynchroniseerd"
+
+#. translators: draft saved date format, see https:secure.php.net/date
+#: core.php:1390
+msgid "g:i:s a"
+msgstr ""
+
+#. translators: %s: date and time
+#: core.php:1392
+msgid "Draft saved at %s."
+msgstr "Concept opgeslagen in %s."
+
+#: core.php:1567 core.php:1640
+msgid "Error: "
+msgstr "Fout: "
+
+#: core.php:1775
+msgid "Please enter first name"
+msgstr "Gelieve een voornaam"
+
+#: core.php:1779
+msgid "Incorrect email"
+msgstr "Onjuist e-mailadres"
+
+#: core.php:1783
+msgid "Configuration error: List is not defined"
+msgstr "Configuratie fout: Lijst is niet gedefinieerd"
+
+#: core.php:1795
+msgid "Subscribed - look for the confirmation email!"
+msgstr "Geabonneerd - kijk uit naar de bevestigingsmail!"
+
+#: core.php:1799
+msgid "Subscription Error: "
+msgstr "Aanmeldfout: "
+
+#: core.php:1874
+msgid "Projects"
+msgstr "Projecten"
+
+#: core.php:1875
+msgid "Project"
+msgstr "Project"
+
+#: core.php:1876
+msgid "Add New"
+msgstr "Nieuw toevoegen"
+
+#: core.php:1877
+msgid "Add New Project"
+msgstr "Nieuw Project Toevoegen"
+
+#: core.php:1878
+msgid "Edit Project"
+msgstr "Project Bewerken"
+
+#: core.php:1879
+msgid "New Project"
+msgstr "Nieuw Project"
+
+#: core.php:1880
+msgid "All Projects"
+msgstr "Alle Projecten"
+
+#: core.php:1881
+msgid "View Project"
+msgstr "Bekijk Project"
+
+#: core.php:1882
+msgid "Search Projects"
+msgstr "Zoeken In Projecten"
+
+#: core.php:1911
+msgid "Project Categories"
+msgstr "Categorieën"
+
+#: core.php:1912
+msgid "Project Category"
+msgstr "Project Categorie"
+
+#: core.php:1913
+msgid "Search Categories"
+msgstr "Zoeken Categorieën"
+
+#: core.php:1914 frontend-builder/helpers.php:854 functions.php:97
+#: functions.php:2352
+msgid "All Categories"
+msgstr "Alle Categorieen"
+
+#: core.php:1915
+msgid "Parent Category"
+msgstr "Bovenliggende Categorie"
+
+#: core.php:1916
+msgid "Parent Category:"
+msgstr "Bovenliggende Categorie:"
+
+#: core.php:1917
+msgid "Edit Category"
+msgstr "Wijzig Kategorie"
+
+#: core.php:1918
+msgid "Update Category"
+msgstr "Update Categorie"
+
+#: core.php:1919
+msgid "Add New Category"
+msgstr "Voeg Een Nieuwe Categorie"
+
+#: core.php:1920
+msgid "New Category Name"
+msgstr "Nieuwe Categorie Naam"
+
+#: core.php:1921 main-modules.php:18396
+msgid "Categories"
+msgstr "Categorieën"
+
+#: core.php:1933
+msgid "Project Tags"
+msgstr "Project Tags"
+
+#: core.php:1934
+msgid "Project Tag"
+msgstr "Project-Tag"
+
+#: core.php:1935
+msgid "Search Tags"
+msgstr "Zoeken Op Tags"
+
+#: core.php:1936
+msgid "All Tags"
+msgstr "Alle Tags"
+
+#: core.php:1937
+msgid "Parent Tag"
+msgstr "Bovenliggende Tag"
+
+#: core.php:1938
+msgid "Parent Tag:"
+msgstr "Bovenliggende Tag:"
+
+#: core.php:1939
+msgid "Edit Tag"
+msgstr "Tag Bewerken"
+
+#: core.php:1940
+msgid "Update Tag"
+msgstr "Update Tag"
+
+#: core.php:1941
+msgid "Add New Tag"
+msgstr "Nieuwe Tag Toevoegen"
+
+#: core.php:1942
+msgid "New Tag Name"
+msgstr "Nieuwe Tag Naam"
+
+#: core.php:1943
+msgid "Tags"
+msgstr "Tags"
+
+#: core.php:2034
+msgid ""
+"You are using the %1$s plugin. We recommend clearing the plugin cache after "
+"updating your theme."
+msgstr ""
+"U gebruikt de %1$s plugin. Wij raden u aan om de plugincache te legen na het "
+"updaten van uw thema."
+
+#: core.php:2043
+msgid "Clear Plugin Cache"
+msgstr "Leeg Plugin Cache"
+
+#: core.php:2047
+msgid ""
+"Builder files may also be cached in your browser. Please clear your browser "
+"cache."
+msgstr ""
+"Builder-bestanden kunnen ook worden opgeslagen in uw browser. Gelieve uw "
+"browsercache te legen."
+
+#: core.php:2051
+msgid "Clear Browser Cache"
+msgstr "Leeg Browser Cache"
+
+#: core.php:2075
+msgid "Builder Cache Warning"
+msgstr "Waarschuwing Builder Cache"
+
+#: core.php:2076
+msgid ""
+"The Divi Builder has been updated, however your browser is loading an old "
+"cached version of the builder. Loading old files can cause the builder to "
+"malfunction."
+msgstr ""
+"De Divi Builder is bijgewerkt, maar uw browser laadt een oude gecacheerde "
+"versie van de builder. Het laden van oude bestanden kan ertoe leiden dat de "
+"builder storingen krijgt."
+
+#: core.php:2077 core.php:2131
+msgid "Reload The Builder"
+msgstr "Herlaad de Builder"
+
+#: core.php:2080
+msgid ""
+"If you have cleared your plugin cache and browser cache, but still get this "
+"warning, then your files may be cached at the DNS or Server level. Contact "
+"your host or CDN for assistance."
+msgstr ""
+"Als u de plugincache en de browsercache hebt gewist, maar nog steeds deze "
+"waarschuwing krijgt, dan zijn uw bestanden misschien gecached op DNS of "
+"Server niveau. Neem contact op met uw poster of CDN voor hulp."
+
+#: core.php:2129
+msgid "Divi Builder Timeout"
+msgstr "Divi Builder Time-out"
+
+#: core.php:2132
+msgid ""
+"Oops, it looks like the Divi Builder failed to load. Performing the "
+"following actions may help solve the problem."
+msgstr ""
+"Oeps, het lijkt erop dat de Divi Builder niet kan worden geladen. Het "
+"probleem kan worden opgeslot door de volgende acties uit te voeren."
+
+#: core.php:2161
+msgid "You Have Unsaved Changes"
+msgstr "Er zijn niet-opgeslagen wijzigingen"
+
+#: core.php:2162
+msgid ""
+"Your page contains changes that have not been saved. If you close the "
+"builder without saving, these changes will be lost. If you would like to "
+"leave the builder and save all changes, please select <strong>Save & Exit</"
+"strong>. If you would like to discard all recent changes, choose "
+"<strong>Discard & Exit</strong>."
+msgstr ""
+"Je pagina bevat wijzigingen die niet zijn opgeslagen. Als je de bouwer sluit "
+"zonder opslaan, ben je deze wijzigingen kwijt. Als je de bouwer wilt "
+"verlaten en alle wijzigingen wilt opslaan, selecteer dan <strong>Opslaan en "
+"afsluiten</strong>. Als je alle recente wijzigingen wilt verwerpen, kies dan "
+"<strong>Verwerpen en afsluiten</strong>."
+
+#: core.php:2163
+msgid "Discard & Exit"
+msgstr "Verwerpen en afsluiten"
+
+#: core.php:2164 functions.php:3687
+msgid "Save & Exit"
+msgstr "Opslaan en verlaten"
+
+#: core.php:2191
+msgid "A Browser Backup Exists"
+msgstr "Er is een browserback-up"
+
+#: core.php:2192
+msgid ""
+"A browser backup exists for this post that is newer than  the version you "
+"are currently viewing. This backup was captured during your previous editing "
+"session, but you never saved it. Would you like to restore this backup and "
+"continue editing where you left off?"
+msgstr ""
+"Er is een browserback-up voor dit bericht, die nieuwer is dan de versie die "
+"je nu bekijkt. Deze back-up is gemaakt tijdens je vorige bewerksessie, maar "
+"je hebt die nooit opgeslagen. Wil je deze back-up terugzetten en verdergaan "
+"met bewerken waar je was gebleven?"
+
+#: core.php:2193 core.php:2222
+msgid "Don't Restore"
+msgstr "Niet terugzetten"
+
+#: core.php:2194 core.php:2223
+msgid "Restore"
+msgstr "Terugzetten"
+
+#: core.php:2220
+msgid "An Autosave Exists"
+msgstr "Er is aan automatisch opgeslagen versie"
+
+#: core.php:2221
+msgid ""
+"A recent autosave exists for this post that is newer than the version you "
+"are currently viewing. This autosave was captured during your previous "
+"editing session, but you never saved it. Would you like to restore this "
+"autosave and continue editing where you left off?"
+msgstr ""
+"Er is een automatisch opgeslagen versie voor dit bericht, die nieuwer is dan "
+"de versie die je nu bekijkt. Deze automatisch opgeslagen versie is gemaakt "
+"tijdens je vorige bewerksessie, maar je hebt die nooit opgeslagen. Wil je "
+"deze automatisch opgeslagen versie terugzetten en verdergaan met bewerken "
+"waar je was gebleven?"
+
+#: core.php:2251
+msgid "Your Save Has Failed"
+msgstr "Opslaan is mislukt"
+
+#: core.php:2252
+msgid ""
+"An error has occurred while saving your page. Various problems can cause a "
+"save to fail, such as a lack of server resources, firewall blockages, plugin "
+"conflicts or server misconfiguration. You can try saving again by clicking "
+"Try Again, or you can download a backup of your unsaved page by clicking "
+"Download Backup. Backups can be restored using the portability system while "
+"next editing your page."
+msgstr ""
+"Er is iets misgegaan bij het opslaan van je pagina. Er kunnen verschillende "
+"redenen zijn waarom het opslaan mislukt, zoals een gebrek aan serverbronnen, "
+"firewallblokkades, pluginconflicten of een servermisconfiguratie. Je kunt "
+"proberen op te slaan door te klikken op Nogmaals proberen, of je kunt een "
+"back-up van je niet-opgeslagen pagina downloaden door te klikken op Back-up "
+"downloaden. Back-ups kunnen worden teruggezet met het portabiliteitssysteem "
+"wanneer je je pagina weer bewerkt."
+
+#: core.php:2253
+msgid ""
+"Contacting your host and asking them to increase the following PHP variables "
+"may help: memory_limit, max_execution_time, upload_max_filesize, "
+"post_max_size, max_input_time, max_input_vars. In addition, auditing your "
+"firewall error log (such as ModSecurity) may reveal false positives that are "
+"preventing saves from completing."
+msgstr ""
+"Het kan helpen contact op te nemen met je host en te vragen of ze de "
+"volgende PHP-variabelen kunnen verhogen: memory_limit, max_execution_time, "
+"upload_max_filesize, post_max_size, max_input_time, max_input_vars. "
+"Daarnaast kan een analyse van je foutrapport van je firewall (zoals "
+"ModSecurity) valse positieven laten zien die ervoor zorgen dat opslaan niet "
+"lukt."
+
+#: core.php:2254
+msgid ""
+"Lastly, it is recommended that you temporarily disable all WordPress plugins "
+"and browser extensions and try to save again to determine if something is "
+"causing a conflict."
+msgstr ""
+"Tot slot is het aanbevolen dat je tijdelijk alle WordPress-plugins en "
+"browserextensies uitschakelt en nogmaals probeert op te slaan, om te zien of "
+"er ergens een conflict wordt veroorzaakt."
+
+#: core.php:2255
+msgid "Try Again"
+msgstr "Nogmaals proberen"
+
+#: core.php:2256
+msgid "Download Backup"
+msgstr "Back-up downloaden"
+
+#: core.php:2275
+msgid "You have WP_DEBUG enabled. Please disable this setting in wp-config.php"
+msgstr ""
+"U hebt  WP_DEBUG ingeschakeld. Gelieve deze instelling uit te schakelen in "
+"wp-config.php"
+
+#: core.php:2276
+msgid "Disable Debug Mode"
+msgstr "Uitschakelen van Debug Mode"
+
+#: core.php:2308
+msgid ""
+"You are using third party plugins. Try disabling each plugin to see if one "
+"is causing a conflict."
+msgstr ""
+"U maakt gebruik van plugins van derden. Probeer elke plugin uit te schakelen "
+"om te zien of deze een conflict veroorzaakt."
+
+#: core.php:2309
+msgid "Manage Your Plugins"
+msgstr "Beheer uw Plugins"
+
+#: core.php:2323
+msgid "You are using an outdated version of WordPress. Please upgrade."
+msgstr "U gebruikt een verouderde versie van WordPress. Gelieve te upgraden."
+
+#: core.php:2324
+msgid "Upgrade WordPress"
+msgstr "Upgrade WordPress"
+
+#: core.php:2342
+msgid ""
+"Please increase your PHP Memory Limit to 128M. You can return the value to "
+"default via the Divi Theme Options in the future"
+msgstr ""
+"Verhoog uw PHP geheugenlimiet naar 128M. U kunt de waarde in de toekomst "
+"weer veranderen naar de standaardinstelling via de Divi Thema opties"
+
+#: core.php:2343
+msgid "Increase Your Memory Limit Now"
+msgstr "Verhoog uw geheugenlimiet nu"
+
+#: core.php:2366
+msgid ""
+"You are using an outdated version of the theme. The latest version is %1$s"
+msgstr ""
+"U gebruikt een verouderde versie van het thema. De nieuwste versie is %1$s"
+
+#: core.php:2369
+msgid "Upgrade"
+msgstr "Upgraden"
+
+#: core.php:2467
+msgid "Disable Memory Limit Increase"
+msgstr "Uitschakelen van Geheugenlimiettoename"
+
+#: core.php:2784
+msgid "Divi Role Editor Settings"
+msgstr "Divi Rol Editor Instellingen"
+
+#: core.php:2792 frontend-builder/assets.php:67
+msgid "Divi Builder Layout"
+msgstr "Divi Builder Lay-out"
+
+#: core.php:2799
+msgid "Divi Builder Layouts"
+msgstr "Divi Builder Lay-outs"
+
+#: core.php:3716
+msgid "This is not a valid excuse to not escape the passed value."
+msgstr ""
+"Dit is geen geldig excuus om niet aan de doorgegeven waarde te ontkomen."
+
+#: core.php:3746
+msgid "This is not a valid excuse to not sanitize the passed value."
+msgstr "Dit is geen geldig excuus om de doorgegeven niet te saneren."
+
+#: framework.php:98
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Kijk dan de onderstaande velden in om ervoor te zorgen u de juiste "
+"informatie."
+
+#: framework.php:100
+msgid "Please, fill in the following fields:"
+msgstr "Alsjeblieft, vul op de volgende gebieden:"
+
+#: framework.php:101
+msgid "Please, fix the following errors:"
+msgstr "Gelieve de volgende fouten te verbeteren:"
+
+#: framework.php:102
+msgid "Invalid email"
+msgstr "Ongeldig e-mail"
+
+#: framework.php:103
+msgid "Captcha"
+msgstr "Captcha"
+
+#: framework.php:104
+msgid "Prev"
+msgstr "Vorig"
+
+#: framework.php:105
+msgid "Previous"
+msgstr "Vorige"
+
+#: framework.php:106
+msgid "Next"
+msgstr "Volgende"
+
+#: framework.php:107
+msgid "You entered the wrong number in captcha."
+msgstr "U heeft het verkeerde nummer in de captcha ingevoerd."
+
+#: framework.php:153
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr "Onbevoegde toegang. Preview kan niet worden geopend buiten %1$s."
+
+#: frontend-builder/assets.php:97 frontend-builder/helpers.php:750
+msgid "Clear"
+msgstr "Wissen"
+
+#: frontend-builder/assets.php:99
+msgid "Select Color"
+msgstr "Kleur selecteren"
+
+#: frontend-builder/assets.php:100
+msgid "Current Color"
+msgstr "Huidige kleur"
+
+#: frontend-builder/assets.php:155 functions.php:2380
+msgid "Your memory limit has been increased"
+msgstr "Uw geheugenlimiet is verhoogd"
+
+#: frontend-builder/assets.php:156 functions.php:2381
+msgid "Your memory limit can't be changed automatically"
+msgstr "Uw geheugenlimiet kan niet automatisch worden gewijzigd"
+
+#: frontend-builder/helpers.php:179
+msgid "Backup of %s"
+msgstr "Back-up van %s"
+
+#: frontend-builder/helpers.php:229
+msgid "Column %s Background Image"
+msgstr "Kolom %s achtergrondafbeelding"
+
+#: frontend-builder/helpers.php:235 main-modules.php:3707
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Indien gedefinieerd, wordt deze afbeelding gebruikt als achtergrond voor "
+"deze module. Om de achtergrondafbeelding te verwijderen, wis dan binnen de "
+"instellingen de URL."
+
+#: frontend-builder/helpers.php:241
+msgid "Column %s Background Color"
+msgstr "Kolom %s achtergrondkleur"
+
+#: frontend-builder/helpers.php:249
+msgid "Column %s Parallax Effect"
+msgstr "Kolom %s parallaxeffect"
+
+#: frontend-builder/helpers.php:264 main-modules.php:17120
+#: main-modules.php:22169
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Hier kunt u kiezen of het parallax-effect voor de aanbevolen afbeelding "
+"gebruikt wordt of niet"
+
+#: frontend-builder/helpers.php:270
+msgid "Column %s Parallax Method"
+msgstr "Kolom %s parallaxmethode"
+
+#: frontend-builder/helpers.php:281 main-modules.php:17133
+#: main-modules.php:22182
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Hier kunt u kiezen welke parallax-methode gebruikt wordt voor de aanbevolen "
+"afbeelding"
+
+#: frontend-builder/helpers.php:287
+msgid "Column %s Background Image Size"
+msgstr "Kolom %s Afmeting achtergrondafbeelding"
+
+#: frontend-builder/helpers.php:303
+msgid "Column %s Background Image Position"
+msgstr "Kolom %s Positie achtergrondafbeelding"
+
+#: frontend-builder/helpers.php:325
+msgid "Column %s Background Image Repeat"
+msgstr "Kolom %s Herhalen achtergrondafbeelding"
+
+#: frontend-builder/helpers.php:344
+msgid "Column %s Background Image Blend"
+msgstr "Kolom %s Overvloeien achtergrondafbeelding"
+
+#: frontend-builder/helpers.php:373
+msgid "Column %s Use Background Color Gradient"
+msgstr "Kolom %s Gebruik achtergrond met kleurverloop"
+
+#: frontend-builder/helpers.php:394
+msgid "Column %s Gradient Start"
+msgstr "Column %s Begin verloop"
+
+#: frontend-builder/helpers.php:408
+msgid "Column %s Gradient End"
+msgstr "Column %s Einde verloop"
+
+#: frontend-builder/helpers.php:422
+msgid "Column %s Gradient Type"
+msgstr "Column %s Type verloop"
+
+#: frontend-builder/helpers.php:444
+msgid "Column %s Gradient Direction"
+msgstr "Column %s Richting verloop"
+
+#: frontend-builder/helpers.php:465
+msgid "Column %s Radial Direction"
+msgstr "Column %s Richting radiaal"
+
+#: frontend-builder/helpers.php:490
+msgid "Column %s Start Position"
+msgstr "Column %s Beginpositie"
+
+#: frontend-builder/helpers.php:511
+msgid "Column %s End Position"
+msgstr "Column %s Eindpositie"
+
+#: frontend-builder/helpers.php:532
+msgid "Column %s Background Video MP4"
+msgstr "Kolom %s Achtergrondvideo MP4"
+
+#: frontend-builder/helpers.php:544
+msgid "Column %s Background Video Webm"
+msgstr "Kolom %s Achtergrondvideo WebM"
+
+#: frontend-builder/helpers.php:556
+msgid "Column %s Background Video Width"
+msgstr "Kolom %s Breedte achtergrondvideo"
+
+#: frontend-builder/helpers.php:563
+msgid "Column %s Background Video Height"
+msgstr "Kolom %s Hoogte achtergrondvideo"
+
+#: frontend-builder/helpers.php:571
+msgid "Column %s Pause Video"
+msgstr "Kolom %s Video pauzeren"
+
+#: frontend-builder/helpers.php:596
+msgid "Column %s Custom Padding"
+msgstr "Kolom %s aangepaste opvulling"
+
+#: frontend-builder/helpers.php:600 main-structure-elements.php:277
+#: main-structure-elements.php:1771 main-structure-elements.php:3152
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Buffer aanpassen naar specifieke waarden of leeg laten om de standaardbuffer "
+"te gebruiken."
+
+#: frontend-builder/helpers.php:608
+msgid "Column %s CSS ID"
+msgstr "Kolom %s CSS-id"
+
+#: frontend-builder/helpers.php:617
+msgid "Column %s CSS Class"
+msgstr "Kolom %s CSS-klasse"
+
+#: frontend-builder/helpers.php:626
+msgid "Column %s before"
+msgstr "Kolom %s voor"
+
+#: frontend-builder/helpers.php:634
+msgid "Column %s Main Element"
+msgstr "Kolom %s hoofdelement"
+
+#: frontend-builder/helpers.php:640
+msgid "Column %s After"
+msgstr "Kolom %s na"
+
+#: frontend-builder/helpers.php:672
+msgid "Column %s Background"
+msgstr "Kolom %s Achtergrond"
+
+#: frontend-builder/helpers.php:675 main-modules.php:12387
+msgid "Thanks for contacting us"
+msgstr "Dank dat u contact met ons heeft opgenomen"
+
+#: frontend-builder/helpers.php:676 frontend-builder/helpers.php:727
+#: main-modules.php:7994 main-modules.php:12536
+msgid "Submit"
+msgstr "Indienen"
+
+#: frontend-builder/helpers.php:679 main-modules.php:13165
+msgid "No options added."
+msgstr "Geen opties toegevoegd."
+
+#: frontend-builder/helpers.php:680
+msgid "-- Please Select --"
+msgstr "-- Selecteer --"
+
+#: frontend-builder/helpers.php:683 main-modules.php:16017
+msgid "Day(s)"
+msgstr "Dag(en)"
+
+#: frontend-builder/helpers.php:684 main-modules.php:16024
+msgid "Day"
+msgstr "Dag"
+
+#: frontend-builder/helpers.php:685 main-modules.php:16018
+msgid "Hour(s)"
+msgstr "Uur(s)"
+
+#: frontend-builder/helpers.php:686 main-modules.php:16019
+msgid "Hrs"
+msgstr "Uren"
+
+#: frontend-builder/helpers.php:687 main-modules.php:16020
+msgid "Minute(s)"
+msgstr "Minute(s)"
+
+#: frontend-builder/helpers.php:688 main-modules.php:16021
+msgid "Min"
+msgstr "Min"
+
+#: frontend-builder/helpers.php:689 main-modules.php:16022
+msgid "Second(s)"
+msgstr "Second(s)"
+
+#: frontend-builder/helpers.php:690 main-modules.php:16023
+msgid "Sec"
+msgstr "Sec"
+
+#: frontend-builder/helpers.php:693 functions.php:6382 main-modules.php:8418
+#: main-modules.php:12317
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: frontend-builder/helpers.php:694 main-modules.php:8416
+msgid "First Name"
+msgstr "Voornaam"
+
+#: frontend-builder/helpers.php:695 main-modules.php:8417
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: frontend-builder/helpers.php:696 functions.php:6381 main-modules.php:8493
+#: main-modules.php:12316 main-modules.php:13863
+msgid "Name"
+msgstr "Naam"
+
+#: frontend-builder/helpers.php:697 main-modules.php:12097
+#: main-modules.php:12194
+msgid "Email"
+msgstr "E-mail"
+
+#: frontend-builder/helpers.php:700 main-modules.php:10211
+#: main-modules.php:12785 main-modules.php:12839
+msgid "All"
+msgstr "Alle"
+
+#: frontend-builder/helpers.php:703
+msgid "Login as %s"
+msgstr "Inloggen als %s"
+
+#: frontend-builder/helpers.php:704 main-modules.php:8569 main-modules.php:8999
+msgid "Login"
+msgstr "Log in"
+
+#: frontend-builder/helpers.php:705 main-modules.php:8959
+msgid "Log out"
+msgstr "Afmelden"
+
+#: frontend-builder/helpers.php:706 main-modules.php:8992
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: frontend-builder/helpers.php:707 main-modules.php:8971
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: frontend-builder/helpers.php:708 main-modules.php:8972
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: frontend-builder/helpers.php:709
+msgid ""
+"Note: this field is used to disable browser autofill during the form editing "
+"in VB"
+msgstr ""
+"Let op: dit veld wordt gebruikt om automatisch invullen door de browser uit "
+"te schakelen tijdens het bewerken van formulieren in VB"
+
+#: frontend-builder/helpers.php:712 frontend-builder/helpers.php:719
+msgid "by "
+msgstr "door "
+
+#: frontend-builder/helpers.php:715 frontend-builder/helpers.php:826
+#: main-modules.php:17540 main-modules.php:17967
+msgid "Search"
+msgstr "Zoeken"
+
+#: frontend-builder/helpers.php:716 main-modules.php:17966
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+#: frontend-builder/helpers.php:722 main-modules.php:16837
+msgid "Follow"
+msgstr "Volgen"
+
+#: frontend-builder/helpers.php:725 frontend-builder/helpers.php:921
+#: functions.php:3239 functions.php:3933 functions.php:3988 functions.php:4134
+#: functions.php:4256 functions.php:6573
+msgid "Save"
+msgstr "Opslaan"
+
+#: frontend-builder/helpers.php:726
+msgid "Save Draft"
+msgstr "Concept opslaan"
+
+#: frontend-builder/helpers.php:727 frontend-builder/helpers.php:922
+#: functions.php:6573
+msgid "Publish"
+msgstr "Publiceren"
+
+#: frontend-builder/helpers.php:730
+msgid "Visual"
+msgstr "Visueel"
+
+#: frontend-builder/helpers.php:740
+msgid "Add Media"
+msgstr "Media toevoegen"
+
+#: frontend-builder/helpers.php:741
+msgid "Insert Media"
+msgstr "Media invoegen"
+
+#: frontend-builder/helpers.php:751 functions.php:2385
+msgid "Select"
+msgstr "Selecteren"
+
+#: frontend-builder/helpers.php:754 functions.php:440
+msgid "Update Gallery"
+msgstr "Galerij updaten"
+
+#: frontend-builder/helpers.php:757 main-modules.php:16120
+#: main-modules.php:16326 main-modules.php:21196
+msgid "Find"
+msgstr "Zoeken"
+
+#: frontend-builder/helpers.php:758 functions.php:2345
+msgid "Geocode was not successful for the following reason"
+msgstr "Geocode was niet succesvol om de volgende reden:"
+
+#: frontend-builder/helpers.php:759 functions.php:2346
+msgid "Geocoder failed due to"
+msgstr "Geocoder is mislukt om"
+
+#: frontend-builder/helpers.php:760 functions.php:2347
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+#: frontend-builder/helpers.php:761 functions.php:2360
+msgid "Invalid Pin and address data. Please try again."
+msgstr "Ongeldige pin en adresgegevens. Probeer opnieuw."
+
+#: frontend-builder/helpers.php:769 main-modules.php:16105
+#: main-modules.php:21181
+msgid "Change API Key"
+msgstr "API-key wijzigen"
+
+#: frontend-builder/helpers.php:770 main-modules.php:1148 main-modules.php:1643
+msgid "Generate From Video"
+msgstr "Genereer van video"
+
+#: frontend-builder/helpers.php:787 frontend-builder/helpers.php:932
+#: functions.php:3214 functions.php:3300 functions.php:3301 functions.php:6795
+#: functions.php:7119
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: frontend-builder/helpers.php:788 frontend-builder/helpers.php:931
+#: functions.php:3215 functions.php:3292 functions.php:3293 functions.php:6803
+#: functions.php:7126
+msgid "Redo"
+msgstr "Opnieuw"
+
+#: frontend-builder/helpers.php:789 functions.php:3131
+msgid "Lock"
+msgstr "Slot"
+
+#: frontend-builder/helpers.php:790 functions.php:3130
+msgid "Unlock"
+msgstr "Ontgrendelen"
+
+#: frontend-builder/helpers.php:791 functions.php:3100
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: frontend-builder/helpers.php:792 functions.php:3112 functions.php:3118
+msgid "Paste"
+msgstr "Plakken"
+
+#: frontend-builder/helpers.php:793
+msgid "Copy Style"
+msgstr "Stijl kopiëren"
+
+#: frontend-builder/helpers.php:794
+msgid "Paste Style"
+msgstr "Stijl plakken"
+
+#: frontend-builder/helpers.php:795 functions.php:3140
+msgid "Disable"
+msgstr "Uit"
+
+#: frontend-builder/helpers.php:796 functions.php:3139 main-modules.php:12819
+msgid "Enable"
+msgstr "Aan"
+
+#: frontend-builder/helpers.php:797 frontend-builder/helpers.php:853
+#: functions.php:3124 functions.php:3259 functions.php:3260
+msgid "Save to Library"
+msgstr "Opslaan in bibliotheek"
+
+#: frontend-builder/helpers.php:800 functions.php:2052 functions.php:2641
+#: functions.php:6461 functions.php:6582 main-structure-elements.php:1379
+#: main-structure-elements.php:2912
+msgid "Row"
+msgstr "Rij"
+
+#: frontend-builder/helpers.php:801 functions.php:2053 functions.php:2636
+#: functions.php:6459 functions.php:6580 main-structure-elements.php:5
+msgid "Section"
+msgstr "Sectie"
+
+#: frontend-builder/helpers.php:803 functions.php:3158
+msgid "Disable Global"
+msgstr "Uitschakelen van globale"
+
+#: frontend-builder/helpers.php:806 functions.php:3826
+msgid "Insert Module"
+msgstr "Module invoegen"
+
+#: frontend-builder/helpers.php:807 functions.php:3782
+msgid "Insert Columns"
+msgstr "Kolom invoegen"
+
+#: frontend-builder/helpers.php:808
+msgid "Insert Section"
+msgstr "Sectie invoegen"
+
+#: frontend-builder/helpers.php:809
+msgid "Insert Row"
+msgstr "Rij invoegen"
+
+#: frontend-builder/helpers.php:810 functions.php:3827
+msgid "New Module"
+msgstr "Nieuwe module"
+
+#: frontend-builder/helpers.php:811 functions.php:3784
+msgid "New Row"
+msgstr "Nieuwe rij"
+
+#: frontend-builder/helpers.php:812
+msgid "New Section"
+msgstr "Nieuwe sectie"
+
+#: frontend-builder/helpers.php:813 functions.php:3445 functions.php:3754
+#: functions.php:3797 functions.php:3860 functions.php:5594
+msgid "Add From Library"
+msgstr "Toevoegen vanuit bibliotheek"
+
+#: frontend-builder/helpers.php:814
+msgid "Add to Library"
+msgstr "Toevoegen aan bibliotheek"
+
+#: frontend-builder/helpers.php:815
+msgid "loading..."
+msgstr "laden..."
+
+#: frontend-builder/helpers.php:816 functions.php:6498
+msgid "Regular"
+msgstr "Standaard"
+
+#: frontend-builder/helpers.php:817 functions.php:6500 main-modules.php:9150
+#: main-modules.php:9780 main-modules.php:14262
+msgid "Fullwidth"
+msgstr "Volle breedte"
+
+#: frontend-builder/helpers.php:818 functions.php:6499
+msgid "Specialty"
+msgstr "Specialiteit"
+
+#: frontend-builder/helpers.php:819
+msgid "Choose Layout"
+msgstr "Layout kiezen"
+
+#: frontend-builder/helpers.php:820 frontend-builder/helpers.php:912
+#: functions.php:3275 functions.php:3276 functions.php:3957
+msgid "Clear Layout"
+msgstr "Lay-out wissen"
+
+#: frontend-builder/helpers.php:821
+msgid "All of your current page content will be lost. Do you wish to proceed?"
+msgstr "De huidige inhoud op je pagina gaat verloren. Wil je doorgaan?"
+
+#: frontend-builder/helpers.php:823 frontend-builder/helpers.php:910
+#: functions.php:3267 functions.php:3268
+msgid "Load From Library"
+msgstr "Opladen vanuit bibliotheek"
+
+#: frontend-builder/helpers.php:824 functions.php:3859
+msgid "Predefined Layouts"
+msgstr "Voorgedefinieerde opmaken"
+
+#: frontend-builder/helpers.php:825
+msgid "Replace existing content."
+msgstr "Bestaande inhoud overschrijven."
+
+#: frontend-builder/helpers.php:827 frontend-builder/helpers.php:915
+#: functions.php:5662 functions.php:5666
+msgid "Portability"
+msgstr "Draagbaarheid"
+
+#: frontend-builder/helpers.php:828
+msgid "Export"
+msgstr "Exporteren"
+
+#: frontend-builder/helpers.php:829
+msgid "Import"
+msgstr "Importeren"
+
+#: frontend-builder/helpers.php:830
+msgid ""
+"Exporting your Divi Builder Layout will create a JSON file that can be "
+"imported into a different website."
+msgstr ""
+"Door je Divi Builder-layout te exporteren wordt een JSON-bestand aangemaakt, "
+"dat kan worden geïmporteerd naar een andere website."
+
+#: frontend-builder/helpers.php:831
+msgid "Export File Name"
+msgstr "Exporteer bestandsnaam"
+
+#: frontend-builder/helpers.php:832
+msgid "Export Divi Builder Layout"
+msgstr "Divi Builder-layout exporteren"
+
+#: frontend-builder/helpers.php:833
+msgid ""
+"Importing a previously-exported Divi Builder Layout file will overwrite all "
+"content currently on this page."
+msgstr ""
+"Door een eerder geëxporteerde Divi Builder-layout te importeren wordt alle "
+"huidige inhoud op deze pagina overschreven."
+
+#: frontend-builder/helpers.php:834
+msgid "Select File To Import"
+msgstr "Selecteer bestand om te importeren"
+
+#: frontend-builder/helpers.php:835
+msgid "Download backup before importing"
+msgstr "Download back-up voor het importeren"
+
+#: frontend-builder/helpers.php:836
+msgid "Import Divi Builder Layout"
+msgstr "Divi Builder-layout importeren"
+
+#: frontend-builder/helpers.php:837
+msgid "No File Selected"
+msgstr "Geen bestand geselecteerd"
+
+#: frontend-builder/helpers.php:838
+msgid "Choose File"
+msgstr "Kies bestand"
+
+#: frontend-builder/helpers.php:841
+msgid "Include General Settings"
+msgstr "Algemene instellingen insluiten"
+
+#: frontend-builder/helpers.php:842
+msgid "Include Advanced Design Settings"
+msgstr "Geavanceerde ontwerpinstellingen insluiten"
+
+#: frontend-builder/helpers.php:843 functions.php:4064
+msgid "Include Custom CSS"
+msgstr "Gebruiks-CSS insluiten"
+
+#: frontend-builder/helpers.php:844 functions.php:2086
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr ""
+"Een categorie (ën) selecteren voor een nieuw model of een nieuwe naam typen "
+"(optioneel)"
+
+#: frontend-builder/helpers.php:845 functions.php:2129 functions.php:4096
+msgid "Template Name"
+msgstr "Modelnaam"
+
+#: frontend-builder/helpers.php:846
+msgid "Please select at least 1 tab to save"
+msgstr "Minstens 1 tab selecteren om op te slaan"
+
+#: frontend-builder/helpers.php:847
+msgid "Save as Global"
+msgstr "Opslaan als globaal"
+
+#: frontend-builder/helpers.php:848 functions.php:4098
+msgid "Make this a global item"
+msgstr "Van dit een globaal item maken"
+
+#: frontend-builder/helpers.php:849 functions.php:4045
+msgid "Create New Category"
+msgstr "Nieuwe categorie aanmaken"
+
+#: frontend-builder/helpers.php:850
+msgid "Add To Categories"
+msgstr "Toevoegen aan categorieën"
+
+#: frontend-builder/helpers.php:851
+msgid "Here you can add the current item to your Divi Library for later use."
+msgstr ""
+"Je kunt het huidige item hier toevoegen aan je Divi-bibliotheek om later te "
+"gebruiken."
+
+#: frontend-builder/helpers.php:852 functions.php:4002
+msgid "Save your current page to the Divi Library for later use."
+msgstr "Uw huidige pagina opslaan in de Divi bibliotheek voor later gebruik."
+
+#: frontend-builder/helpers.php:858
+msgid "General"
+msgstr "Algemeen"
+
+#: frontend-builder/helpers.php:863
+msgid "%s Settings"
+msgstr "%s-instellingen"
+
+#: frontend-builder/helpers.php:870
+msgid "Search Options"
+msgstr "Zoekopties"
+
+#: frontend-builder/helpers.php:874 frontend-builder/helpers.php:914
+msgid "Editing History"
+msgstr "Wijzigingsgeschiedenis"
+
+#: frontend-builder/helpers.php:876
+msgid "History States"
+msgstr "Geschiedenisstatussen"
+
+#: frontend-builder/helpers.php:883 functions.php:4561
+msgid "Divi Builder Helper"
+msgstr "Divi Builder-helper"
+
+#: frontend-builder/helpers.php:885 functions.php:4562
+msgid "Shortcuts"
+msgstr "Snelkoppelingen"
+
+#: frontend-builder/helpers.php:891 functions.php:2414
+msgid ""
+"You do not have permission to edit the module, row or section in this split "
+"test."
+msgstr ""
+"Je hebt geen toestemming om de module, rij of sectie te wijzigen in deze "
+"splittest."
+
+#: frontend-builder/helpers.php:892 functions.php:2498
+msgid ""
+"A split testing goal cannot be moved inside of a split testing subject. To "
+"perform this action you must first end your split test."
+msgstr ""
+"Een splittestdoel kan niet binnen een splittestonderwerp worden verplaatst. "
+"Om deze actie uit te voeren moet u eerst uw splittest te beëindigen."
+
+#: frontend-builder/helpers.php:893 functions.php:2502
+msgid ""
+"A split testing subject cannot be moved inside of a split testing goal. To "
+"perform this action you must first end your split test."
+msgstr ""
+"Een splittestonderwep kan niet binnen een split testdoel worden verplaatst. "
+"Om deze actie uit te voeren moet u eerst uw splittest beëindigen."
+
+#: frontend-builder/helpers.php:894 frontend-builder/helpers.php:897
+#: functions.php:2490 functions.php:2494
+msgid ""
+"Once set, a goal that has been placed inside a split testing subject cannot "
+"be moved outside the split testing subject. You can end your split test and "
+"start a new one if you would like to make this change."
+msgstr ""
+"Eenmaal ingesteld, kan een onderwerp dat in een splittestdoel is geplaatst "
+"niet buiten het splittestonderwep worden verplaatst. U kunt uw splittest "
+"beëindigen en een nieuwe beginnen als u deze verandering zou willen maken."
+
+#: frontend-builder/helpers.php:895 functions.php:2339
+msgid "The section should have at least one row."
+msgstr "De sectie moet ten minste een rij hebben."
+
+#: frontend-builder/helpers.php:896 functions.php:2351
+msgid "You cannot add global modules into global sections or rows"
+msgstr "U kunt geen globale modules toevoegen aan globale secties of rijen"
+
+#: frontend-builder/helpers.php:898 functions.php:2341
+msgid "3 column row can't be used in this column."
+msgstr "3 kolommen rij kan niet gebruikt worden in deze kolom."
+
+#: frontend-builder/helpers.php:903
+msgid "Wireframe View"
+msgstr "Draadmodelweergave"
+
+#: frontend-builder/helpers.php:904
+msgid "Zoom Out"
+msgstr "Uitzoomen"
+
+#: frontend-builder/helpers.php:905
+msgid "Desktop View"
+msgstr "Desktopweergave"
+
+#: frontend-builder/helpers.php:906
+msgid "Tablet View"
+msgstr "Tabletweergave"
+
+#: frontend-builder/helpers.php:907
+msgid "Phone View"
+msgstr "Telefoonweergave"
+
+#: frontend-builder/helpers.php:911 functions.php:4001 functions.php:5590
+msgid "Save To Library"
+msgstr "Opslaan in bibliotheek"
+
+#: frontend-builder/helpers.php:913
+msgid "Page Settings"
+msgstr "Pagina-instellingen"
+
+#: frontend-builder/helpers.php:916
+msgid "Expand Settings"
+msgstr "Instellingen uitklappen"
+
+#: frontend-builder/helpers.php:917
+msgid "Collapse Settings"
+msgstr "Instellingen inklappen"
+
+#: frontend-builder/helpers.php:920
+msgid "Save as Draft"
+msgstr "Opslaan als concept"
+
+#: frontend-builder/helpers.php:926
+msgid "Expand Modal"
+msgstr "Modaal vergroten"
+
+#: frontend-builder/helpers.php:927
+msgid "Contract Modal"
+msgstr "Modaal verkleinen"
+
+#: frontend-builder/helpers.php:928
+msgid "Resize Modal"
+msgstr "Formaat modaal wijzigen"
+
+#: frontend-builder/helpers.php:929
+msgid "Snap to Left"
+msgstr "Links vastmaken"
+
+#: frontend-builder/helpers.php:930
+msgid "Separate Modal"
+msgstr "Modaal scheiden"
+
+#: frontend-builder/helpers.php:933
+msgid "Discard All Changes"
+msgstr "Alle wijzigingen verwerpen"
+
+#: frontend-builder/helpers.php:934 functions.php:7111
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: frontend-builder/helpers.php:937
+msgid "Go Back"
+msgstr "Terug"
+
+#: frontend-builder/helpers.php:938
+msgid "Decrease Font Size"
+msgstr "Tekstgrootte verkleinen"
+
+#: frontend-builder/helpers.php:939
+msgid "Increase Font Size"
+msgstr "Tekstgrootte vergroten"
+
+#: frontend-builder/helpers.php:940
+msgid "Bold Text"
+msgstr "Vetgedrukte tekst"
+
+#: frontend-builder/helpers.php:941
+msgid "Italic Text"
+msgstr "Cursieve tekst"
+
+#: frontend-builder/helpers.php:942
+msgid "Underline Text"
+msgstr "Onderstreepte tekst"
+
+#: frontend-builder/helpers.php:943
+msgid "Insert Link"
+msgstr "Link invoegen"
+
+#: frontend-builder/helpers.php:944
+msgid "Insert Quote"
+msgstr "Citaat invoegen"
+
+#: frontend-builder/helpers.php:945
+msgid "Text Alignment"
+msgstr "Tekstuitlijning"
+
+#: frontend-builder/helpers.php:946
+msgid "Center Text"
+msgstr "Tekst centreren"
+
+#: frontend-builder/helpers.php:947
+msgid "Right Text"
+msgstr "Tekst rechts uitlijnen"
+
+#: frontend-builder/helpers.php:948
+msgid "Left Text"
+msgstr "Tekst links uitlijnen"
+
+#: frontend-builder/helpers.php:949
+msgid "Justify Text"
+msgstr "Tekst uitvullen"
+
+#: frontend-builder/helpers.php:950
+msgid "List Settings"
+msgstr "Lijstinstellingen"
+
+#: frontend-builder/helpers.php:951
+msgid "Indent List"
+msgstr "Lijst inspringen"
+
+#: frontend-builder/helpers.php:952
+msgid "Undent List"
+msgstr "Lijst uitspringen"
+
+#: frontend-builder/helpers.php:953
+msgid "Insert Ordered List"
+msgstr "Geordende lijst invoegen"
+
+#: frontend-builder/helpers.php:954
+msgid "Insert Unordered List"
+msgstr "Ongeordende lijst invoegen"
+
+#: frontend-builder/helpers.php:955
+msgid "Text Settings"
+msgstr "Tekstinstellingen"
+
+#: frontend-builder/helpers.php:956 main-modules.php:759 main-modules.php:1894
+#: main-modules.php:2345 main-modules.php:3921 main-modules.php:4784
+#: main-modules.php:5745 main-modules.php:7067 main-modules.php:7372
+#: main-modules.php:7660 main-modules.php:8144 main-modules.php:8722
+#: main-modules.php:9220 main-modules.php:9851 main-modules.php:10370
+#: main-modules.php:11017 main-modules.php:11274 main-modules.php:13330
+#: main-modules.php:13903 main-modules.php:14490 main-modules.php:15876
+#: main-modules.php:16477 main-modules.php:17223 main-modules.php:17653
+#: main-modules.php:18181 main-modules.php:18983 main-modules.php:19660
+#: main-modules.php:20780 main-modules.php:22272 main-modules.php:23073
+msgid "Text Color"
+msgstr "Tekstkleur Test"
+
+#: frontend-builder/helpers.php:958
+msgid "Insert Heading One"
+msgstr "Koptekst één invoegen"
+
+#: frontend-builder/helpers.php:959
+msgid "Insert Heading Two"
+msgstr "Koptekst twee invoegen"
+
+#: frontend-builder/helpers.php:960
+msgid "Insert Heading Three"
+msgstr "Koptekst drie invoegen"
+
+#: frontend-builder/helpers.php:961
+msgid "Insert Heading Four"
+msgstr "Koptekst vier invoegen"
+
+#: frontend-builder/helpers.php:966
+msgid "Move Section"
+msgstr "Sectie verplaatsen"
+
+#: frontend-builder/helpers.php:967
+msgid "Section Settings"
+msgstr "Sectie-instellingen"
+
+#: frontend-builder/helpers.php:968
+msgid "Duplicate Section"
+msgstr "Sectie dupliceren"
+
+#: frontend-builder/helpers.php:969
+msgid "Save Section To Library"
+msgstr "Sectie opslaan in bibliotheek"
+
+#: frontend-builder/helpers.php:970 functions.php:3412 functions.php:3413
+msgid "Delete Section"
+msgstr "Sectie verwijderen"
+
+#: frontend-builder/helpers.php:972 functions.php:7009
+msgid "Add New Section"
+msgstr "Nieuwe sectie toevoegen"
+
+#: frontend-builder/helpers.php:976
+msgid "Move Row"
+msgstr "Rij verplaatsen"
+
+#: frontend-builder/helpers.php:977
+msgid "Row Settings"
+msgstr "Rij-instellingen"
+
+#: frontend-builder/helpers.php:978
+msgid "Duplicate Row"
+msgstr "Rij dupliceren"
+
+#: frontend-builder/helpers.php:979
+msgid "Save Row To Library"
+msgstr "Rij opslaan in bibliotheek"
+
+#: frontend-builder/helpers.php:980 functions.php:3529 functions.php:3530
+msgid "Delete Row"
+msgstr "Rij verwijderen"
+
+#: frontend-builder/helpers.php:981 functions.php:6979
+msgid "Change Column Structure"
+msgstr "Kolomstructuur wijzigen"
+
+#: frontend-builder/helpers.php:983 functions.php:7001
+msgid "Add New Row"
+msgstr "Nieuwe rij toevoegen"
+
+#: frontend-builder/helpers.php:984
+msgid "Choose Column Structure"
+msgstr "Kolomstructuur kiezen"
+
+#: frontend-builder/helpers.php:988
+msgid "Move Module"
+msgstr "Module verplaatsen"
+
+#: frontend-builder/helpers.php:989 functions.php:3661 functions.php:3662
+msgid "Module Settings"
+msgstr "Module instellingen"
+
+#: frontend-builder/helpers.php:990
+msgid "Duplicate Module"
+msgstr "Module dupliceren"
+
+#: frontend-builder/helpers.php:991
+msgid "Save Module To Library"
+msgstr "Module opslaan in bibliotheek"
+
+#: frontend-builder/helpers.php:992
+msgid "Delete Module"
+msgstr "Module verwijderen"
+
+#: frontend-builder/helpers.php:994
+msgid "Add New Module"
+msgstr "Nieuwe module toevoegen"
+
+#: frontend-builder/helpers.php:997
+msgid ""
+"Unsaved changes will be lost if you leave the Divi Builder at this time."
+msgstr ""
+"Niet opgeslagen wijzigen gaan verloren als de de Divi Builder nu verlaat."
+
+#: frontend-builder/helpers.php:998
+msgid ""
+"Error loading Library items from server. Please refresh the page and try "
+"again."
+msgstr ""
+"Fout bij laden van bibliotheekitems van server. Ververs de pagina en probeer "
+"het nogmaals."
+
+#: functions.php:107 functions.php:6463 functions.php:6584
+msgid "Modules"
+msgstr "Modules"
+
+#: functions.php:108 functions.php:6491 functions.php:6507
+msgid "Rows"
+msgstr "Rijen"
+
+#: functions.php:109 functions.php:6490
+msgid "Sections"
+msgstr "Secties"
+
+#: functions.php:110
+msgid "Layouts"
+msgstr "Lay-outs"
+
+#: functions.php:114
+msgid "Global/not Global"
+msgstr "Globaal/niet globaal"
+
+#: functions.php:115 functions.php:2080
+msgid "Global"
+msgstr "Globaal"
+
+#: functions.php:116
+msgid "not Global"
+msgstr "niet globaal"
+
+#: functions.php:169 functions.php:186 functions.php:201 functions.php:2232
+msgid "you don't have sufficient permissions to access this page"
+msgstr ""
+"u hebt niet de voldoende machtigingen om toegang te krijgen tot deze pagina"
+
+#: functions.php:296
+msgid "Mine"
+msgstr "Van mij"
+
+#: functions.php:422
+msgid "Justified"
+msgstr "Uitgelijnd"
+
+#: functions.php:449
+msgid "Select a menu"
+msgstr "Selecteer een menu"
+
+#: functions.php:574 functions.php:2700
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: functions.php:578
+msgid "%d Comments"
+msgstr "%d Reacties"
+
+#: functions.php:596 functions.php:2683
+msgid "Posts by %s"
+msgstr "Posts van %s"
+
+#: functions.php:1130
+msgid "You currently don't have any projects assigned to a category."
+msgstr "U hebt momenteel geen projecten toegewezen aan een categorie."
+
+#: functions.php:1248
+msgid "Solid"
+msgstr "Vast"
+
+#: functions.php:1249
+msgid "Dotted"
+msgstr "Gestipt"
+
+#: functions.php:1250
+msgid "Dashed"
+msgstr "Gestippeld"
+
+#: functions.php:1251
+msgid "Double"
+msgstr "Dubbel"
+
+#: functions.php:1252
+msgid "Groove"
+msgstr "Groef"
+
+#: functions.php:1253
+msgid "Ridge"
+msgstr "Rug"
+
+#: functions.php:1254
+msgid "Inset"
+msgstr "Inzet"
+
+#: functions.php:1255
+msgid "Outset"
+msgstr "Begin"
+
+#: functions.php:1597
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"U heeft geen voldoende vergunningen om de content van deze site te "
+"exporteren."
+
+#: functions.php:1599
+msgid "Manage Categories"
+msgstr "Categorieën beheren"
+
+#: functions.php:1878 functions.php:1880
+msgid "Use Default Editor"
+msgstr "Gebruik Standaard Editor"
+
+#: functions.php:1878 functions.php:1879
+msgid "Use The Divi Builder"
+msgstr "De Divi opbouwfunctie gebruiken"
+
+#: functions.php:1889 functions.php:5581
+msgid "Use Visual Builder"
+msgstr "Visual Builder gebruiken"
+
+#: functions.php:1943
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Hier kunt u nieuwe widgetgebieden creëren die gebruikt kunnen worden in de "
+"zijbalkmodule."
+
+#: functions.php:1944
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Let op: Als u u widgetgebied \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" of \"sidebar 5\" noemt, zal dit confliceteren met dit thema."
+
+#: functions.php:1945
+msgid "Widget Name"
+msgstr "Widgetnaam"
+
+#: functions.php:1946
+msgid "Create"
+msgstr "Creëren"
+
+#: functions.php:2051
+msgid "Fullwidth Module"
+msgstr "Module met volle breedte"
+
+#: functions.php:2054 functions.php:2638 functions.php:3456
+msgid "Fullwidth Section"
+msgstr "Sectie volle breedte"
+
+#: functions.php:2055 functions.php:2639 functions.php:3462
+msgid "Specialty Section"
+msgstr "Speciale sectie"
+
+#: functions.php:2056 functions.php:2646 main-modules.php:558
+#: main-modules.php:677 main-modules.php:3027 main-modules.php:4535
+#: main-modules.php:6125 main-modules.php:6589 main-modules.php:9086
+#: main-modules.php:9146 main-modules.php:9685 main-modules.php:9776
+#: main-modules.php:10306 main-modules.php:12646 main-modules.php:13267
+#: main-modules.php:14186 main-modules.php:14258 main-modules.php:18835
+#: main-modules.php:19558 main-modules.php:20114 main-modules.php:20628
+#: main-modules.php:20722 main-modules.php:22688
+#: main-structure-elements.php:153
+msgid "Layout"
+msgstr "Lay-out"
+
+#: functions.php:2064
+msgid "Template Type"
+msgstr "Sjabloontype"
+
+#: functions.php:2128
+msgid "New Template Settings"
+msgstr "Nieuwe modelinstellingen"
+
+#: functions.php:2340
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"De Volledige breedte module kan niet gebruikt worden buiten de Volledige "
+"breedte Sectie."
+
+#: functions.php:2342 functions.php:3219 functions.php:3704
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: functions.php:2344
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Stilstaande beelden kunnen niet gegenereerd worden van deze video service en/"
+"of dit videoformaat"
+
+#: functions.php:2348
+msgid "No available options for this configuration."
+msgstr "Geen beschikbare opties voor deze configuratie."
+
+#: functions.php:2349
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"U staat op het punt de globale module bij te werken. Deze wijziging zal "
+"toegepast worden op alle pagina's waar u deze module gebruikt. Druk op OK "
+"als u deze module wilt bijwerken"
+
+#: functions.php:2350
+msgid "You cannot add global rows into global sections"
+msgstr "U kunt geen globale rijen toevoegen aan globale secties"
+
+#: functions.php:2359
+msgid "Map Pin Address cannot be empty"
+msgstr "Adres van speld op kaart mag niet leeg zijn"
+
+#: functions.php:2361
+msgid "You do not have permission to unlock this section."
+msgstr "U hebt geen toestemming om te ontgrendelen dit hoofdstuk."
+
+#: functions.php:2362
+msgid "You do not have permission to unlock this row."
+msgstr "U hebt geen toestemming voor het ontgrendelen van deze rij."
+
+#: functions.php:2363
+msgid "You do not have permission to unlock this module."
+msgstr "U hebt geen toestemming voor het ontgrendelen van deze module."
+
+#: functions.php:2364
+msgid "You do not have permission to perform this task."
+msgstr "U hebt geen toestemming voor het uitvoeren van deze taak."
+
+#: functions.php:2365
+msgid ""
+"Unable to perform copy/paste process due to inavailability of localStorage "
+"feature in your browser. Please use latest modern browser (Chrome, Firefox, "
+"or Safari) to perform copy/paste process"
+msgstr ""
+"Geen copy/paste proces door inavailability van localStorage-functie in uw "
+"browser. Gelieve te gebruiken de nieuwste moderne browser (Chrome, Firefox "
+"of Safari) uit te voeren kopiëren/plakken proces"
+
+#: functions.php:2366
+msgid "Invalid Color"
+msgstr "Ongeldige Kleur"
+
+#: functions.php:2401
+msgid "Sales"
+msgstr "Verkopen"
+
+#: functions.php:2403
+msgid "Total"
+msgstr "Totaal"
+
+#: functions.php:2413
+msgid "Unauthorized Action"
+msgstr "Ongeautoriseerde actie"
+
+#: functions.php:2417 functions.php:2433
+msgid "Select Split Testing Subject"
+msgstr "Selecteer Splittestonderwerp"
+
+#: functions.php:2418
+msgid ""
+"You have activated the Divi Leads Split Testing System. Using split testing, "
+"you can create different element variations on your page to find out which "
+"variation most positively affects the conversion rate of your desired goal. "
+"After closing this window, please click on the section, row or module that "
+"you would like to split test."
+msgstr ""
+"U hebt het Divi Leads Split Testing Systeem geactiveerd. Met behulp van "
+"splittesten, kunt u verschillende element varianten aanmaken op uw pagina om "
+"te achterhalen welke variant de beste invloed uitoefent op de conversieratio "
+"van het gewenste doel. Na het sluiten van dit venster, moet u klikken op het "
+"gedeelte, rij of module die u zou willen splittesten."
+
+#: functions.php:2421
+msgid "Select Your Goal"
+msgstr "Selecteer uw doel"
+
+#: functions.php:2422
+msgid ""
+"Congratulations, you have selected a split testing subject! Next you need to "
+"select your goal. After closing this window, please click the section, row "
+"or module that you want to use as your goal. Depending on the element you "
+"choose, Divi will track relevant conversion rates for clicks, reads or "
+"sales. For example, if you select a Call To Action module as your goal, then "
+"Divi will track how variations in your test subjects affect how often "
+"visitors read and click the button in your Call To Action module. The test "
+"subject itself can also be selected as your goal."
+msgstr ""
+"Gefeliciteerd, u heeft een splittestonderwep gekozen! Vervolgens moet u om "
+"uw doel selecteren. Na het sluiten van dit venster, moet u klikken op de "
+"sectie, rij of module die u wilt gebruiken als uw doel. Afhankelijk van het "
+"element dat u kiest, zal Divi relevante conversiepercentages bijhouden voor "
+"clicks, gelezen of verkocht. Bijvoorbeeld, als u een Call To Action module "
+"gebruikt als uw dan zal Divi bijhouden hoe variaties in de proefpersonen van "
+"invloed zijn op hoe vaak bezoekers de knop in uw Call To Action module lezen "
+"en klikken. De proefpersoon zelf kan ook worden gekozen als doel."
+
+#: functions.php:2425
+msgid "Configure Subject Variations"
+msgstr "Configureer onderwerpvariaties"
+
+#: functions.php:2426
+msgid ""
+"Congratulations, your split test is ready to go! You will notice that your "
+"split testing subject has been duplicated. Each split testing variation will "
+"be displayed to your visitors and statistics will be collected to figure out "
+"which variation results in the highest goal conversion rate. Your test will "
+"begin when you save this page."
+msgstr ""
+"Gefeliciteerd, uw splittest is klaar! U zult merken dat uw "
+"splittestonderwerp is gedupliceerd. Elke splittest variatie zal worden "
+"getoond aan uw bezoekers en statistieken worden verzameld om erachter te "
+"komen welke variant resulteert in het hoogste doel succespercentage. Uw test "
+"zal beginnen wanneer u deze pagina opslaat."
+
+#: functions.php:2429
+msgid "Select Split Testing Winner"
+msgstr "Selecteer Splittesting Winnaar"
+
+#: functions.php:2430
+msgid ""
+"Before ending your split test, you must choose which split testing variation "
+"to keep. Please select your favorite or highest converting subject. "
+"Alternative split testing subjects will be removed."
+msgstr ""
+"Voor het beëindigen van uw split-test, moet u kiezen welke splittestvariatie "
+"u wilt houden. Selecteer uw favoriete onderwerp of de gene met de hoogste "
+"conversie. Alternatieve splittestonderwerpen zullen worden verwijderd."
+
+#: functions.php:2434
+msgid "You need to select a split testing subject first."
+msgstr "U moet eerst een splittest onderwerp selecteren."
+
+#: functions.php:2437
+msgid "Select Split Testing Goal"
+msgstr "Selecteer doel voor splittesten"
+
+#: functions.php:2438
+msgid "You need to select a split testing goal first. "
+msgstr "U moet eerst een splittest doel selecteren. "
+
+#: functions.php:2441
+msgid "Select A Different Goal"
+msgstr "Selecteer een ander doel"
+
+#: functions.php:2442
+msgid ""
+"This element cannot be used as a your split testing goal. Please select a "
+"different module, or section."
+msgstr ""
+"Dit element kan niet worden gebruikt als uw splittestdoel. Selecteer een "
+"andere module, of sectie."
+
+#: functions.php:2447
+msgid "Can't Save Layout"
+msgstr "Kan lay-out niet opslaan"
+
+#: functions.php:2448
+msgid ""
+"You cannot save layout while a split test is running. Please end your split "
+"test and then try again."
+msgstr ""
+"U kunt geen lay-out opslaan terwijl er een splittest wordt uitgevoerd. "
+"Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2452
+msgid "Can't Save Section"
+msgstr "Kan sectie niet opslaan"
+
+#: functions.php:2453
+msgid ""
+"You cannot save this section while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"U kunt deze lay-out niet opslaan terwijl er een splittest wordt uitgevoerd. "
+"Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2457 functions.php:2462
+msgid "Can't Save Row"
+msgstr "Kan rij niet opslaan"
+
+#: functions.php:2458 functions.php:2463
+msgid ""
+"You cannot save this row while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"U kunt deze rij niet opslaan terwijl er een splittest wordt uitgevoerd. "
+"Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2467
+msgid "Can't Save Module"
+msgstr "Kan module niet opslaan"
+
+#: functions.php:2468
+msgid ""
+"You cannot save this module while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"U kunt deze module niet opslaan terwijl er een splittest wordt uitgevoerd. "
+"Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2473
+msgid "Can't Load Layout"
+msgstr "Kan layout niet laden"
+
+#: functions.php:2474
+msgid ""
+"You cannot load a new layout while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"U geen nieuwe lay-out laden terwijl er een splittest wordt uitgevoerd. "
+"Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2477
+msgid "Can't Clear Layout"
+msgstr "Kan layout niet wissen"
+
+#: functions.php:2478
+msgid ""
+"You cannot clear your layout while a split testing is running. Please end "
+"your split test before clearing your layout."
+msgstr ""
+"U kunt deze uw lay-out niet wissen terwijl er een splittest wordt "
+"uitgevoerd. Gelieve uw splittest te eindigen en het opnieuw te proberen."
+
+#: functions.php:2483
+msgid "Can't Import/Export Layout"
+msgstr "Kan layout niet importeren/exporteren"
+
+#: functions.php:2484
+msgid ""
+"You cannot import or export a layout while a split test is running. Please "
+"end your split test and then try again."
+msgstr ""
+"Je kunt een layout niet importeren of exporteren tijdens een test. Beëindig "
+"je splitstest en probeer het dan nogmaals."
+
+#: functions.php:2489 functions.php:2493 functions.php:2497
+msgid "Can't Move Goal"
+msgstr "Kan doel niet verplaatsen"
+
+#: functions.php:2501
+msgid "Can't Move Subject"
+msgstr "Kan onderwerp niet verplaatsen"
+
+#: functions.php:2507
+msgid "Can't Clone Section"
+msgstr "Kan sectie niet clonen"
+
+#: functions.php:2508
+msgid ""
+"This section cannot be duplicated because it contains a split testing goal. "
+"Goals cannot be duplicated. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Deze sectie kan niet worden gedupliceerd, omdat het een splittest doel "
+"bevat. Doelen kunnen niet worden gedupliceerd. U moet eerst uw splittest "
+"beëindigen voor het uitvoeren van deze actie."
+
+#: functions.php:2511
+msgid "Can't Clone Row"
+msgstr "Kan rij niet clonen"
+
+#: functions.php:2512
+msgid ""
+"This row cannot be duplicated because it contains a split testing goal. "
+"Goals cannot be duplicated. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Deze rij kan niet worden gedupliceerd, omdat het een split testdoel bevat. "
+"Doelen kunnen niet worden gedupliceerd. U moet eerst uw splittest beëindigen "
+"voor het uitvoeren van deze actie."
+
+#: functions.php:2517 functions.php:2527
+msgid "Can't Remove Section"
+msgstr "Kan sectie niet verwijderen"
+
+#: functions.php:2518
+msgid ""
+"This section cannot be removed because it contains a split testing goal. "
+"Goals cannot be deleted. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Deze sectie kan niet worden verwijderd omdat het een splittest doel bevat. "
+"Doelen kunnen niet worden verwijderd. U moet eerst uw splittest beëindigen "
+"voor het uitvoeren van deze actie."
+
+#: functions.php:2521 functions.php:2531
+msgid "Can't Remove Row"
+msgstr "Kan rij niet verwijderen"
+
+#: functions.php:2522
+msgid ""
+"This row cannot be removed because it contains a split testing goal. Goals "
+"cannot be deleted. You must first end your split test before performing this "
+"action."
+msgstr ""
+"Deze rij kan niet worden verwijderd omdat het een splittest doel bevat. "
+"Doelen kunnen niet worden verwijderd. U moet eerst uw splittest beëindigen "
+"voor het uitvoeren van deze actie."
+
+#: functions.php:2528
+msgid ""
+"Split testing requires at least 2 subject variations. This variation cannot "
+"be removed until additional variations have been added."
+msgstr ""
+"Splittesten vereisen ten minste 2 onderwerp variaties. Deze variaties kunnen "
+"niet worden verwijderd totdat aanvullende varianten zijn toegevoegd."
+
+#: functions.php:2532
+msgid ""
+"Split testing requires at least 2 subject variations. This variation cannot "
+"be removed until additional variations have been added"
+msgstr ""
+"Splittesten vereisen ten minste 2 onderwerp variaties. Deze variaties kunnen "
+"niet worden verwijderd totdat aanvullende varianten zijn toegevoegd"
+
+#: functions.php:2538 functions.php:2545 functions.php:2552 functions.php:2559
+#: functions.php:2566 functions.php:2573
+msgid "ID"
+msgstr "ID"
+
+#: functions.php:2539 functions.php:2546 functions.php:2553 functions.php:2560
+#: functions.php:2567 functions.php:2574
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: functions.php:2540 functions.php:2547 functions.php:2554 functions.php:2568
+#: functions.php:2575
+msgid "Impressions"
+msgstr "Impressies"
+
+#: functions.php:2541 functions.php:4385
+msgid "Clicks"
+msgstr "Clicks"
+
+#: functions.php:2542
+msgid "Clickthrough Rate"
+msgstr "Klikfrequentie"
+
+#: functions.php:2548 functions.php:4386
+msgid "Reads"
+msgstr "Gelezen"
+
+#: functions.php:2549
+msgid "Reading Rate"
+msgstr "Leesfrequentie"
+
+#: functions.php:2555
+msgid "Stays"
+msgstr "Verblijven"
+
+#: functions.php:2556
+msgid "Bounce Rate"
+msgstr "Bouncefrequentie"
+
+#: functions.php:2561
+msgid "Goal Views"
+msgstr "Doel Bekeken"
+
+#: functions.php:2562
+msgid "Goal Reads"
+msgstr "Doel Gelezen"
+
+#: functions.php:2563
+msgid "Engagement Rate"
+msgstr "Betrokkenheidspercentage"
+
+#: functions.php:2569
+msgid "Conversion Goals"
+msgstr "Conversiedoelen"
+
+#: functions.php:2570 functions.php:2577
+msgid "Conversion Rate"
+msgstr "Conversiefrequentie"
+
+#: functions.php:2576 functions.php:4396
+msgid "Shortcode Conversions"
+msgstr "Shortcode conversies"
+
+#: functions.php:2614
+msgid "Did"
+msgstr "Deed"
+
+#: functions.php:2615
+msgid "Added"
+msgstr "Toegevoegd"
+
+#: functions.php:2616
+msgid "Edited"
+msgstr "Redactie"
+
+#: functions.php:2617
+msgid "Removed"
+msgstr "Verwijderd"
+
+#: functions.php:2618
+msgid "Moved"
+msgstr "Verplaatst"
+
+#: functions.php:2619
+msgid "Expanded"
+msgstr "Uitgebreid"
+
+#: functions.php:2620
+msgid "Collapsed"
+msgstr "Ingestort"
+
+#: functions.php:2621
+msgid "Locked"
+msgstr "Opgesloten"
+
+#: functions.php:2622
+msgid "Unlocked"
+msgstr "Ontgrendeld"
+
+#: functions.php:2623
+msgid "Cloned"
+msgstr "Gekloonde"
+
+#: functions.php:2624
+msgid "Cleared"
+msgstr "Uitgeschakeld"
+
+#: functions.php:2625 functions.php:5803
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: functions.php:2626 functions.php:5804
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: functions.php:2627
+msgid "Copied"
+msgstr "Gekopieerd"
+
+#: functions.php:2628
+msgid "Cut"
+msgstr "Knippen"
+
+#: functions.php:2629
+msgid "Pasted"
+msgstr "Plakken"
+
+#: functions.php:2630
+msgid "Renamed"
+msgstr "Omgedoopt"
+
+#: functions.php:2631
+msgid "Loaded"
+msgstr "Geladen"
+
+#: functions.php:2632
+msgid "Turned On"
+msgstr "Staat aan"
+
+#: functions.php:2633
+msgid "Turned Off"
+msgstr "Staat uit"
+
+#: functions.php:2637
+msgid "Saved Section"
+msgstr "Opgeslagen Sectie"
+
+#: functions.php:2642
+msgid "Saved Row"
+msgstr "Opgeslagen Rij"
+
+#: functions.php:2644
+msgid "Saved Module"
+msgstr "Opgeslagen Module"
+
+#: functions.php:2645
+msgid "Page"
+msgstr "Pagina"
+
+#: functions.php:2648 functions.php:3318 functions.php:3319 functions.php:3384
+#: functions.php:3385 functions.php:3395 functions.php:3396 functions.php:3512
+#: functions.php:3513 functions.php:3913
+msgid "Settings"
+msgstr "Instellingen"
+
+#: functions.php:2651
+msgid "on Phone"
+msgstr "op de telefoon"
+
+#: functions.php:2652
+msgid "on Tablet"
+msgstr "op tablet"
+
+#: functions.php:2653
+msgid "on Desktop"
+msgstr "op desktop"
+
+#: functions.php:2662
+msgid "The Divi Builder"
+msgstr "De Divi opbouwfunctie"
+
+#: functions.php:2698
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: functions.php:2713
+msgid "by"
+msgstr "door"
+
+#: functions.php:3094 functions.php:3250
+msgid "Rename"
+msgstr "Naam"
+
+#: functions.php:3106
+msgid "Paste After"
+msgstr "Plakken Na"
+
+#: functions.php:3146
+msgid "Split Test"
+msgstr "Splittest"
+
+#: functions.php:3152
+msgid "End Split Test"
+msgstr "Beëindig splittest"
+
+#: functions.php:3209 main-modules.php:19739
+msgid "Expand"
+msgstr "Uitbreiden"
+
+#: functions.php:3210
+msgid "Collapse"
+msgstr "Ineenstorting"
+
+#: functions.php:3238 functions.php:3727 functions.php:3932 functions.php:3987
+#: functions.php:4133 functions.php:4164 functions.php:4223 functions.php:4286
+#: main-modules.php:7980 main-modules.php:7989
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: functions.php:3251
+msgid "Enter a new name for this module"
+msgstr "Voer een nieuwe naam voor deze module"
+
+#: functions.php:3284 functions.php:3285
+msgid "See History"
+msgstr "Zie Geschiedenis"
+
+#: functions.php:3309 functions.php:3310
+msgid "View Stats"
+msgstr "Bekijk Statistieken"
+
+#: functions.php:3363
+msgid "View Split Testing Stats"
+msgstr "Bekijk splittesting Statistieken"
+
+#: functions.php:3403 functions.php:3404
+msgid "Clone Section"
+msgstr "Sectie klonen"
+
+#: functions.php:3419 functions.php:3420
+msgid "Unlock Section"
+msgstr "Ontgrendelen Sectie"
+
+#: functions.php:3438 functions.php:3439
+msgid "Expand Section"
+msgstr "Vouw De Sectie"
+
+#: functions.php:3450
+msgid "Standard Section"
+msgstr "Standaardsectie"
+
+#: functions.php:3485 functions.php:3886
+msgid "Insert Row(s)"
+msgstr "Rij(en) invoegen"
+
+#: functions.php:3520 functions.php:3521
+msgid "Clone Row"
+msgstr "Rij klonen"
+
+#: functions.php:3538 functions.php:3539
+msgid "Change Structure"
+msgstr "Structuur wijzigen"
+
+#: functions.php:3545 functions.php:3546
+msgid "Unlock Row"
+msgstr "Ontgrendelen Rij"
+
+#: functions.php:3571 functions.php:3572
+msgid "Expand Row"
+msgstr "Vouw Rij"
+
+#: functions.php:3592
+msgid "Add Row"
+msgstr "Rij toevoegen"
+
+#: functions.php:3600
+msgid "Insert Column(s)"
+msgstr "Kolom(men) invoegen"
+
+#: functions.php:3630 functions.php:3631 functions.php:3914
+msgid "Clone Module"
+msgstr "Module klonen"
+
+#: functions.php:3641 functions.php:3642
+msgid "Remove Module"
+msgstr "Module verwijderen"
+
+#: functions.php:3652 functions.php:3653
+msgid "Unlock Module"
+msgstr "Ontgrendelen Module"
+
+#: functions.php:3696
+msgid "Save & Add To Library"
+msgstr "Opslaan en toevoegen aan bibliotheek"
+
+#: functions.php:3858 functions.php:5577
+msgid "Load Layout"
+msgstr "Lay-out laden"
+
+#: functions.php:3869
+msgid "Insert Module(s)"
+msgstr "Voeg module(s) in"
+
+#: functions.php:3944
+msgid "Disable Builder"
+msgstr "Opbouwfunctie onbruikbaar maken"
+
+#: functions.php:3945
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Alle aangemaakte inhoud in de Divi opbouwfunctie zal verloren gaan. De "
+"voorafgaande inhoud zal hersteld worden."
+
+#: functions.php:3946 functions.php:3959 functions.php:3970
+msgid "Do you wish to proceed?"
+msgstr "Wilt u verder gaan?"
+
+#: functions.php:3958
+msgid "All of your current page content will be lost."
+msgstr "Al uw huidige pagina-inhoud zal verloren gaan."
+
+#: functions.php:3969
+msgid "All advanced module settings in will be lost."
+msgstr "Alle geavanceerde module-instellingen in zullen verloren gaan."
+
+#: functions.php:4003
+msgid "Layout Name:"
+msgstr "Opmaaknaam:"
+
+#: functions.php:4017
+msgid "Save And Add To Library"
+msgstr "Opslaan en toevoegen aan de bibliotheek"
+
+#: functions.php:4024
+msgid "Add To Categories:"
+msgstr "Toevoegen aan categorieën:"
+
+#: functions.php:4052
+msgid "Include General settings"
+msgstr "Algemene instellingen insluiten"
+
+#: functions.php:4058
+msgid "Include Advanced Design settings"
+msgstr "Geavanceerde ontwerpinstellingen insluiten"
+
+#: functions.php:4095
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Hier kunt u het huidige item opslaan en het toevoegen aan uw Divi "
+"bibliotheek, eveneens voor later gebruik."
+
+#: functions.php:4097
+msgid "Save as Global:"
+msgstr "Opslaan als globaak:"
+
+#: functions.php:4145
+msgid "Divi Builder Settings"
+msgstr "Divi Builder Instellingen"
+
+#: functions.php:4175
+msgid "End Split Test?"
+msgstr "Splittest beëindigen?"
+
+#: functions.php:4176
+msgid ""
+"Upon ending your split test, you will be asked to select which subject "
+"variation you would like to keep. Remaining subjects will be removed."
+msgstr ""
+"Na het beëindigen van uw split-test, wordt u gevraagd om te selecteren welke "
+"onderwerpvariant u zou willen houden. Resterende onderwerpen zullen worden "
+"verwijderd."
+
+#: functions.php:4177
+msgid "Note: this process cannot be undone."
+msgstr "Opmerking: Dit proces kan niet ongedaan worden gemaakt."
+
+#: functions.php:4192
+msgid "Ok"
+msgstr "Ok"
+
+#: functions.php:4206 functions.php:4238
+msgid "An Error Occurred"
+msgstr "Er is een fout opgetreden"
+
+#: functions.php:4207 functions.php:4239
+msgid "For some reason, you cannot perform this task."
+msgstr "Om een ​​of andere reden, kunt u deze taak niet uitvoeren."
+
+#: functions.php:4224
+msgid "Proceed"
+msgstr "Doorgaan"
+
+#: functions.php:4255
+msgid "Save as Global Item"
+msgstr "Opslaan als Globaal item"
+
+#: functions.php:4269
+msgid "Set Winner Status"
+msgstr "Stel winnaar status in"
+
+#: functions.php:4270
+msgid ""
+"You were using global item as split testing winner. Consequently, you have "
+"to choose between:"
+msgstr ""
+"U gebruikte globaal item als splittest winnaar. Daarom moet u kiezen tussen:"
+
+#: functions.php:4271
+msgid ""
+"Save winner as global item (selected subject will be synced and your global "
+"item will be updated in the Divi Library)"
+msgstr ""
+"Sla winnaar op als globaal item (geselecteerd onderwerp zal worden "
+"gesynchroniseerd en uw globale item zal in het Divi Library worden "
+"bijgewerkt)"
+
+#: functions.php:4272
+msgid ""
+"Save winner as non-global item (selected subject will no longer be a global "
+"item and your changes will not modify the global item)"
+msgstr ""
+"Sla winnaar op als niet-globale item (geselecteerde onderwerp zal niet "
+"langer een globaal item zijn en uw wijzigingen zullen het globale item niet "
+"wijzigen)"
+
+#: functions.php:4330
+msgid "Last 24 Hours"
+msgstr "Laatste 24 uur"
+
+#: functions.php:4331
+msgid "Last 7 Days"
+msgstr "Afgelopen 7 dagen"
+
+#: functions.php:4332
+msgid "Last Month"
+msgstr "Vorige maand"
+
+#: functions.php:4333
+msgid "All Time"
+msgstr "Altijd"
+
+#: functions.php:4334
+msgid "Summary &amp; Data"
+msgstr "Samenvatting & data"
+
+#: functions.php:4336
+msgid "Statistics are still being collected for this time frame"
+msgstr "Statistieken worden nog steeds verzameld voor dit tijdsbestek"
+
+#: functions.php:4337 functions.php:4393
+msgid "Stats will be displayed upon sufficient data collection"
+msgstr "Statistieken worden weergegeven bij voldoende dataverzameling"
+
+#: functions.php:4384
+msgid "Split Testing Statistics"
+msgstr "Splittesting statistieken"
+
+#: functions.php:4387
+msgid "Bounces"
+msgstr "Bounces"
+
+#: functions.php:4388
+msgid "Goal Engagement"
+msgstr "Doelbetrokkenheid"
+
+#: functions.php:4389
+msgid "Conversions"
+msgstr "Conversies"
+
+#: functions.php:4392
+msgid "Statistics are being collected"
+msgstr "Statistieken worden verzameld"
+
+#: functions.php:4394 functions.php:4395
+msgid "Refresh Stats"
+msgstr "Vernieuw Statistieken"
+
+#: functions.php:4397
+msgid "End Split Test &amp; Pick Winner"
+msgstr "Splitstest beëindigen & winnaar kiezen"
+
+#: functions.php:4405
+msgid "Add Specialty Section"
+msgstr "Gespecialiseerde sectie toevoegen"
+
+#: functions.php:4463
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: functions.php:4464 functions.php:4495 main-modules.php:328
+#: main-modules.php:829 main-modules.php:1173 main-modules.php:1455
+#: main-modules.php:1950 main-modules.php:2447 main-modules.php:2719
+#: main-modules.php:3332 main-modules.php:5016 main-modules.php:5824
+#: main-modules.php:6334 main-modules.php:7123 main-modules.php:7397
+#: main-modules.php:7676 main-modules.php:8226 main-modules.php:8804
+#: main-modules.php:9263 main-modules.php:9911 main-modules.php:10463
+#: main-modules.php:11059 main-modules.php:11290 main-modules.php:11511
+#: main-modules.php:11922 main-modules.php:12278 main-modules.php:13357
+#: main-modules.php:13641 main-modules.php:13968 main-modules.php:14532
+#: main-modules.php:15498 main-modules.php:15913 main-modules.php:16197
+#: main-modules.php:16515 main-modules.php:17267 main-modules.php:17780
+#: main-modules.php:18210 main-modules.php:18541 main-modules.php:19240
+#: main-modules.php:19764 main-modules.php:20418 main-modules.php:20845
+#: main-modules.php:21249 main-modules.php:21400 main-modules.php:21518
+#: main-modules.php:21795 main-modules.php:22316 main-modules.php:23295
+#: main-structure-elements.php:842 main-structure-elements.php:2355
+#: main-structure-elements.php:3429
+msgid "Tablet"
+msgstr "Tablet"
+
+#: functions.php:4465 functions.php:4494 main-modules.php:329
+#: main-modules.php:830 main-modules.php:1174 main-modules.php:1456
+#: main-modules.php:1951 main-modules.php:2448 main-modules.php:2720
+#: main-modules.php:3333 main-modules.php:5017 main-modules.php:5825
+#: main-modules.php:6335 main-modules.php:7124 main-modules.php:7398
+#: main-modules.php:7677 main-modules.php:8227 main-modules.php:8805
+#: main-modules.php:9264 main-modules.php:9912 main-modules.php:10464
+#: main-modules.php:11060 main-modules.php:11291 main-modules.php:11512
+#: main-modules.php:11923 main-modules.php:12279 main-modules.php:13358
+#: main-modules.php:13642 main-modules.php:13969 main-modules.php:14533
+#: main-modules.php:15499 main-modules.php:15914 main-modules.php:16198
+#: main-modules.php:16516 main-modules.php:17268 main-modules.php:17781
+#: main-modules.php:18211 main-modules.php:18542 main-modules.php:19241
+#: main-modules.php:19765 main-modules.php:20419 main-modules.php:20846
+#: main-modules.php:21250 main-modules.php:21401 main-modules.php:21519
+#: main-modules.php:21796 main-modules.php:22317 main-modules.php:23296
+#: main-structure-elements.php:843 main-structure-elements.php:2356
+#: main-structure-elements.php:3430
+msgid "Desktop"
+msgstr "Desktop"
+
+#: functions.php:4496
+msgid "Smartphone"
+msgstr "Smartphone"
+
+#: functions.php:4969
+msgid "Connecting..."
+msgstr "Het aansluiten van..."
+
+#: functions.php:4970
+msgid "Connection failed"
+msgstr "Verbinding mislukt"
+
+#: functions.php:4971
+msgid "Removing connection..."
+msgstr "Het verwijderen van de aansluiting..."
+
+#: functions.php:4972
+msgid "Done"
+msgstr "Gedaan"
+
+#: functions.php:5002
+msgid "Step 1:"
+msgstr "Stap 1:"
+
+#: functions.php:5004
+msgid "Generate authorization code"
+msgstr "Genereer autorisatiecode"
+
+#: functions.php:5006
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Stap 2: Plak in de autorisatie code in en klik op \"verbinding Maken\" - "
+"knop: "
+
+#: functions.php:5007
+msgid "Make a connection"
+msgstr "Een verbinding maken"
+
+#: functions.php:5010
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber is goed ingesteld. U kunt verbinding verwijderen hier als u dat wenst."
+
+#: functions.php:5011
+msgid "Remove the connection"
+msgstr "Verbreek de verbinding"
+
+#: functions.php:5072
+msgid "Read more"
+msgstr "Lees meer"
+
+#: functions.php:5514
+msgid "Theme Customizer"
+msgstr "Systeemaanpasser van thema"
+
+#: functions.php:5519
+msgid "Module Customizer"
+msgstr "Systeemaanpasser van module"
+
+#: functions.php:5524
+msgid "Page Options"
+msgstr "Pagina Opties"
+
+#: functions.php:5535
+msgid "Plugin Options"
+msgstr "Plugin Opties"
+
+#: functions.php:5535
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: functions.php:5540
+msgid "Divi Library"
+msgstr "Divi bibliotheek"
+
+#: functions.php:5550
+msgid "Builder Interface"
+msgstr "Interface Builder"
+
+#: functions.php:5553
+msgid "Add/Delete Item"
+msgstr "Toevoegen/Verwijderen Van Een Item"
+
+#: functions.php:5557
+msgid "Edit Item"
+msgstr "Item Bewerken"
+
+#: functions.php:5561
+msgid "Move Item"
+msgstr "Verplaats Item"
+
+#: functions.php:5565
+msgid "Disable Item"
+msgstr "Onderdeel Uitschakelen"
+
+#: functions.php:5569
+msgid "Lock Item"
+msgstr "Lock-Item"
+
+#: functions.php:5573
+msgid "Toggle Divi Builder"
+msgstr "Schakelen Divi Builder"
+
+#: functions.php:5587
+msgid "Library Settings"
+msgstr "Bibliotheek-Instellingen"
+
+#: functions.php:5598
+msgid "Edit Global Items"
+msgstr "Wijzig Globale Items"
+
+#: functions.php:5604
+msgid "Settings Tabs"
+msgstr "Tabbladen Met Instellingen"
+
+#: functions.php:5607
+msgid "Content Settings"
+msgstr "Inhoudsinstellingen"
+
+#: functions.php:5611
+msgid "Design Settings"
+msgstr "Ontwerpinstellingen"
+
+#: functions.php:5615
+msgid "Advanced Settings"
+msgstr "Geavanceerde Instellingen"
+
+#: functions.php:5621
+msgid "Settings Types"
+msgstr "Instellingen Soorten"
+
+#: functions.php:5624
+msgid "Edit Colors"
+msgstr "Kleuren Bewerken"
+
+#: functions.php:5628
+msgid "Edit Content"
+msgstr "Inhoud Bewerken"
+
+#: functions.php:5632
+msgid "Edit Fonts"
+msgstr "Lettertypen Bewerken"
+
+#: functions.php:5636
+msgid "Edit Buttons"
+msgstr "Edit Buttons"
+
+#: functions.php:5644
+msgid "Edit Configuration"
+msgstr "Wijzig Configuratie"
+
+#: functions.php:5650
+msgid "Module Use"
+msgstr "Module Gebruiken"
+
+#: functions.php:5725
+msgid "Divi Role Editor"
+msgstr "Divi Rol Editor"
+
+#: functions.php:5726
+msgid "Save Divi Roles"
+msgstr "Bespaar Divi Rollen"
+
+#: functions.php:5766
+msgid ""
+"Using the Divi Role Editor, you can limit the types of actions that can be "
+"taken by WordPress users of different roles. This is a great way to limit "
+"the functionality available to your customers or guest authors to ensure "
+"that they only have the necessary options available to them."
+msgstr ""
+"Met behulp van de Divi Rol Editor, u kunt beperken het typen van acties die "
+"genomen kunnen worden door WordPress gebruikers van de verschillende rollen. "
+"Dit is een geweldige manier voor het beperken van de functionaliteit die "
+"beschikbaar zijn voor uw klanten of gasten auteurs om ervoor te zorgen dat "
+"zij alleen hebben de nodige opties die beschikbaar zijn voor hen."
+
+#: functions.php:5835
+msgid "Reset Roles"
+msgstr "Reset Rollen"
+
+#: functions.php:5836
+msgid ""
+"All of your current role settings will be set to defaults. Do you wish to "
+"proceed?"
+msgstr ""
+"Alle van uw huidige rol-instellingen worden ingesteld op de "
+"standaardinstellingen. Wilt u doorgaan?"
+
+#: functions.php:5838
+msgid "no"
+msgstr "geen"
+
+#. translators: 1: date, 2: time
+#: functions.php:6114
+msgid "on %1$s at %2$s"
+msgstr "op %1$s om %2$s"
+
+#: functions.php:6117
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+#: functions.php:6120
+msgid "Reply"
+msgstr "Antwoord"
+
+#: functions.php:6129
+msgid "Your comment is awaiting moderation."
+msgstr "Uw reactie wacht op goedkeuring."
+
+#: functions.php:6272 functions.php:6827
+msgid "Exit Visual Builder"
+msgstr "Visual Builder verlaten"
+
+#: functions.php:6293
+msgid "Enable Visual Builder"
+msgstr "Visual Builder inschakelen"
+
+#: functions.php:6383 main-modules.php:12318
+msgid "Message"
+msgstr "Bericht"
+
+#: functions.php:6456
+msgid "Welcome To The Divi Builder"
+msgstr "Welkom bij de Divi Builder"
+
+#: functions.php:6458 functions.php:6579
+msgid ""
+"%10$sBuilding beautiful pages is a breeze using the Visual Builder. To get "
+"started, add a new %1$s to your page by pressing the %2$s button. Next, add "
+"a %3$s of columns inside your section by pressing the %4$s button. Finally, "
+"start adding some content %5$s inside your columns by pressing the %6$s "
+"button. You can customize the design and content of any element on the page "
+"by pressing the %7$s button. If you ever need help, visit our %9$s page for "
+"a full list of tutorials."
+msgstr ""
+"%10$sPrachtige pagina's bouwen is simpel met de Visual Builder. Om te "
+"beginnen, voeg je een nieuwe %1$s toe aan je pagina door op de knop %2$s te "
+"drukken. Voeg vervolgens een %3$s met kolommen toe aan je sectie door op de "
+"knop %4$s te drukken. Voeg tot slot de inhoud toe %5$s in je kolommen door "
+"op de knop %6$s te drukken. Je kunt het ontwerp en de inhoud van elk element "
+"op de pagina aanpassen door op de knop %7$s te drukken. Als je hulp nodig "
+"hebt, ga dan naar onze %9$s-pagina voor een volledige lijst met "
+"handleidingen."
+
+#: functions.php:6467 functions.php:6588
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: functions.php:6475 functions.php:6596
+msgid "Start Building"
+msgstr "Begin met bouwen"
+
+#: functions.php:6476
+msgid "Take the Tour"
+msgstr "Volg de tour"
+
+#: functions.php:6479
+msgid "Load A New Layout"
+msgstr "Laad een nieuwe layout"
+
+#: functions.php:6480
+msgid ""
+"Loading pre-made layouts is a great way to jump-start your new page. The "
+"Divi Builder comes with dozens of layouts to choose from, and you can find "
+"lots of great free layouts online too. You can save your favorite layouts to "
+"the Divi Library and load them on new pages or share them with the "
+"community. Click the highlighted button to open the layouts menu and select "
+"a pre-made layout."
+msgstr ""
+"Vooraf gemaakte layouts laden is een geweldige manier om snel met je nieuwe "
+"pagina te beginnen. De Divi Builder biedt je tientallen layouts om uit te "
+"kiezen en ook online kun je een heleboel mooie, gratis layouts vinden. Je "
+"kunt je favoriete layouts opslaan in de Divi Library en ze in nieuwe "
+"pagina's laden of delen met de community. Klik op de uitgelichte knop om het "
+"layoutmenu te openen en een vooraf gemaakte layout te selecteren."
+
+#: functions.php:6483
+msgid "Choose A Design To Start With"
+msgstr "Een ontwerp kiezen om mee te beginnen"
+
+#: functions.php:6484
+msgid ""
+"Here you can see a list of pre-made layouts that ship with the Divi Builder. "
+"You can also access layouts that you have saved to your Divi Library. Choose "
+"the “Divi Builder Demo” layout to load the new layout to your page."
+msgstr ""
+"Hier vind je een lijst met vooraf gemaakte layouts die geleverd worden bij "
+"de Divi Builder. Je kunt ook layouts gebruiken die je hebt opgeslagen in je "
+"Divi Library. Kies de Divi Builder Demo-layout om de nieuwe layout in je "
+"pagina te laden."
+
+#: functions.php:6487
+msgid "Add A New Section"
+msgstr "Voeg een nieuwe sectie toe"
+
+#: functions.php:6489
+msgid ""
+"Now that your pre-made layout has been loaded, we can start adding new "
+"content to the page. The Divi Bui

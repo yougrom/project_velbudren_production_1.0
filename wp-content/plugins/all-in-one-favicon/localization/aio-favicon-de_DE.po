@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All In One Favicon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-21 23:22+0100\n"
+"PO-Revision-Date: 2013-01-21 23:22+0100\n"
+"Last-Translator: Arne Franken <blog@techotronic.de>\n"
+"Language-Team: Techotronic <blog@techotronic.de>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: all-in-one-favicon.php:40
+msgid "All in one Favicon"
+msgstr "All in one Favicon"
+
+#: all-in-one-favicon.php:101 all-in-one-favicon.php:109
+msgid "ICO"
+msgstr ""
+
+#: all-in-one-favicon.php:102 all-in-one-favicon.php:110
+msgid "GIF"
+msgstr ""
+
+#: all-in-one-favicon.php:103 all-in-one-favicon.php:111
+msgid "PNG"
+msgstr ""
+
+#: all-in-one-favicon.php:104 all-in-one-favicon.php:112
+msgid "Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: includes/aio-favicon-backend.php:136 includes/settings-page.php:15
+#: includes/settings-page/sp-plugin-favicon-settings.php:13
+#: includes/settings-page/sp-plugin-meta-settings.php:13
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/aio-favicon-backend.php:161
+#, php-format
+msgid "Successfully updated %1$s settings."
+msgstr "&Auml;nderungen der %1$s Einstellungen wurden erfolgreich gespeichert."
+
+#: includes/aio-favicon-backend.php:163
+#, php-format
+msgid "%1$s settings were successfully deleted."
+msgstr "Die Einstellungen von %1$s wurden erfolgreich entfernt."
+
+#: includes/aio-favicon-backend.php:187
+msgid "Did not update settings, you do not have the necessary rights."
+msgstr ""
+"Einstellungen nicht aktualisiert, da Sie nicht die hierfür erforderlichen "
+"Rechte besitzen."
+
+#: includes/aio-favicon-backend.php:270
+#, php-format
+msgid ""
+"Did not delete %1$s settings. Either you dont have the nececssary rights or "
+"you didnt check the checkbox."
+msgstr ""
+"Konnte die Einstellungen von %1$s nicht entfernen. Entweder besitzen Sie "
+"nicht die notwendigen Rechte, oder Sie haben vergessen, die Checkbox [x] zu "
+"aktivieren."
+
+#: includes/aio-favicon-frontend.php:66
+msgid "Using"
+msgstr "Verwendet"
+
+#: includes/settings-page.php:19
+msgid ""
+"Please enable JavaScript. Upload-functionality on this page relies on "
+"JavaScript and will not work if it's not enabled."
+msgstr ""
+"Bitte schalten Sie JavaScript ein. Ohne JavaScript kann kein Favicon "
+"hochgeladen werden."
+
+#: includes/settings-page/sp-delete-settings.php:14
+#: includes/settings-page/sp-delete-settings.php:23
+msgid "Delete Settings"
+msgstr "Einstellungen löschen"
+
+#: includes/settings-page/sp-delete-settings.php:17
+msgid "Check the box and click this button to delete settings of this plugin."
+msgstr ""
+"Aktivieren Sie die Checkbox und klicken Sie anschließend die folgende "
+"Schaltfläche, um die Einstellungen dieses Plugins zu entfernen."
+
+#: includes/settings-page/sp-donate-box.php:14
+msgid "Donate"
+msgstr "Spenden"
+
+#: includes/settings-page/sp-donate-box.php:18
+msgid ""
+"If you would like to make a small (or large) contribution towards future "
+"development please consider making a donation."
+msgstr ""
+"Wenn Du eine kleine (oder grosse) Spende f&uuml;r die Weiterentwicklung "
+"abgeben m&ouml;chtest, kannst Du das per PayPal tun."
+
+#: includes/settings-page/sp-donate-box.php:24
+msgid "Techotronic Development Support"
+msgstr "Techotronic Entwicklung unterst&uuml;tzen"
+
+#: includes/settings-page/sp-donate-box.php:28
+msgid "Please enter the URL you'd like me to link to in the donors lists"
+msgstr "Bitte die URL eingeben, die ich in den Spender-Listen verlinken soll"
+
+#: includes/settings-page/sp-donate-box.php:30
+msgid "Return to Your Dashboard"
+msgstr "Zum Admin-Bereich zur&uuml;ckkehren"
+
+#: includes/settings-page/sp-donate-box.php:34
+msgid "Select Preset Amount"
+msgstr "Vorgegebenen Betrag ausw&auml;hlen"
+
+#: includes/settings-page/sp-donate-box.php:42
+#: includes/settings-page/sp-donate-box.php:46
+msgid "USD"
+msgstr "Dollar"
+
+#: includes/settings-page/sp-donate-box.php:43
+msgid "Or"
+msgstr "Oder"
+
+#: includes/settings-page/sp-donate-box.php:44
+msgid "Enter Custom Amount"
+msgstr "Eigenen Betrag eingeben"
+
+#: includes/settings-page/sp-donate-box.php:48
+msgid "Submit"
+msgstr "Absenden"
+
+#: includes/settings-page/sp-donations.php:14
+msgid "Top donations"
+msgstr "H&ouml;chste Spenden"
+
+#: includes/settings-page/sp-donations.php:20
+#: includes/settings-page/sp-donations.php:33
+msgid "Thank you for your donation."
+msgstr "Danke f&uuml;r die Spende."
+
+#: includes/settings-page/sp-donations.php:27
+msgid "Latest donations"
+msgstr "Neueste Spenden"
+
+#: includes/settings-page/sp-left-column.php:25
+msgid "Frontend"
+msgstr ""
+
+#: includes/settings-page/sp-left-column.php:31
+msgid "Backend"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-favicon-settings.php:30
+msgid "Upload"
+msgstr ""
+
+#: includes/settings-page/sp-plugin-favicon-settings.php:34
+msgid "Check box to delete favicon."
+msgstr "Box anklicken, um das Favicon zu l&ouml;schen."
+
+#: includes/settings-page/sp-plugin-favicon-settings.php:42
+#: includes/settings-page/sp-plugin-meta-settings.php:42
+msgid "Save Changes"
+msgstr "&Auml;nderungen speichern"
+
+#: includes/settings-page/sp-plugin-meta-settings.php:19
+#: includes/settings-page/sp-plugin-meta-settings.php:25
+msgid "Don't add reflective shine to Apple Touch Icon"
+msgstr "Keinen Effekt zum Apple Touch Icon hinzuf&uuml;gen"
+
+#: includes/settings-page/sp-plugin-meta-settings.php:30
+msgid "Remove link from Meta-box"
+msgstr "Link aus der Meta-box entfernen"
+
+#: includes/settings-page/sp-plugin-meta-settings.php:36
+msgid "Remove the link to the developers site from the WordPress meta-box."
+msgstr ""
+"Entfernt den Link zur Seite des Entwicklers aus der Meta-box des Blogs."
+
+#: includes/settings-page/sp-tipps-box.php:14
+msgid "Tips"
+msgstr "Tipps"
+
+#: includes/settings-page/sp-tipps-box.php:20
+msgid "Favicon wikipedia entry"
+msgstr "Wikipedia Eintrag"
+
+#: includes/settings-page/sp-tipps-box.php:23
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Favicon\" target=\"_blank"
+"\">Wikipedia</a> offers much information about favicon types and sizes."
+msgstr ""
+"<a href=\"http://de.wikipedia.org/wiki/Favicon\" target=\"_blank"
+"\">Wikipedia</a> bietet viele Informationen &uuml;ber Favicons."
+
+#: includes/settings-page/sp-tipps-box.php:28
+msgid "Favicon generator"
+msgstr "Favicon Generator"
+
+#: includes/settings-page/sp-tipps-box.php:31
+msgid ""
+"<a href=\"http://www.html-kit.com/favicon/\" target=\"_blank\">HTML Kit</a> "
+"provides a favicon generator that is very easy to use."
+msgstr ""
+"<a href=\"http://www.html-kit.com/favicon/\" target=\"_blank\">HTML Kit</a> "
+"hat einen einfachen Favicon Generator."
+
+#: includes/settings-page/sp-tipps-box.php:36
+msgid "Favicon CC editor"
+msgstr "Favicon CC editor"
+
+#: includes/settings-page/sp-tipps-box.php:39
+msgid ""
+"<a href=\"http://www.favicon.cc/\" target=\"_blank\">Favicon CC</a> provides "
+"a favicon editor that is very easy to use."
+msgstr ""
+"<a href=\"http://www.favicon.cc/\" target=\"_blank\">Favicon CC</a> hat "
+"einen einfachen Favicon Generator."
+
+#: includes/settings-page/sp-tipps-box.php:44
+msgid "Favicon validator"
+msgstr "Favicon Validator"
+
+#: includes/settings-page/sp-tipps-box.php:47
+msgid ""
+"<a href=\"http://www.html-kit.com/favicon/validator\" target=\"_blank\">HTML "
+"Kit</a> provides a favicon validator that tells you whether your favicon is "
+"working and if it is compatible to all browsers."
+msgstr ""
+"<a href=\"http://www.html-kit.com/favicon/validator\" target=\"_blank\">HTML "
+"Kit</a> hat einen online Favicon Validator der Dir sagt, ob Dein Favicon "
+"richtig konfiguriert ist und ob es kompatibel zu allen Browsern ist."
+
+#: includes/settings-page/sp-tipps-box.php:52
+msgid "Apple Touch Icon Howto"
+msgstr "Apple Touch Icon Howto"
+
+#: includes/settings-page/sp-tipps-box.php:55
+msgid ""
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"appleapplications/reference/safariwebcontent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\" target=\"_blank\">Apple</a> provides a "
+"howto on how to create a PNG to use as an Apple Touch Icon."
+msgstr ""
+"<a href=\"http://developer.apple.com/library/safari/#documentation/"
+"appleapplications/reference/safariwebcontent/ConfiguringWebApplications/"
+"ConfiguringWebApplications.html\" target=\"_blank\">Apple</a> hat ein Howto "
+"wie man ein PNG als Apple Touch Icon verwenden kann."
+
+#: includes/settings-page/sp-translation.php:14
+msgid "Translation"
+msgstr "&Uuml;bersetzung"
+
+#: includes/settings-page/sp-translation.php:17
+msgid ""
+"The english translation was done by <a href=\"http://www.techotronic.de\"  "
+"target=\"_blank\">Arne Franken</a>."
+msgstr ""
+"Die &Uuml;bersetzung ins Deutsche wurde von <a href=\"http://www.techotronic."
+"de\" target=\"_blank\">Arne Franken</a> durchgef&uuml;hrt."
+
+#~ msgid "Don't add reflective shine"
+#~ msgstr "Keinen Effekt hinzuf&uuml;gen"
+
+#~ msgid "Enter a URL or upload a Favicon."
+#~ msgstr ""
+#~ "GIb die URL zu einem vorhandenen Favicon ein oder lade ein neues hoch."

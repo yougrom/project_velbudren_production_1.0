@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2017-08-01 19:34:59+00:00\n"
+"PO-Revision-Date: 2017-07-29 00:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+"X-Poedit-SearchPathExcluded-1: ../frontend-builder/node_modules\n"
+
+#: class-et-builder-element.php:147 main-modules.php:338 main-modules.php:839
+#: main-modules.php:1183 main-modules.php:1465 main-modules.php:1584
+#: main-modules.php:1602 main-modules.php:1960 main-modules.php:2457
+#: main-modules.php:2729 main-modules.php:3342 main-modules.php:3578
+#: main-modules.php:4013 main-modules.php:5026 main-modules.php:5834
+#: main-modules.php:6344 main-modules.php:7133 main-modules.php:7407
+#: main-modules.php:7686 main-modules.php:8236 main-modules.php:8814
+#: main-modules.php:9273 main-modules.php:9921 main-modules.php:10473
+#: main-modules.php:11069 main-modules.php:11300 main-modules.php:11521
+#: main-modules.php:11932 main-modules.php:12288 main-modules.php:13367
+#: main-modules.php:13651 main-modules.php:13978 main-modules.php:14542
+#: main-modules.php:15508 main-modules.php:15923 main-modules.php:16207
+#: main-modules.php:16525 main-modules.php:17277 main-modules.php:17790
+#: main-modules.php:18220 main-modules.php:18551 main-modules.php:19250
+#: main-modules.php:19774 main-modules.php:20428 main-modules.php:20855
+#: main-modules.php:21259 main-modules.php:21410 main-modules.php:21528
+#: main-modules.php:21805 main-modules.php:22326 main-modules.php:23305
+#: main-structure-elements.php:852 main-structure-elements.php:2365
+#: main-structure-elements.php:3439
+msgid "Admin Label"
+msgstr "Oznaka administratora"
+
+#: class-et-builder-element.php:154 main-modules.php:13541
+#: main-modules.php:13574
+msgid "Visibility"
+msgstr "Vidljivost"
+
+#: class-et-builder-element.php:1238 class-et-builder-settings.php:766
+#: frontend-builder/helpers.php:731 main-modules.php:561 main-modules.php:1817
+#: main-modules.php:1842 main-modules.php:1848 main-modules.php:1863
+#: main-modules.php:2103 main-modules.php:2112 main-modules.php:2853
+#: main-modules.php:3573 main-modules.php:3587 main-modules.php:4539
+#: main-modules.php:5599 main-modules.php:5610 main-modules.php:6582
+#: main-modules.php:6940 main-modules.php:6947 main-modules.php:7285
+#: main-modules.php:7293 main-modules.php:7522 main-modules.php:7530
+#: main-modules.php:7883 main-modules.php:7892 main-modules.php:8606
+#: main-modules.php:8615 main-modules.php:9089 main-modules.php:9688
+#: main-modules.php:10308 main-modules.php:10616 main-modules.php:10935
+#: main-modules.php:10944 main-modules.php:11180 main-modules.php:11187
+#: main-modules.php:11400 main-modules.php:11652 main-modules.php:11659
+#: main-modules.php:11790 main-modules.php:11798 main-modules.php:12096
+#: main-modules.php:12638 main-modules.php:13269 main-modules.php:13785
+#: main-modules.php:13793 main-modules.php:14189 main-modules.php:15782
+#: main-modules.php:15787 main-modules.php:16302 main-modules.php:16423
+#: main-modules.php:16926 main-modules.php:17574 main-modules.php:17584
+#: main-modules.php:18013 main-modules.php:18395 main-modules.php:18827
+#: main-modules.php:18839 main-modules.php:20632 main-modules.php:21343
+#: main-modules.php:21493 main-modules.php:21989 main-modules.php:22692
+msgid "Text"
+msgstr "Tekst"
+
+#: class-et-builder-element.php:1249 class-et-builder-element.php:2201
+msgid "%1$s Font"
+msgstr "%1$s font"
+
+#: class-et-builder-element.php:1269
+msgid "%1$s Font Size"
+msgstr "%1$s veličina fonta"
+
+#: class-et-builder-element.php:1305 class-et-builder-element.php:1315
+#: class-et-builder-element.php:2131
+msgid "%1$s Text Color"
+msgstr "%1$s boja teksta"
+
+#: class-et-builder-element.php:1341 class-et-builder-element.php:2189
+msgid "%1$s Letter Spacing"
+msgstr "%1$s razmak između slova"
+
+#: class-et-builder-element.php:1379
+msgid "%1$s Line Height"
+msgstr "%1$s visina redova"
+
+#: class-et-builder-element.php:1451 class-et-builder-element.php:7119
+#: class-et-builder-settings.php:759 frontend-builder/helpers.php:668
+#: main-modules.php:3022 main-modules.php:3577 main-modules.php:4530
+#: main-modules.php:4814 main-modules.php:7885 main-modules.php:8608
+#: main-modules.php:10301 main-modules.php:10617 main-modules.php:10937
+#: main-modules.php:12100 main-modules.php:12641 main-modules.php:14181
+#: main-modules.php:16920 main-modules.php:17577 main-modules.php:18007
+#: main-modules.php:18830 main-modules.php:19553 main-modules.php:20109
+#: main-modules.php:21983 main-modules.php:22683 main-modules.php:23103
+#: main-structure-elements.php:141 main-structure-elements.php:1407
+#: main-structure-elements.php:2940
+msgid "Background"
+msgstr "Pozadina"
+
+#: class-et-builder-element.php:1471 class-et-builder-element.php:6671
+#: main-modules.php:3819 main-modules.php:5724 main-modules.php:7046
+#: main-modules.php:7654 main-modules.php:8123 main-modules.php:8701
+#: main-modules.php:10382 main-modules.php:10661 main-modules.php:12858
+#: main-modules.php:15888 main-modules.php:17257 main-modules.php:19654
+#: main-modules.php:22306 main-structure-elements.php:233
+#: main-structure-elements.php:1811 main-structure-elements.php:3217
+msgid "Background Color"
+msgstr "Boja pozadine"
+
+#: class-et-builder-element.php:1482
+msgid "Use Background Color Gradient"
+msgstr "Koristite preliv boja iz pozadine"
+
+#: class-et-builder-element.php:1486 class-et-builder-element.php:1653
+#: class-et-builder-element.php:1831 class-et-builder-element.php:1889
+#: class-et-builder-element.php:2089 class-et-builder-element.php:2217
+#: class-et-builder-element.php:2277 frontend-builder/helpers.php:254
+#: frontend-builder/helpers.php:377 frontend-builder/helpers.php:575
+#: functions.php:4116 functions.php:4623 main-modules.php:164
+#: main-modules.php:260 main-modules.php:298 main-modules.php:310
+#: main-modules.php:741 main-modules.php:753 main-modules.php:2218
+#: main-modules.php:2257 main-modules.php:2282 main-modules.php:2387
+#: main-modules.php:3130 main-modules.php:3178 main-modules.php:3208
+#: main-modules.php:3269 main-modules.php:3280 main-modules.php:3291
+#: main-modules.php:3715 main-modules.php:3842 main-modules.php:3866
+#: main-modules.php:3985 main-modules.php:4690 main-modules.php:4701
+#: main-modules.php:4712 main-modules.php:4752 main-modules.php:4778
+#: main-modules.php:4801 main-modules.php:4830 main-modules.php:4853
+#: main-modules.php:4878 main-modules.php:4955 main-modules.php:4966
+#: main-modules.php:4977 main-modules.php:5736 main-modules.php:6283
+#: main-modules.php:6311 main-modules.php:6323 main-modules.php:6735
+#: main-modules.php:7058 main-modules.php:8135 main-modules.php:8204
+#: main-modules.php:8694 main-modules.php:8713 main-modules.php:8782
+#: main-modules.php:9192 main-modules.php:9203 main-modules.php:9214
+#: main-modules.php:9823 main-modules.php:9834 main-modules.php:9845
+#: main-modules.php:12188 main-modules.php:12223 main-modules.php:12730
+#: main-modules.php:12801 main-modules.php:12812 main-modules.php:12825
+#: main-modules.php:13346 main-modules.php:13631 main-modules.php:14316
+#: main-modules.php:14362 main-modules.php:14376 main-modules.php:14390
+#: main-modules.php:14404 main-modules.php:14418 main-modules.php:15900
+#: main-modules.php:16173 main-modules.php:16991 main-modules.php:17002
+#: main-modules.php:17019 main-modules.php:17031 main-modules.php:17054
+#: main-modules.php:17066 main-modules.php:17078 main-modules.php:17108
+#: main-modules.php:17239 main-modules.php:17682 main-modules.php:17693
+#: main-modules.php:17718 main-modules.php:18156 main-modules.php:18166
+#: main-modules.php:18176 main-modules.php:18463 main-modules.php:18491
+#: main-modules.php:18505 main-modules.php:19009 main-modules.php:19024
+#: main-modules.php:19700 main-modules.php:20264 main-modules.php:20294
+#: main-modules.php:20385 main-modules.php:20396 main-modules.php:20407
+#: main-modules.php:20763 main-modules.php:20774 main-modules.php:21692
+#: main-modules.php:22040 main-modules.php:22051 main-modules.php:22068
+#: main-modules.php:22080 main-modules.php:22103 main-modules.php:22115
+#: main-modules.php:22127 main-modules.php:22157 main-modules.php:22288
+#: main-modules.php:22979 main-modules.php:22990 main-modules.php:23001
+#: main-modules.php:23041 main-modules.php:23067 main-modules.php:23090
+#: main-modules.php:23119 main-modules.php:23142 main-modules.php:23167
+#: main-modules.php:23234 main-modules.php:23245 main-modules.php:23256
+#: main-structure-elements.php:246 main-structure-elements.php:264
+#: main-structure-elements.php:302 main-structure-elements.php:316
+#: main-structure-elements.php:387 main-structure-elements.php:400
+#: main-structure-elements.php:1655 main-structure-elements.php:1669
+#: main-structure-elements.php:1739 main-structure-elements.php:1803
+#: main-structure-elements.php:3177 main-structure-elements.php:3209
+msgid "No"
+msgstr "Ne"
+
+#: class-et-builder-element.php:1487 class-et-builder-element.php:1654
+#: class-et-builder-element.php:1832 class-et-builder-element.php:1890
+#: class-et-builder-element.php:2090 class-et-builder-element.php:2216
+#: class-et-builder-element.php:2276 frontend-builder/helpers.php:253
+#: frontend-builder/helpers.php:378 frontend-builder/helpers.php:576
+#: frontend-builder/helpers.php:822 functions.php:4117 functions.php:4165
+#: functions.php:4622 functions.php:5837 main-modules.php:165
+#: main-modules.php:261 main-modules.php:299 main-modules.php:309
+#: main-modules.php:740 main-modules.php:752 main-modules.php:2219
+#: main-modules.php:2258 main-modules.php:2283 main-modules.php:2388
+#: main-modules.php:3129 main-modules.php:3179 main-modules.php:3209
+#: main-modules.php:3270 main-modules.php:3281 main-modules.php:3292
+#: main-modules.php:3716 main-modules.php:3986 main-modules.php:4700
+#: main-modules.php:4751 main-modules.php:4879 main-modules.php:4956
+#: main-modules.php:4967 main-modules.php:4978 main-modules.php:5735
+#: main-modules.php:6282 main-modules.php:6312 main-modules.php:6324
+#: main-modules.php:6736 main-modules.php:7057 main-modules.php:8134
+#: main-modules.php:8205 main-modules.php:8695 main-modules.php:8712
+#: main-modules.php:8783 main-modules.php:9191 main-modules.php:9202
+#: main-modules.php:9213 main-modules.php:9822 main-modules.php:9833
+#: main-modules.php:9844 main-modules.php:12187 main-modules.php:12224
+#: main-modules.php:12729 main-modules.php:12800 main-modules.php:12811
+#: main-modules.php:12824 main-modules.php:13347 main-modules.php:13630
+#: main-modules.php:14315 main-modules.php:14361 main-modules.php:14375
+#: main-modules.php:14389 main-modules.php:14403 main-modules.php:14417
+#: main-modules.php:15899 main-modules.php:16174 main-modules.php:16990
+#: main-modules.php:17001 main-modules.php:17018 main-modules.php:17030
+#: main-modules.php:17053 main-modules.php:17065 main-modules.php:17077
+#: main-modules.php:17107 main-modules.php:17240 main-modules.php:17683
+#: main-modules.php:17694 main-modules.php:17719 main-modules.php:18155
+#: main-modules.php:18165 main-modules.php:18175 main-modules.php:18464
+#: main-modules.php:18492 main-modules.php:18506 main-modules.php:19010
+#: main-modules.php:19025 main-modules.php:19701 main-modules.php:20265
+#: main-modules.php:20295 main-modules.php:20386 main-modules.php:20397
+#: main-modules.php:20408 main-modules.php:20762 main-modules.php:20773
+#: main-modules.php:21693 main-modules.php:22039 main-modules.php:22050
+#: main-modules.php:22067 main-modules.php:22079 main-modules.php:22102
+#: main-modules.php:22114 main-modules.php:22126 main-modules.php:22156
+#: main-modules.php:22289 main-modules.php:22989 main-modules.php:23040
+#: main-modules.php:23168 main-modules.php:23235 main-modules.php:23246
+#: main-modules.php:23257 main-structure-elements.php:247
+#: main-structure-elements.php:265 main-structure-elements.php:303
+#: main-structure-elements.php:317 main-structure-elements.php:388
+#: main-structure-elements.php:401 main-structure-elements.php:1656
+#: main-structure-elements.php:1670 main-structure-elements.php:1740
+#: main-structure-elements.php:1804 main-structure-elements.php:3178
+#: main-structure-elements.php:3210
+msgid "Yes"
+msgstr "Da"
+
+#: class-et-builder-element.php:1505 class-et-builder-element.php:6791
+msgid "Gradient Start"
+msgstr "Početak Preliva"
+
+#: class-et-builder-element.php:1518 class-et-builder-element.php:6793
+msgid "Gradient End"
+msgstr "Kraj Preliva"
+
+#: class-et-builder-element.php:1531 class-et-builder-element.php:6794
+msgid "Gradient Type"
+msgstr "Tip Preliva"
+
+#: class-et-builder-element.php:1535 class-et-builder-element.php:6795
+#: frontend-builder/helpers.php:426
+msgid "Linear"
+msgstr "Linearni"
+
+#: class-et-builder-element.php:1536 class-et-builder-element.php:6796
+#: frontend-builder/helpers.php:427
+msgid "Radial"
+msgstr "Radijalni"
+
+#: class-et-builder-element.php:1552 class-et-builder-element.php:6797
+msgid "Gradient Direction"
+msgstr "Smer preliva"
+
+#: class-et-builder-element.php:1572 class-et-builder-element.php:6798
+msgid "Radial Direction"
+msgstr "Radijalni smer"
+
+#: class-et-builder-element.php:1576 class-et-builder-element.php:1710
+#: class-et-builder-element.php:6799 class-et-builder-element.php:6839
+#: frontend-builder/helpers.php:311 frontend-builder/helpers.php:469
+#: functions.php:420 functions.php:428 main-modules.php:273
+#: main-modules.php:3223 main-modules.php:3752 main-modules.php:3891
+#: main-modules.php:7364 main-modules.php:17157 main-modules.php:17215
+#: main-modules.php:17671 main-modules.php:19197 main-modules.php:20309
+#: main-modules.php:22206 main-modules.php:22264
+msgid "Center"
+msgstr "Centar"
+
+#: class-et-builder-element.php:1577 class-et-builder-element.php:1706
+#: class-et-builder-element.php:6800 class-et-builder-element.php:6835
+#: frontend-builder/helpers.php:307 frontend-builder/helpers.php:470
+#: main-modules.php:3219 main-modules.php:3748 main-modules.php:17153
+#: main-modules.php:20305 main-modules.php:22202
+msgid "Top Left"
+msgstr "На Врху Са Леве Стране"
+
+#: class-et-builder-element.php:1578 class-et-builder-element.php:3502
+#: class-et-builder-element.php:6801 class-et-builder-element.php:7203
+#: frontend-builder/helpers.php:471 frontend-builder/helpers.php:744
+#: main-modules.php:2178 main-modules.php:4817 main-modules.php:13609
+#: main-modules.php:23106
+msgid "Top"
+msgstr "Vrh"
+
+#: class-et-builder-element.php:1579 class-et-builder-element.php:1708
+#: class-et-builder-element.php:6802 class-et-builder-element.php:6837
+#: frontend-builder/helpers.php:309 frontend-builder/helpers.php:472
+#: main-modules.php:3221 main-modules.php:3750 main-modules.php:17155
+#: main-modules.php:20307 main-modules.php:22204
+msgid "Top Right"
+msgstr "Врх Десно"
+
+#: class-et-builder-element.php:1580 class-et-builder-element.php:2261
+#: class-et-builder-element.php:3509 class-et-builder-element.php:6803
+#: class-et-builder-element.php:7204 frontend-builder/helpers.php:473
+#: frontend-builder/helpers.php:745 functions.php:421 functions.php:427
+#: main-modules.php:274 main-modules.php:2184 main-modules.php:4816
+#: main-modules.php:7365 main-modules.php:13313 main-modules.php:17216
+#: main-modules.php:17670 main-modules.php:22265 main-modules.php:23105
+msgid "Right"
+msgstr "Desno"
+
+#: class-et-builder-element.php:1581 class-et-builder-element.php:1714
+#: class-et-builder-element.php:6804 class-et-builder-element.php:6843
+#: frontend-builder/helpers.php:315 frontend-builder/helpers.php:474
+#: main-modules.php:3227 main-modules.php:3756 main-modules.php:17161
+#: main-modules.php:20313 main-modules.php:22210
+msgid "Bottom Right"
+msgstr "Десно Доле"
+
+#: class-et-builder-element.php:1582 class-et-builder-element.php:3516
+#: class-et-builder-element.php:6805 class-et-builder-element.

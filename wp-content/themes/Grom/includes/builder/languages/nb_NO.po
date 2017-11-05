@@ -1,0 +1,5079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2017-08-01 19:34:59+00:00\n"
+"PO-Revision-Date: 2017-07-28 23:27+0300\n"
+"Last-Translator: Birgit Fostervold <birgitf@gmail.com>\n"
+"Language-Team: Birgit Fostervold <http://birdesigns.com>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+"X-Poedit-SearchPathExcluded-1: ../frontend-builder/node_modules\n"
+
+#: class-et-builder-element.php:147 main-modules.php:338 main-modules.php:839
+#: main-modules.php:1183 main-modules.php:1465 main-modules.php:1584
+#: main-modules.php:1602 main-modules.php:1960 main-modules.php:2457
+#: main-modules.php:2729 main-modules.php:3342 main-modules.php:3578
+#: main-modules.php:4013 main-modules.php:5026 main-modules.php:5834
+#: main-modules.php:6344 main-modules.php:7133 main-modules.php:7407
+#: main-modules.php:7686 main-modules.php:8236 main-modules.php:8814
+#: main-modules.php:9273 main-modules.php:9921 main-modules.php:10473
+#: main-modules.php:11069 main-modules.php:11300 main-modules.php:11521
+#: main-modules.php:11932 main-modules.php:12288 main-modules.php:13367
+#: main-modules.php:13651 main-modules.php:13978 main-modules.php:14542
+#: main-modules.php:15508 main-modules.php:15923 main-modules.php:16207
+#: main-modules.php:16525 main-modules.php:17277 main-modules.php:17790
+#: main-modules.php:18220 main-modules.php:18551 main-modules.php:19250
+#: main-modules.php:19774 main-modules.php:20428 main-modules.php:20855
+#: main-modules.php:21259 main-modules.php:21410 main-modules.php:21528
+#: main-modules.php:21805 main-modules.php:22326 main-modules.php:23305
+#: main-structure-elements.php:852 main-structure-elements.php:2365
+#: main-structure-elements.php:3439
+msgid "Admin Label"
+msgstr "Merkelapp"
+
+#: class-et-builder-element.php:154 main-modules.php:13541
+#: main-modules.php:13574
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: class-et-builder-element.php:1238 class-et-builder-settings.php:766
+#: frontend-builder/helpers.php:731 main-modules.php:561 main-modules.php:1817
+#: main-modules.php:1842 main-modules.php:1848 main-modules.php:1863
+#: main-modules.php:2103 main-modules.php:2112 main-modules.php:2853
+#: main-modules.php:3573 main-modules.php:3587 main-modules.php:4539
+#: main-modules.php:5599 main-modules.php:5610 main-modules.php:6582
+#: main-modules.php:6940 main-modules.php:6947 main-modules.php:7285
+#: main-modules.php:7293 main-modules.php:7522 main-modules.php:7530
+#: main-modules.php:7883 main-modules.php:7892 main-modules.php:8606
+#: main-modules.php:8615 main-modules.php:9089 main-modules.php:9688
+#: main-modules.php:10308 main-modules.php:10616 main-modules.php:10935
+#: main-modules.php:10944 main-modules.php:11180 main-modules.php:11187
+#: main-modules.php:11400 main-modules.php:11652 main-modules.php:11659
+#: main-modules.php:11790 main-modules.php:11798 main-modules.php:12096
+#: main-modules.php:12638 main-modules.php:13269 main-modules.php:13785
+#: main-modules.php:13793 main-modules.php:14189 main-modules.php:15782
+#: main-modules.php:15787 main-modules.php:16302 main-modules.php:16423
+#: main-modules.php:16926 main-modules.php:17574 main-modules.php:17584
+#: main-modules.php:18013 main-modules.php:18395 main-modules.php:18827
+#: main-modules.php:18839 main-modules.php:20632 main-modules.php:21343
+#: main-modules.php:21493 main-modules.php:21989 main-modules.php:22692
+msgid "Text"
+msgstr "Tekst"
+
+#: class-et-builder-element.php:1249 class-et-builder-element.php:2201
+msgid "%1$s Font"
+msgstr "%1$s skrifttype"
+
+#: class-et-builder-element.php:1269
+msgid "%1$s Font Size"
+msgstr "%1$s skriftstørrelse"
+
+#: class-et-builder-element.php:1305 class-et-builder-element.php:1315
+#: class-et-builder-element.php:2131
+msgid "%1$s Text Color"
+msgstr "%1$s skriftfarge"
+
+#: class-et-builder-element.php:1341 class-et-builder-element.php:2189
+msgid "%1$s Letter Spacing"
+msgstr "%1$s bokstavmellomrom"
+
+#: class-et-builder-element.php:1379
+msgid "%1$s Line Height"
+msgstr "%1$s linjehøyde"
+
+#: class-et-builder-element.php:1451 class-et-builder-element.php:7119
+#: class-et-builder-settings.php:759 frontend-builder/helpers.php:668
+#: main-modules.php:3022 main-modules.php:3577 main-modules.php:4530
+#: main-modules.php:4814 main-modules.php:7885 main-modules.php:8608
+#: main-modules.php:10301 main-modules.php:10617 main-modules.php:10937
+#: main-modules.php:12100 main-modules.php:12641 main-modules.php:14181
+#: main-modules.php:16920 main-modules.php:17577 main-modules.php:18007
+#: main-modules.php:18830 main-modules.php:19553 main-modules.php:20109
+#: main-modules.php:21983 main-modules.php:22683 main-modules.php:23103
+#: main-structure-elements.php:141 main-structure-elements.php:1407
+#: main-structure-elements.php:2940
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: class-et-builder-element.php:1471 class-et-builder-element.php:6671
+#: main-modules.php:3819 main-modules.php:5724 main-modules.php:7046
+#: main-modules.php:7654 main-modules.php:8123 main-modules.php:8701
+#: main-modules.php:10382 main-modules.php:10661 main-modules.php:12858
+#: main-modules.php:15888 main-modules.php:17257 main-modules.php:19654
+#: main-modules.php:22306 main-structure-elements.php:233
+#: main-structure-elements.php:1811 main-structure-elements.php:3217
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: class-et-builder-element.php:1482
+msgid "Use Background Color Gradient"
+msgstr "Bruk bakgrunnsfargeovergang"
+
+#: class-et-builder-element.php:1486 class-et-builder-element.php:1653
+#: class-et-builder-element.php:1831 class-et-builder-element.php:1889
+#: class-et-builder-element.php:2089 class-et-builder-element.php:2217
+#: class-et-builder-element.php:2277 frontend-builder/helpers.php:254
+#: frontend-builder/helpers.php:377 frontend-builder/helpers.php:575
+#: functions.php:4116 functions.php:4623 main-modules.php:164
+#: main-modules.php:260 main-modules.php:298 main-modules.php:310
+#: main-modules.php:741 main-modules.php:753 main-modules.php:2218
+#: main-modules.php:2257 main-modules.php:2282 main-modules.php:2387
+#: main-modules.php:3130 main-modules.php:3178 main-modules.php:3208
+#: main-modules.php:3269 main-modules.php:3280 main-modules.php:3291
+#: main-modules.php:3715 main-modules.php:3842 main-modules.php:3866
+#: main-modules.php:3985 main-modules.php:4690 main-modules.php:4701
+#: main-modules.php:4712 main-modules.php:4752 main-modules.php:4778
+#: main-modules.php:4801 main-modules.php:4830 main-modules.php:4853
+#: main-modules.php:4878 main-modules.php:4955 main-modules.php:4966
+#: main-modules.php:4977 main-modules.php:5736 main-modules.php:6283
+#: main-modules.php:6311 main-modules.php:6323 main-modules.php:6735
+#: main-modules.php:7058 main-modules.php:8135 main-modules.php:8204
+#: main-modules.php:8694 main-modules.php:8713 main-modules.php:8782
+#: main-modules.php:9192 main-modules.php:9203 main-modules.php:9214
+#: main-modules.php:9823 main-modules.php:9834 main-modules.php:9845
+#: main-modules.php:12188 main-modules.php:12223 main-modules.php:12730
+#: main-modules.php:12801 main-modules.php:12812 main-modules.php:12825
+#: main-modules.php:13346 main-modules.php:13631 main-modules.php:14316
+#: main-modules.php:14362 main-modules.php:14376 main-modules.php:14390
+#: main-modules.php:14404 main-modules.php:14418 main-modules.php:15900
+#: main-modules.php:16173 main-modules.php:16991 main-modules.php:17002
+#: main-modules.php:17019 main-modules.php:17031 main-modules.php:17054
+#: main-modules.php:17066 main-modules.php:17078 main-modules.php:17108
+#: main-modules.php:17239 main-modules.php:17682 main-modules.php:17693
+#: main-modules.php:17718 main-modules.php:18156 main-modules.php:18166
+#: main-modules.php:18176 main-modules.php:18463 main-modules.php:18491
+#: main-modules.php:18505 main-modules.php:19009 main-modules.php:19024
+#: main-modules.php:19700 main-modules.php:20264 main-modules.php:20294
+#: main-modules.php:20385 main-modules.php:20396 main-modules.php:20407
+#: main-modules.php:20763 main-modules.php:20774 main-modules.php:21692
+#: main-modules.php:22040 main-modules.php:22051 main-modules.php:22068
+#: main-modules.php:22080 main-modules.php:22103 main-modules.php:22115
+#: main-modules.php:22127 main-modules.php:22157 main-modules.php:22288
+#: main-modules.php:22979 main-modules.php:22990 main-modules.php:23001
+#: main-modules.php:23041 main-modules.php:23067 main-modules.php:23090
+#: main-modules.php:23119 main-modules.php:23142 main-modules.php:23167
+#: main-modules.php:23234 main-modules.php:23245 main-modules.php:23256
+#: main-structure-elements.php:246 main-structure-elements.php:264
+#: main-structure-elements.php:302 main-structure-elements.php:316
+#: main-structure-elements.php:387 main-structure-elements.php:400
+#: main-structure-elements.php:1655 main-structure-elements.php:1669
+#: main-structure-elements.php:1739 main-structure-elements.php:1803
+#: main-structure-elements.php:3177 main-structure-elements.php:3209
+msgid "No"
+msgstr "Nei"
+
+#: class-et-builder-element.php:1487 class-et-builder-element.php:1654
+#: class-et-builder-element.php:1832 class-et-builder-element.php:1890
+#: class-et-builder-element.php:2090 class-et-builder-element.php:2216
+#: class-et-builder-element.php:2276 frontend-builder/helpers.php:253
+#: frontend-builder/helpers.php:378 frontend-builder/helpers.php:576
+#: frontend-builder/helpers.php:822 functions.php:4117 functions.php:4165
+#: functions.php:4622 functions.php:5837 main-modules.php:165
+#: main-modules.php:261 main-modules.php:299 main-modules.php:309
+#: main-modules.php:740 main-modules.php:752 main-modules.php:2219
+#: main-modules.php:2258 main-modules.php:2283 main-modules.php:2388
+#: main-modules.php:3129 main-modules.php:3179 main-modules.php:3209
+#: main-modules.php:3270 main-modules.php:3281 main-modules.php:3292
+#: main-modules.php:3716 main-modules.php:3986 main-modules.php:4700
+#: main-modules.php:4751 main-modules.php:4879 main-modules.php:4956
+#: main-modules.php:4967 main-modules.php:4978 main-modules.php:5735
+#: main-modules.php:6282 main-modules.php:6312 main-modules.php:6324
+#: main-modules.php:6736 main-modules.php:7057 main-modules.php:8134
+#: main-modules.php:8205 main-modules.php:8695 main-modules.php:8712
+#: main-modules.php:8783 main-modules.php:9191 main-modules.php:9202
+#: main-modules.php:9213 main-modules.php:9822 main-modules.php:9833
+#: main-modules.php:9844 main-modules.php:12187 main-modules.php:12224
+#: main-modules.php:12729 main-modules.php:12800 main-modules.php:12811
+#: main-modules.php:12824 main-modules.php:13347 main-modules.php:13630
+#: main-modules.php:14315 main-modules.php:14361 main-modules.php:14375
+#: main-modules.php:14389 main-modules.php:14403 main-modules.php:14417
+#: main-modules.php:15899 main-modules.php:16174 main-modules.php:16990
+#: main-modules.php:17001 main-modules.php:17018 main-modules.php:17030
+#: main-modules.php:17053 main-modules.php:17065 main-modules.php:17077
+#: main-modules.php:17107 main-modules.php:17240 main-modules.php:17683
+#: main-modules.php:17694 main-modules.php:17719 main-modules.php:18155
+#: main-modules.php:18165 main-modules.php:18175 main-modules.php:18464
+#: main-modules.php:18492 main-modules.php:18506 main-modules.php:19010
+#: main-modules.php:19025 main-modules.php:19701 main-modules.php:20265
+#: main-modules.php:20295 main-modules.php:20386 main-modules.php:20397
+#: main-modules.php:20408 main-modules.php:20762 main-modules.php:20773
+#: main-modules.php:21693 main-modules.php:22039 main-modules.php:22050
+#: main-modules.php:22067 main-modules.php:22079 main-modules.php:22102
+#: main-modules.php:22114 main-modules.php:22126 main-modules.php:22156
+#: main-modules.php:22289 main-modules.php:22989 main-modules.php:23040
+#: main-modules.php:23168 main-modules.php:23235 main-modules.php:23246
+#: main-modules.php:23257 main-structure-elements.php:247
+#: main-structure-elements.php:265 main-structure-elements.php:303
+#: main-structure-elements.php:317 main-structure-elements.php:388
+#: main-structure-elements.php:401 main-structure-elements.php:1656
+#: main-structure-elements.php:1670 main-structure-elements.php:1740
+#: main-structure-elements.php:1804 main-structure-elements.php:3178
+#: main-structure-elements.php:3210
+msgid "Yes"
+msgstr "Ja"
+
+#: class-et-builder-element.php:1505 class-et-builder-element.php:6791
+msgid "Gradient Start"
+msgstr "Fargeovergangsstart"
+
+#: class-et-builder-element.php:1518 class-et-builder-element.php:6793
+msgid "Gradient End"
+msgstr "Fargeovergangsslutt"
+
+#: class-et-builder-element.php:1531 class-et-builder-element.php:6794
+msgid "Gradient Type"
+msgstr "Fargeovergangstype"
+
+#: class-et-builder-element.php:1535 class-et-builder-element.php:6795
+#: frontend-builder/helpers.php:426
+msgid "Linear"
+msgstr "Lineær"
+
+#: class-et-builder-element.php:1536 class-et-builder-element.php:6796
+#: frontend-builder/helpers.php:427
+msgid "Radial"
+msgstr "Radiell"
+
+#: class-et-builder-element.php:1552 class-et-builder-element.php:6797
+msgid "Gradient Direction"
+msgstr "Fargeovergangsretning"
+
+#: class-et-builder-element.php:1572 class-et-builder-element.php:6798
+msgid "Radial Direction"
+msgstr "Radiell retning"
+
+#: class-et-builder-element.php:1576 class-et-builder-element.php:1710
+#: class-et-builder-element.php:6799 class-et-builder-element.php:6839
+#: frontend-builder/helpers.php:311 frontend-builder/helpers.php:469
+#: functions.php:420 functions.php:428 main-modules.php:273
+#: main-modules.php:3223 main-modules.php:3752 main-modules.php:3891
+#: main-modules.php:7364 main-modules.php:17157 main-modules.php:17215
+#: main-modules.php:17671 main-modules.php:19197 main-modules.php:20309
+#: main-modules.php:22206 main-modules.php:22264
+msgid "Center"
+msgstr "Midtstilt"
+
+#: class-et-builder-element.php:1577 class-et-builder-element.php:1706
+#: class-et-builder-element.php:6800 class-et-builder-element.php:6835
+#: frontend-builder/helpers.php:307 frontend-builder/helpers.php:470
+#: main-modules.php:3219 main-modules.php:3748 main-modules.php:17153
+#: main-modules.php:20305 main-modules.php:22202
+msgid "Top Left"
+msgstr "Oppe til venstre"
+
+#: class-et-builder-element.php:1578 class-et-builder-element.php:3502
+#: class-et-builder-element.php:6801 class-et-builder-element.php:7203
+#: frontend-builder/helpers.php:471 frontend-builder/helpers.php:744
+#: main-modules.php:2178 main-modules.php:4817 main-modules.php:13609
+#: main-modules.php:23106
+msgid "Top"
+msgstr "Topp"
+
+#: class-et-builder-element.php:1579 class-et-builder-element.php:1708
+#: class-et-builder-element.php:6802 class-et-builder-element.php:6837
+#: frontend-builder/helpers.php:309 frontend-builder/helpers.php:472
+#: main-modules.php:3221 main-modules.php:3750 main-modules.php:17155
+#: main-modules.php:20307 main-modules.php:22204
+msgid "Top Right"
+msgstr "Oppe til høyre"
+
+#: class-et-builder-element.php:1580 class-et-builder-element.php:2261
+#: class-et-builder-element.php:3509 class-et-builder-element.php:6803
+#: class-et-builder-element.php:7204 frontend-builder/helpers.php:473
+#: frontend-builder/helpers.php:745 functions.php:421 functions.php:427
+#: main-modules.php:274 main-modules.php:2184 main-modules.php:4816
+#: main-modules.php:7365 main-modules.php:13313 main-modules.php:17216
+#: main-modules.php:17670 main-modules.php:22265 main-modules.php:23105
+msgid "Right"
+msgstr "Høyre"
+
+#: class-et-builder-element.php:1581 class-et-builder-element.php:1714
+#: class-et-builder-element.php:6804 class-et-builder-element.php:6843
+#: frontend-builder/helpers.php:315 frontend-builder/helpers.php:474
+#: main-modules.php:3227 main-modules.php:3756 main-modules.php:17161
+#: main-modules.php:20313 main-modules.php:22210
+msgid "Bottom Right"
+msgstr "Nede til høyre"
+
+#: class-et-builder-element.php:1582 class-et-builder-element.php:3516
+#: class-et-builder-element.php:6805 class-et-builder-element.php:7205
+#: frontend-builder/helpers.php:475 frontend-builder/helpers.php:746
+#: main-modules.php:3892 main-modules.php:4818 main-modules.php:13611
+#: main-modules.php:19198 main-modules.php:19222 main-modules.php:23107
+msgid "Bottom"
+msgstr "Bunn"
+
+#: class-et-builder-element.php:1583 class-et-builder-element.php:1712
+#: class-et-builder-element.php:6806 class-et-builder-element.php:6841
+#: frontend-builder/helpers.php:313 frontend-builder/helpers.php:476
+#: main-modules.php:3225 main-modules.php:3754 main-modules.php:17159
+#: main-modules.php:20311 main-modules.php:22208
+msgid "Bottom Left"
+msgstr "Nede til venstre"
+
+#: class-et-builder-element.php:1584 class-et-builder-element.php:2262
+#: class-et-builder-element.php:3523 class-et-builder-element.php:6807
+#: class-et-builder-element.php:7206 frontend-builder/helpers.php:477
+#: frontend-builder/helpers.php:747 functions.php:419 main-modules.php:272
+#: main-modules.php:2182 main-modules.php:4815 main-modules.php:7363
+#: main-modules.php:13312 main-modules.php:17214 main-modules.php:17669
+#: main-modules.php:22263 main-modules.php:23104
+msgid "Left"
+msgstr "Venstre"
+
+#: class-et-builder-element.php:1596 class-et-builder-element.php:6808
+msgid "Start Position"
+msgstr "Startposisjon"
+
+#: class-et-builder-element.php:1616 class-et-builder-element.php:6809
+msgid "End Position"
+msgstr "Sluttposisjon"
+
+#: class-et-builder-element.php:1638 class-et-builder-element.php:6975
+#: main-modules.php:3701
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: class-et-builder-element.php:1641 class-et-builder-element.php:6979
+#: frontend-builder/helpers.php:232 main-modules.php:125 main-modules.php:1143
+#: main-modules.php:1638 main-modules.php:2305 main-modules.php:3704
+#: main-modules.php:3828 main-modules.php:5706 main-modules.php:7644
+#: main-modules.php:13880 main-modules.php:19158 main-modules.php:19210
+#: main-modules.php:21653
+msgid "Upload an image"
+msgstr "Last opp et bilde"
+
+#: class-et-builder-element.php:1642 class-et-builder-element.php:6980
+#: frontend-builder/helpers.php:233 main-modules.php:3705
+msgid "Choose a Background Image"
+msgstr "Velg et bakgrunnsbilde"
+
+#: class-et-builder-element.php:1643 class-et-builder-element.php:6981
+#: frontend-builder/helpers.php:234 main-modules.php:3706
+msgid "Set As Background"
+msgstr "Sett som bakgrunn"
+
+#: class-et-builder-element.php:1649 class-et-builder-element.php:6982
+#: main-modules.php:17103 main-modules.php:22152
+msgid "Use Parallax Effect"
+msgstr "Bruk parallakse-effekt"
+
+#: class-et-builder-element.php:1665
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Ved aktivering vil bakgrunnsbildet stå stille ved scrolling, noe som skaper "
+"en parallakse-lignende effekt."
+
+#: class-et-builder-element.php:1671 class-et-builder-element.php:6985
+#: main-modules.php:17123 main-modules.php:22172
+msgid "Parallax Method"
+msgstr "Parallaksemetode"
+
+#: class-et-builder-element.php:1675 class-et-builder-element.php:6986
+#: frontend-builder/helpers.php:275 main-modules.php:3196 main-modules.php:3736
+#: main-modules.php:17128 main-modules.php:20282 main-modules.php:22177
+msgid "True Parallax"
+msgstr "Sann parallakse"
+
+#: class-et-builder-element.php:1676 class-et-builder-element.php:6987
+#: frontend-builder/helpers.php:274 frontend-builder/helpers.php:784
+#: frontend-builder/helpers.php:860 main-modules.php:3195 main-modules.php:3735
+#: main-modules.php:17127 main-modules.php:20281 main-modules.php:22176
+msgid "CSS"
+msgstr "CSS"
+
+#: class-et-builder-element.php:1681 main-modules.php:3201
+#: main-modules.php:3741 main-modules.php:20287
+msgid "Define the method, used for the parallax effect."
+msgstr "Velg metode for parallakse-effekt."
+
+#: class-et-builder-element.php:1687 class-et-builder-element.php:6988
+#: main-modules.php:3234 main-modules.php:3763 main-modules.php:17136
+#: main-modules.php:20320 main-modules.php:22185
+msgid "Background Image Size"
+msgstr "Bakgrunnsbildestørrelse"
+
+#: class-et-builder-element.php:1691 class-et-builder-element.php:6818
+#: frontend-builder/helpers.php:291 main-modules.php:3238 main-modules.php:3767
+#: main-modules.php:17140 main-modules.php:20324 main-modules.php:22189
+msgid "Cover"
+msgstr "Dekk"
+
+#: class-et-builder-element.php:1692 class-et-builder-element.php:6819
+#: frontend-builder/helpers.php:292 main-modules.php:3239 main-modules.php:3768
+#: main-modules.php:17141 main-modules.php:20325 main-modules.php:22190
+msgid "Fit"
+msgstr "Tilpasset"
+
+#: class-et-builder-element.php:1693 class-et-builder-element.php:6820
+#: frontend-builder/helpers.php:293 main-modules.php:3240 main-modules.php:3769
+#: main-modules.php:17142 main-modules.php:20326 main-modules.php:22191
+msgid "Actual Size"
+msgstr "Faktisk størrelse"
+
+#: class-et-builder-element.php:1702 class-et-builder-element.php:6990
+#: main-modules.php:3215 main-modules.php:3744 main-modules.php:17149
+#: main-modules.php:20301 main-modules.php:22198
+msgid "Background Image Position"
+msgstr "Bakgrunnsbildeposisjon"
+
+#: class-et-builder-element.php:1707 class-et-builder-element.php:6836
+#: frontend-builder/helpers.php:308 main-modules.php:3220 main-modules.php:3749
+#: main-modules.php:17154 main-modules.php:20306 main-modules.php:22203
+msgid "Top Center"
+msgstr "Oppe midtstilt"
+
+#: class-et-builder-element.php:1709 class-et-builder-element.php:6838
+#: frontend-builder/helpers.php:310 main-modules.php:3222 main-modules.php:3753
+#: main-modules.php:17156 main-modules.php:20308 main-modules.php:22205
+msgid "Center Left"
+msgstr "Midten venstre"
+
+#: class-et-builder-element.php:1711 class-et-builder-element.php:6840
+#: frontend-builder/helpers.php:312 main-modules.php:3224 main-modules.php:3751
+#: main-modules.php:17158 main-modules.php:20310 main-modules.php:22207
+msgid "Center Right"
+msgstr "Midten høyre"
+
+#: class-et-builder-element.php:1713 class-et-builder-element.php:6842
+#: frontend-builder/helpers.php:314 main-modules.php:3226 main-modules.php:3755
+#: main-modules.php:17160 main-modules.php:20312 main-modules.php:22209
+msgid "Bottom Center"
+msgstr "Nede midtstilt"
+
+#: class-et-builder-element.php:1723 class-et-builder-element.php:6992
+#: main-modules.php:3777 main-modules.php:17168 main-modules.php:22217
+msgid "Background Image Repeat"
+msgstr "Gjenta bakgrunnsbilde"
+
+#: class-et-builder-element.php:1727 class-et-builder-element.php:6855
+#: frontend-builder/helpers.php:334 main-modules.php:3786
+#: main-modules.php:17177 main-modules.php:22226
+msgid "No Repeat"
+msgstr "Ikke gjenta"
+
+#: class-et-builder-element.php:1728 class-et-builder-element.php:6856
+#: frontend-builder/helpers.php:329 main-modules.php:3781
+#: main-modules.php:17172 main-modules.php:22221
+msgid "Repeat"
+msgstr "Gjenta"
+
+#: class-et-builder-element.php:1729 class-et-builder-element.php:6857
+#: frontend-builder/helpers.php:330 main-modules.php:3782
+#: main-modules.php:17173 main-modules.php:22222
+msgid "Repeat X (horizontal)"
+msgstr "Gjenta X (horisontalt)"
+
+#: class-et-builder-element.php:1730 class-et-builder-element.php:6858
+#: frontend-builder/helpers.php:331 main-modules.php:3783
+#: main-modules.php:17174 main-modules.php:22223
+msgid "Repeat Y (vertical)"
+msgstr "Gjenta Y (vertikalt)"
+
+#: class-et-builder-element.php:1731 class-et-builder-element.php:6859
+#: frontend-builder/helpers.php:332 main-modules.php:3784
+#: main-modules.php:17175 main-modules.php:22224
+msgid "Space"
+msgstr "Tomrom"
+
+#: class-et-builder-element.php:1732 class-et-builder-element.php:6860
+#: frontend-builder/helpers.php:333 main-modules.php:3785
+#: main-modules.php:17176 main-modules.php:22225
+msgid "Round"
+msgstr "Rund"
+
+#: class-et-builder-element.php:1741 class-et-builder-element.php:6994
+#: main-modules.php:3793 main-modules.php:17184 main-modules.php:22233
+msgid "Background Image Blend"
+msgstr "Bakgrunnsbildeblanding"
+
+#: class-et-builder-element.php:1745 class-et-builder-element.php:6882
+#: frontend-builder/helpers.php:348 main-modules.php:3797
+#: main-modules.php:17188 main-modules.php:22237
+msgid "Normal"
+msgstr "Normal"
+
+#: class-et-builder-element.php:1746 class-et-builder-element.php:6883
+#: frontend-builder/helpers.php:349 main-modules.php:3798
+#: main-modules.php:17189 main-modules.php:22238
+msgid "Multiply"
+msgstr "Multipliser"
+
+#: class-et-builder-element.php:1747 class-et-builder-element.php:6884
+#: frontend-builder/helpers.php:350 main-modules.php:3799
+#: main-modules.php:17190 main-modules.php:22239
+msgid "Screen"
+msgstr "Skjerm"
+
+#: class-et-builder-element.php:1748 class-et-builder-element.php:6885
+#: frontend-builder/helpers.php:351 main-modules.php:57 main-modules.php:559
+#: main-modules.php:614 main-modules.php:1091 main-modules.php:1363
+#: main-modules.php:1583 main-modules.php:3583 main-modules.php:3800
+#: main-modules.php:4536 main-modules.php:9087 main-modules.php:9125
+#: main-modules.php:9686 main-modules.php:9747 main-modules.php:14187
+#: main-modules.php:15312 main-modules.php:15357 main-modules.php:17191
+#: main-modules.php:20629 main-modules.php:21619 main-modules.php:22240
+#: main-modules.php:22689
+msgid "Overlay"
+msgstr "Overlegg"
+
+#: class-et-builder-element.php:1749 class-et-builder-element.php:6886
+#: frontend-builder/helpers.php:352 main-modules.php:3801
+#: main-modules.php:17192 main-modules.php:22241
+msgid "Darken"
+msgstr "Gjør mørkere"
+
+#: class-et-builder-element.php:1750 class-et-builder-element.php:6887
+#: frontend-builder/helpers.php:353 main-modules.php:3802
+#: main-modules.php:17193 main-modules.php:22242
+msgid "Lighten"
+msgstr "Gjør lysere"
+
+#: class-et-builder-element.php:1751 class-et-builder-element.php:6888
+#: frontend-builder/helpers.php:354 main-modules.php:3803
+#: main-modules.php:17194 main-modules.php:22243
+msgid "Color Dodge"
+msgstr "Fargeunnvikelse"
+
+#: class-et-builder-element.php:1752 class-et-builder-element.php:6889
+#: frontend-builder/helpers.php:355 main-modules.php:3804
+#: main-modules.php:17195 main-modules.php:22244
+msgid "Color Burn"
+msgstr "Fargebrenning"
+
+#: class-et-builder-element.php:1753 class-et-builder-element.php:6890
+#: frontend-builder/helpers.php:356 main-modules.php:3805
+#: main-modules.php:17196 main-modules.php:22245
+msgid "Hard Light"
+msgstr "Hardt lys"
+
+#: class-et-builder-element.php:1754 class-et-builder-element.php:6891
+#: frontend-builder/helpers.php:357 main-modules.php:3806
+#: main-modules.php:17197 main-modules.php:22246
+msgid "Soft Light"
+msgstr "Mykt lys"
+
+#: class-et-builder-element.php:1755 class-et-builder-element.php:6892
+#: frontend-builder/helpers.php:358 main-modules.php:3807
+#: main-modules.php:17198 main-modules.php:22247
+msgid "Difference"
+msgstr "Forskjell"
+
+#: class-et-builder-element.php:1756 class-et-builder-element.php:6893
+#: frontend-builder/helpers.php:359 main-modules.php:3808
+#: main-modules.php:17199 main-modules.php:22248
+msgid "Exclusion"
+msgstr "Utelukkelse"
+
+#: class-et-builder-element.php:1757 class-et-builder-element.php:6894
+#: frontend-builder/helpers.php:360 main-modules.php:3809
+#: main-modules.php:17200 main-modules.php:22249
+msgid "Hue"
+msgstr "Fargetone"
+
+#: class-et-builder-element.php:1758 class-et-builder-element.php:6895
+#: frontend-builder/helpers.php:361 main-modules.php:3810
+#: main-modules.php:17201 main-modules.php:22250
+msgid "Saturation"
+msgstr "Metning"
+
+#: class-et-builder-element.php:1759 class-et-builder-element.php:6640
+#: class-et-builder-element.php:6896 frontend-builder/helpers.php:362
+#: main-modules.php:3811 main-modules.php:13546 main-modules.php:13566
+#: main-modules.php:17202 main-modules.php:22251
+msgid "Color"
+msgstr "Farge"
+
+#: class-et-builder-element.php:1760 class-et-builder-element.php:6897
+#: frontend-builder/helpers.php:363 main-modules.php:3812
+#: main-modules.php:17203 main-modules.php:22252
+msgid "Luminosity"
+msgstr "Lysstyrke"
+
+#: class-et-builder-element.php:1771 class-et-builder-element.php:7074
+#: main-modules.php:3933
+msgid "Background Video MP4"
+msgstr "Bakgrunnsvideo .MP4"
+
+#: class-et-builder-element.php:1775 class-et-builder-element.php:1791
+#: class-et-builder-element.php:7078 frontend-builder/helpers.php:536
+#: frontend-builder/helpers.php:548 main-modules.php:1116 main-modules.php:1130
+#: main-modules.php:1612 main-modules.php:1628 main-modules.php:3937
+#: main-modules.php:3951
+msgid "Upload a video"
+msgstr "Last opp video"
+
+#: class-et-builder-element.php:1776 class-et-builder-element.php:7079
+#: frontend-builder/helpers.php:537 main-modules.php:3938
+msgid "Choose a Background Video MP4 File"
+msgstr "Velg en bakgrunnsvideo .MP4-fil"
+
+#: class-et-builder-element.php:1777 class-et-builder-element.php:1793
+#: class-et-builder-element.php:7080 frontend-builder/helpers.php:538
+#: frontend-builder/helpers.php:550 main-modules.php:3939 main-modules.php:3953
+msgid "Set As Background Video"
+msgstr "Sett som bakgrunnsvideo"
+
+#: class-et-builder-element.php:1778 main-modules.php:3940
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle videoer må lastes opp i både .MP4- og .WEBM-formater for kompatibilitet "
+"med alle nettlesere. Last opp .MP4-versjonen her. Viktig: videobakgrunner er "
+"deaktivert på mobile enheter og i stedet vil bakgrunnsbildet brukes. Angi "
+"derfor både et bakgrunnsbilde og en -video for optimalt resultat."
+
+#: class-et-builder-element.php:1787 class-et-builder-element.php:7081
+#: main-modules.php:3947
+msgid "Background Video Webm"
+msgstr "Bakgrunnsvideo .WEBM"
+
+#: class-et-builder-element.php:1792 class-et-builder-element.php:7082
+#: frontend-builder/helpers.php:549 main-modules.php:3952
+msgid "Choose a Background Video WEBM File"
+msgstr "Velg en bakgrunnsvideo i .WEBM-filformat"
+
+#: class-et-builder-element.php:1794 main-modules.php:3954
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle videoer må lastes opp i både .MP4- og .WEBM-formater for kompatibilitet "
+"med alle nettlesere. Last opp .WEBM-versjonen her. Viktig: videobakgrunner "
+"er deaktivert på mobile enheter og i stedet vil bakgrunnsbildet brukes. Angi "
+"derfor både et bakgrunnsbilde og en -video for optimalt resultat."
+
+#: class-et-builder-element.php:1803 class-et-builder-element.php:7083
+#: main-modules.php:3961
+msgid "Background Video Width"
+msgstr "Bredde på bakgrunnsvideo"
+
+#: class-et-builder-element.php:1806 main-modules.php:3965
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"For å vise videoer i riktig størrelse må den eksakte bredden (i piksler) til "
+"videoen oppgis her."
+
+#: class-et-builder-element.php:1815 class-et-builder-element.php:7084
+#: main-modules.php:3971
+msgid "Background Video Height"
+msgstr "Høyde på bakgrunnsvideo"
+
+#: class-et-builder-element.php:1818 main-modules.php:3975
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"For å vise videoer i riktig størrelse må den eksakte høyden (i piksler) til "
+"videoen oppgis her."
+
+#: class-et-builder-element.php:1827 class-et-builder-element.php:7085
+#: main-modules.php:3981
+msgid "Pause Video"
+msgstr "Stans video"
+
+#: class-et-builder-element.php:1836 main-modules.php:3989
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "Stans videoen dersom andre spillere starter avspilling"
+
+#: class-et-builder-element.php:1876
+msgid "Border"
+msgstr "Kantlinje"
+
+#: class-et-builder-element.php:1885
+msgid "Use Border"
+msgstr "Bruk kantlinje"
+
+#: class-et-builder-element.php:1904
+msgid "Border Color"
+msgstr "Kantlinjefarge"
+
+#: class-et-builder-element.php:1915
+msgid "Border Width"
+msgstr "Kantlinjebredde"
+
+#: class-et-builder-element.php:1926
+msgid "Border Style"
+msgstr "Kantlinjestil"
+
+#: class-et-builder-element.php:1961 class-et-builder-settings.php:764
+#: main-modules.php:3029 main-modules.php:4543 main-modules.php:10312
+#: main-modules.php:20116 main-modules.php:22696
+#: main-structure-elements.php:159 main-structure-elements.php:1425
+#: main-structure-elements.php:2957
+msgid "Spacing"
+msgstr "Avstand"
+
+#: class-et-builder-element.php:1971 main-structure-elements.php:1792
+msgid "Custom Margin"
+msgstr "Egendefinert marg"
+
+#: class-et-builder-element.php:2026 main-structure-elements.php:273
+#: main-structure-elements.php:1767 main-structure-elements.php:3148
+msgid "Custom Padding"
+msgstr "Egendefinert luft (padding)"
+
+#: class-et-builder-element.php:2085
+msgid "Use Custom Styles for %1$s "
+msgstr "Bruk egendefinert stil for %1$s "
+
+#: class-et-builder-element.php:2115
+msgid "%1$s Text Size"
+msgstr "%1$s tekststørrelse"
+
+#: class-et-builder-element.php:2143
+msgid "%1$s Background Color"
+msgstr "%1$s bakgrunnsfarge"
+
+#: class-et-builder-element.php:2155
+msgid "%1$s Border Width"
+msgstr "%1$s kantlinjebredde"
+
+#: class-et-builder-element.php:2166
+msgid "%1$s Border Color"
+msgstr "%1$s kantlinjefarge"
+
+#: class-et-builder-element.php:2178
+msgid "%1$s Border Radius"
+msgstr "%1$s kantlinjeradius"
+
+#: class-et-builder-element.php:2210
+msgid "Add %1$s Icon"
+msgstr "Legg til %1$s-Ikon"
+
+#: class-et-builder-element.php:2215 frontend-builder/assets.php:98
+#: functions.php:1267
+msgid "Default"
+msgstr "Standard"
+
+#: class-et-builder-element.php:2232
+msgid "%1$s Icon"
+msgstr "%1$s-ikon"
+
+#: class-et-builder-element.php:2245
+msgid "%1$s Icon Color"
+msgstr "%1$s-ikonfarge"
+
+#: class-et-builder-element.php:2257
+msgid "%1$s Icon Placement"
+msgstr "%1$s-ikonplassering"
+
+#: class-et-builder-element.php:2271
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "Vis ikon kun ved mouseover for %1$s"
+
+#: class-et-builder-element.php:2286
+msgid "%1$s Hover Text Color"
+msgstr "%1$s mouseover tekstfarge"
+
+#: class-et-builder-element.php:2298
+msgid "%1$s Hover Background Color"
+msgstr "%1$s mouseover bakgrunnsfarge"
+
+#: class-et-builder-element.php:2310
+msgid "%1$s Hover Border Color"
+msgstr "%1$s mouseover kantlinjefarge"
+
+#: class-et-builder-element.php:2322
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s mouseover kantlinjeradius"
+
+#: class-et-builder-element.php:2333
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s mouseover bokstavmellomrom"
+
+#: class-et-builder-element.php:2407 class-et-builder-element.php:7278
+#: main-modules.php:16437 main-modules.php:16633
+msgid "Before"
+msgstr "Før"
+
+#: class-et-builder-element.php:2412 class-et-builder-element.php:7279
+#: main-modules.php:2903 main-modules.php:7276 main-modules.php:16441
+#: main-modules.php:16637
+msgid "Main Element"
+msgstr "Hovedelement"
+
+#: class-et-builder-element.php:2415 class-et-builder-element.php:7280
+#: main-modules.php:16445 main-modules.php:16641
+msgid "After"
+msgstr "Etter"
+
+#: class-et-builder-element.php:2465
+msgid "CSS ID &amp; Classes"
+msgstr "CSS-ID & klasser"
+
+#: class-et-builder-element.php:2466 class-et-builder-settings.php:256
+#: class-et-builder-settings.php:761 main-structure-elements.php:182
+#: main-structure-elements.php:1450 main-structure-elements.php:2980
+msgid "Custom CSS"
+msgstr "Egendefinert CSS"
+
+#: class-et-builder-element.php:2924
+msgid "Background:"
+msgstr "Bakgrunn:"
+
+#: class-et-builder-element.php:3224 class-et-builder-element.php:4086
+#: frontend-builder/helpers.php:734
+msgid "Add New Item"
+msgstr "Legg til nytt objekt"
+
+#: class-et-builder-element.php:3245 frontend-builder/helpers.php:775
+msgid "equals"
+msgstr "er lik"
+
+#: class-et-builder-element.php:3246 frontend-builder/helpers.php:776
+msgid "does not equal"
+msgstr "er ikke lik"
+
+#: class-et-builder-element.php:3247 frontend-builder/helpers.php:777
+msgid "is greater than"
+msgstr "er større enn"
+
+#: class-et-builder-element.php:3248 frontend-builder/helpers.php:778
+msgid "is less than"
+msgstr "er mindre enn"
+
+#: class-et-builder-element.php:3249 frontend-builder/helpers.php:779
+msgid "contains"
+msgstr "inneholder"
+
+#: class-et-builder-element.php:3250 frontend-builder/helpers.php:780
+msgid "does not contain"
+msgstr "inneholder ikke"
+
+#: class-et-builder-element.php:3251 frontend-builder/helpers.php:781
+msgid "is empty"
+msgstr "er tom"
+
+#: class-et-builder-element.php:3252 frontend-builder/helpers.php:782
+msgid "is not empty"
+msgstr "er ikke tom"
+
+#: class-et-builder-element.php:3269 frontend-builder/helpers.php:773
+#: main-modules.php:13131
+msgid "checked"
+msgstr "avkrysset"
+
+#: class-et-builder-element.php:3270 frontend-builder/helpers.php:774
+#: main-modules.php:13132
+msgid "not checked"
+msgstr "ikke avkrysset"
+
+#: class-et-builder-element.php:3271
+msgid "Add New Rule"
+msgstr "Legg til ny regel"
+
+#: class-et-builder-element.php:3351 class-et-builder-element.php:6675
+#: class-et-builder-element.php:6792
+msgid "Hex Value"
+msgstr "Fargeverdi (hex)"
+
+#: class-et-builder-element.php:3363
+msgid "Choose Custom Color"
+msgstr "Egendefinert farge"
+
+#: class-et-builder-element.php:3374 frontend-builder/helpers.php:737
+msgid "Upload"
+msgstr "Last opp"
+
+#: class-et-builder-element.php:3375
+msgid "Choose image"
+msgstr "Velg bilde"
+
+#: class-et-builder-element.php:3376
+msgid "Set image"
+msgstr "Sett bilde"
+
+#: class-et-builder-element.php:3831 class-et-builder-element.php:4072
+#: frontend-builder/helpers.php:764 main-modules.php:1915 main-modules.php:2366
+#: main-modules.php:2918 main-modules.php:3992 main-modules.php:4527
+#: main-modules.php:5766 main-modules.php:6792 main-modules.php:7088
+#: main-modules.php:8165 main-modules.php:8743 main-modules.php:9080
+#: main-modules.php:9679 main-modules.php:11715 main-modules.php:11878
+#: main-modules.php:13262 main-modules.php:14179 main-modules.php:14325
+#: main-modules.php:15307 main-modules.php:16350 main-modules.php:16735
+#: main-modules.php:18877 main-modules.php:19229 main-modules.php:19552
+#: main-modules.php:20622 main-modules.php:21364 main-modules.php:21506
+#: main-modules.php:22680
+msgid "Content"
+msgstr "Innhold"
+
+#: class-et-builder-element.php:3832 frontend-builder/helpers.php:765
+#: frontend-builder/helpers.php:859
+msgid "Design"
+msgstr "Utforming"
+
+#: class-et-builder-element.php:3833 frontend-builder/helpers.php:766
+msgid "Advanced"
+msgstr "Avansert"
+
+#: class-et-builder-element.php:4047
+msgid "You don't have sufficient permissions to access the settings"
+msgstr "Du har ikke tilstrekkelige rettigheter for adgang til innstillingene"
+
+#: class-et-builder-element.php:4073 main-modules.php:2920
+#: main-modules.php:11718 main-modules.php:12696
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "Skriv inn innhold for den aktuelle fanen."
+
+#: class-et-builder-element.php:4086
+msgid "Add New %s"
+msgstr "Legg til ny %s"
+
+#: class-et-builder-element.php:4098
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: class-et-builder-element.php:4218
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s innstillinger"
+
+#: class-et-builder-element.php:4220
+msgid "Item"
+msgstr "Objekt"
+
+#: class-et-builder-element.php:4220 frontend-builder/helpers.php:799
+#: functions.php:2050 functions.php:2343 functions.php:2643
+msgid "Module"
+msgstr "Modul"
+
+#: class-et-builder-element.php:6641
+msgid "Gradient"
+msgstr "Gradient"
+
+#: class-et-builder-element.php:6642 main-modules.php:4 main-modules.php:51
+#: main-modules.php:2302 main-modules.php:5600 main-modules.php:7524
+#: main-modules.php:13786 main-modules.php:15353 main-modules.php:18837
+#: main-modules.php:21613
+msgid "Image"
+msgstr "Bilde"
+
+#: class-et-builder-element.php:6643 main-modules.php:1073
+#: main-modules.php:1090 main-modules.php:1339 main-modules.php:1562
+#: main-modules.php:1582
+msgid "Video"
+msgstr "Video"
+
+#: class-et-builder-element.php:6788
+msgid "Background Gradient"
+msgstr "Bakgrunnsfargeovergang"
+
+#: class-et-builder-element.php:6789 class-et-builder-element.php:6983
+#: class-et-builder-element.php:7086 class-et-builder-settings.php:50
+#: class-et-builder-settings.php:106 class-et-builder-settings.php:156
+#: class-et-builder-settings.php:171 class-et-builder-settings.php:435
+#: functions.php:4625 main-modules.php:204 main-modules.php:776
+#: main-modules.php:3141 main-modules.php:3167 main-modules.php:4890
+#: main-modules.php:4916 main-modules.php:10398 main-modules.php:11010
+#: main-modules.php:11262 main-modules.php:14347 main-modules.php:14442
+#: main-modules.php:14518 main-modules.php:16149 main-modules.php:16161
+#: main-modules.php:16505 main-modules.php:20227 main-modules.php:20253
+#: main-modules.php:20797 main-modules.php:21225 main-modules.php:21237
+#: main-modules.php:21732 main-modules.php:23179 main-modules.php:23205
+msgid "On"
+msgstr "På"
+
+#: class-et-builder-element.php:6790 class-et-builder-element.php:6984
+#: class-et-builder-element.php:7087 class-et-builder-settings.php:51
+#: class-et-builder-settings.php:107 class-et-builder-settings.php:157
+#: class-et-builder-settings.php:172 class-et-builder-settings.php:436
+#: functions.php:4624 main-modules.php:203 main-modules.php:775
+#: main-modules.php:3140 main-modules.php:3166 main-modules.php:4889
+#: main-modules.php:4915 main-modules.php:10399 main-modules.php:11011
+#: main-modules.php:11263 main-modules.php:14346 main-modules.php:14441
+#: main-modules.php:14517 main-modules.php:16150 main-modules.php:16162
+#: main-modules.php:16504 main-modules.php:20226 main-modules.php:20252
+#: main-modules.php:20796 main-modules.php:21226 main-modules.php:21238
+#: main-modules.php:21731 main-modules.php:23178 main-modules.php:23204
+msgid "Off"
+msgstr "Av"
+
+#: class-et-builder-element.php:7118 class-et-builder-element.php:7201
+#: class-et-builder-element.php:7277 class-et-builder-element.php:7332
+#: functions.php:2640 main-structure-elements.php:4068
+msgid "Column"
+msgstr "Kolonne"
+
+#: class-et-builder-element.php:7202
+msgid "Padding"
+msgstr "Luft (padding)"
+
+#: class-et-builder-element.php:7333 main-modules.php:344 main-modules.php:845
+#: main-modules.php:1189 main-modules.php:1471 main-modules.php:1966
+#: main-modules.php:2463 main-modules.php:2735 main-modules.php:3348
+#: main-modules.php:5032 main-modules.php:5840 main-modules.php:6350
+#: main-modules.php:7139 main-modules.php:7413 main-modules.php:7692
+#: main-modules.php:8242 main-modules.php:8820 main-modules.php:9279
+#: main-modules.php:9927 main-modules.php:10479 main-modules.php:11075
+#: main-modules.php:11306 main-modules.php:11527 main-modules.php:11938
+#: main-modules.php:12294 main-modules.php:13373 main-modules.php:13657
+#: main-modules.php:13984 main-modules.php:14548 main-modules.php:15514
+#: main-modules.php:15929 main-modules.php:16213 main-modules.php:16531
+#: main-modules.php:17283 main-modules.php:17796 main-modules.php:18226
+#: main-modules.php:18557 main-modules.php:19256 main-modules.php:19780
+#: main-modules.php:20434 main-modules.php:20861 main-modules.php:21265
+#: main-modules.php:21416 main-modules.php:21534 main-modules.php:21811
+#: main-modules.php:22332 main-modules.php:23311
+#: main-structure-elements.php:858 main-structure-elements.php:2371
+#: main-structure-elements.php:3445
+msgid "CSS ID"
+msgstr "CSS-ID"
+
+#: class-et-builder-element.php:7334 main-modules.php:352 main-modules.php:853
+#: main-modules.php:1197 main-modules.php:1479 main-modules.php:1974
+#: main-modules.php:2471 main-modules.php:2743 main-modules.php:3356
+#: main-modules.php:5040 main-modules.php:5848 main-modules.php:6358
+#: main-modules.php:7147 main-modules.php:7421 main-modules.php:7700
+#: main-modules.php:8250 main-modules.php:8828 main-modules.php:9287
+#: main-modules.php:9935 main-modules.php:10487 main-modules.php:11083
+#: main-modules.php:11314 main-modules.php:11535 main-modules.php:11946
+#: main-modules.php:12302 main-modules.php:13381 main-modules.php:13665
+#: main-modules.php:13992 main-modules.php:14556 main-modules.php:15522
+#: main-modules.php:15937 main-modules.php:16221 main-modules.php:16539
+#: main-modules.php:17291 main-modules.php:17804 main-modules.php:18234
+#: main-modules.php:18565 main-modules.php:19264 main-modules.php:19788
+#: main-modules.php:20442 main-modules.php:20869 main-modules.php:21273
+#: main-modules.php:21424 main-modules.php:21542 main-modules.php:21819
+#: main-modules.php:22340 main-modules.php:23319
+#: main-structure-elements.php:866 main-structure-elements.php:2379
+#: main-structure-elements.php:3453
+msgid "CSS Class"
+msgstr "CSS-class"
+
+#: class-et-builder-settings.php:54
+msgid "Enable Split Testing"
+msgstr "Aktiver split-testing"
+
+#: class-et-builder-settings.php:69
+msgid "Bounce Rate Limit"
+msgstr "Bounce-rategrense"
+
+#: class-et-builder-settings.php:89
+msgid "Stats refresh interval"
+msgstr "Intervall for oppdatering av statistikk"
+
+#: class-et-builder-settings.php:93
+msgid "Hourly"
+msgstr "Hver time"
+
+#: class-et-builder-settings.php:94
+msgid "Daily"
+msgstr "Daglig"
+
+#: class-et-builder-settings.php:110
+msgid "Shortcode Tracking"
+msgstr "Shortcode-sporing"
+
+#: class-et-builder-settings.php:125
+msgid "Shortcode for Tracking:"
+msgstr "Shortcode for sporing:"
+
+#: class-et-builder-settings.php:153
+msgid "Output Styles Inline"
+msgstr "Mat ut innebygde stiler"
+
+#: class-et-builder-settings.php:154
+msgid ""
+"With previous versions of the builder, css styles for the modules' design "
+"settings were output inline in the footer. Enable this option to restore "
+"that behavior."
+msgstr ""
+"Med tidligere versjoner av byggeren ble CSS-stiler for modulenes "
+"utformingsinnstillinger matet ut innebygd i bunnseksjonen. Aktiver dette "
+"alternativet for å gjenopprette den atferden."
+
+#: class-et-builder-settings.php:168 class-et-builder-settings.php:763
+msgid "Product Tour"
+msgstr "Produktomvisning"
+
+#: class-et-builder-settings.php:169
+msgid ""
+"If enabled Product Tour will be started automatically when Visual Builder "
+"launched for the first time"
+msgstr ""
+"Dersom aktivert, vil produktomvisningen startes automatisk når Visual "
+"Builder startes for første gang"
+
+#: class-et-builder-settings.php:263
+msgid "Color Picker Color Pallete"
+msgstr "Fargepalett for fargevelger"
+
+#: class-et-builder-settings.php:272 main-structure-elements.php:412
+#: main-structure-elements.php:1751 main-structure-elements.php:3189
+msgid "Gutter Width"
+msgstr "Kolonnemellomrom"
+
+#: class-et-builder-settings.php:287
+msgid "Light Text Color"
+msgstr "Lys tekstfarge"
+
+#: class-et-builder-settings.php:295
+msgid "Dark Text Color"
+msgstr "Mørk tekstfarge"
+
+#: class-et-builder-settings.php:303
+msgid "Content Area Background Color"
+msgstr "Bakgrunnsfarge for innholdsområde"
+
+#: class-et-builder-settings.php:311
+msgid "Section Background Color"
+msgstr "Bakgrunnsfarge for seksjon"
+
+#: class-et-builder-settings.php:424
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for this page "
+"will be cached and served as a static file. Enabling this option can help "
+"improve performance."
+msgstr ""
+"Når dette alternativet er aktivert, blir byggerens innebygde CSS-stiler for "
+"denne siden hurtiglagret og levert som en statisk fil. Aktivering av dette "
+"alternativet kan bidra til å forbedre ytelsen."
+
+#: class-et-builder-settings.php:425
+msgid ""
+"When this option is enabled, the builder's inline CSS styles for all pages "
+"will be cached and served as static files. Enabling this option can help "
+"improve performance."
+msgstr ""
+"Når dette alternativet er aktivert, blir byggerens innebygde CSS-stiler for "
+"denne siden hurtiglagret og levert som statiske filer. Aktivering av dette "
+"alternativet kan bidra til å forbedre ytelsen."
+
+#: class-et-builder-settings.php:432
+msgid "Static CSS File Generation"
+msgstr "Generering av statiske CSS-filer"
+
+#: class-et-builder-settings.php:612
+msgid "Main"
+msgstr "Hoved"
+
+#: class-et-builder-settings.php:760
+msgid "Color Palette"
+msgstr "Fargepalett"
+
+#: class-et-builder-settings.php:762
+msgid "Performance"
+msgstr "Ytelse"
+
+#: class-et-builder-settings.php:765 functions.php:2647 functions.php:5544
+msgid "Split Testing"
+msgstr "Split-testing"
+
+#: comments_template.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dette innlegget er passordbeskyttet. Skriv inn passordet for å se "
+"kommentarer."
+
+#: comments_template.php:12
+msgid "0 Comments"
+msgstr "0 kommentarer"
+
+#: comments_template.php:12 functions.php:576 functions.php:2702
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: comments_template.php:12 main-modules.php:17977
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: comments_template.php:16 comments_template.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr,</span> Eldre kommentarer"
+
+#: comments_template.php:17 comments_template.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere kommentarer <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments_template.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackback/Tilbaketråkk"
+
+#: comments_template.php:54 main-modules.php:18283
+msgid "Submit Comment"
+msgstr "Legg til kommentar"
+
+#: comments_template.php:54
+msgid "Submit a Comment"
+msgstr "Send inn en kommentar"
+
+#: comments_template.php:54
+msgid "Leave a Reply to %s"
+msgstr "Etterlat et svar til %s"
+
+#: core.php:37
+msgid "Add New Layout"
+msgstr "Legg til ny layout"
+
+#: core.php:38 functions.php:5640
+msgid "Edit Layout"
+msgstr "Layout"
+
+#: core.php:39
+msgid "New Layout"
+msgstr "Ny layout"
+
+#: core.php:40 functions.php:106
+msgid "All Layouts"
+msgstr "Alle layouter"
+
+#: core.php:41
+msgid "View Layout"
+msgstr "Se layout"
+
+#: core.php:42
+msgid "Search Layouts"
+msgstr "Søk etter layout"
+
+#: core.php:43 core.php:1883
+msgid "Nothing found"
+msgstr "Ikke funnet"
+
+#: core.php:44 core.php:1884
+msgid "Nothing found in Trash"
+msgstr "Intet funnet i søppel"
+
+#: core.php:79
+msgid "Scope"
+msgstr "Definisjonsområde"
+
+#: core.php:92
+msgid "Layout Type"
+msgstr "Layout-type"
+
+#: core.php:105
+msgid "Module Width"
+msgstr "Modulbredde"
+
+#: core.php:118
+msgid "Category"
+msgstr "Kategori"
+
+#: core.php:211
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> widget-område ble opprettet. Du kan lage flere med en "
+"gang; oppdatér siden når du er ferdig for å se alle."
+
+#: core.php:345
+msgid "Administrator"
+msgstr "Administrator"
+
+#: core.php:346
+msgid "Editor"
+msgstr "Redaktør"
+
+#: core.php:347
+msgid "Author"
+msgstr "Forfatter"
+
+#: core.php:348
+msgid "Contributor"
+msgstr "Bidragsyter"
+
+#: core.php:397
+msgid "Replace the existing content with loaded layout"
+msgstr "Erstatt eksisterende innhold med den lastede layouten"
+
+#: core.php:451
+msgid "Load"
+msgstr "Last"
+
+#: core.php:454 functions.php:1948 functions.php:3912
+msgid "Delete"
+msgstr "Slett"
+
+#: core.php:486 core.php:3594 functions.php:6328
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Det er ikke lagret noe i Divi-biblioteket ennå. Lagrede layouter vil listes "
+"her, for rask og lettvint tilgang."
+
+#: core.php:1234 core.php:1387
+msgid "Error while saving."
+msgstr "Feil ved lagring."
+
+#: core.php:1241
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "Beklager, du har ikke lov til å redigere dette elementet."
+
+#: core.php:1373 core.php:1406
+msgid "Not saved, editor out of focus"
+msgstr "Ikke lagret – redigeringsverktøyet er ikke i fokus"
+
+#: core.php:1381 core.php:1423
+msgid "Builder settings synced"
+msgstr "Byggerinnstillinger synkronisert"
+
+#. translators: draft saved date format, see https:secure.php.net/date
+#: core.php:1390
+msgid "g:i:s a"
+msgstr ""
+
+#. translators: %s: date and time
+#: core.php:1392
+msgid "Draft saved at %s."
+msgstr "Utkast lagret som %s."
+
+#: core.php:1567 core.php:1640
+msgid "Error: "
+msgstr "Feil: "
+
+#: core.php:1775
+msgid "Please enter first name"
+msgstr "Vennligst fyll inn fornavn"
+
+#: core.php:1779
+msgid "Incorrect email"
+msgstr "Ugyldig e-post"
+
+#: core.php:1783
+msgid "Configuration error: List is not defined"
+msgstr "Konfigureringsfeil: Listen er ikke definert"
+
+#: core.php:1795
+msgid "Subscribed - look for the confirmation email!"
+msgstr "Abonnert – se etter bekreftelsesmailen!"
+
+#: core.php:1799
+msgid "Subscription Error: "
+msgstr "Abonnementsfeil: "
+
+#: core.php:1874
+msgid "Projects"
+msgstr "Prosjekter"
+
+#: core.php:1875
+msgid "Project"
+msgstr "Prosjekt"
+
+#: core.php:1876
+msgid "Add New"
+msgstr "Legg til ny"
+
+#: core.php:1877
+msgid "Add New Project"
+msgstr "Legg til nytt prosjekt"
+
+#: core.php:1878
+msgid "Edit Project"
+msgstr "Rediger prosjekt"
+
+#: core.php:1879
+msgid "New Project"
+msgstr "Nytt prosjekt"
+
+#: core.php:1880
+msgid "All Projects"
+msgstr "Alle prosjekter"
+
+#: core.php:1881
+msgid "View Project"
+msgstr "Se prosjekt"
+
+#: core.php:1882
+msgid "Search Projects"
+msgstr "Søk prosjekter"
+
+#: core.php:1911
+msgid "Project Categories"
+msgstr "Prosjektkategorier"
+
+#: core.php:1912
+msgid "Project Category"
+msgstr "Prosjektkategori"
+
+#: core.php:1913
+msgid "Search Categories"
+msgstr "Søk i kategorier"
+
+#: core.php:1914 frontend-builder/helpers.php:854 functions.php:97
+#: functions.php:2352
+msgid "All Categories"
+msgstr "Alle kategorier"
+
+#: core.php:1915
+msgid "Parent Category"
+msgstr "Overordnet kategori"
+
+#: core.php:1916
+msgid "Parent Category:"
+msgstr "Overordnet kategori:"
+
+#: core.php:1917
+msgid "Edit Category"
+msgstr "Redigér kategori"
+
+#: core.php:1918
+msgid "Update Category"
+msgstr "Oppdatér kategori"
+
+#: core.php:1919
+msgid "Add New Category"
+msgstr "Legg til ny kategori"
+
+#: core.php:1920
+msgid "New Category Name"
+msgstr "Navn på ny kategori"
+
+#: core.php:1921 main-modules.php:18396
+msgid "Categories"
+msgstr "Kategorier"
+
+#: core.php:1933
+msgid "Project Tags"
+msgstr "Prosjektstikkord"
+
+#: core.php:1934
+msgid "Project Tag"
+msgstr "Prosjektstikkord"
+
+#: core.php:1935
+msgid "Search Tags"
+msgstr "Søk stikkord"
+
+#: core.php:1936
+msgid "All Tags"
+msgstr "Alle stikkord"
+
+#: core.php:1937
+msgid "Parent Tag"
+msgstr "Overordnet stikkord"
+
+#: core.php:1938
+msgid "Parent Tag:"
+msgstr "Overordnet stikkord:"
+
+#: core.php:1939
+msgid "Edit Tag"
+msgstr "Redigér stikkord"
+
+#: core.php:1940
+msgid "Update Tag"
+msgstr "Oppdatér stikkord"
+
+#: core.php:1941
+msgid "Add New Tag"
+msgstr "Legg til nytt stikkord"
+
+#: core.php:1942
+msgid "New Tag Name"
+msgstr "Navn på nytt stikkord"
+
+#: core.php:1943
+msgid "Tags"
+msgstr "Stikkord"
+
+#: core.php:2034
+msgid ""
+"You are using the %1$s plugin. We recommend clearing the plugin cache after "
+"updating your theme."
+msgstr ""
+"Du bruker %1$s utvidelsen. Vi anbefaler å tømme bufferen etter å ha "
+"oppdatert temaet ditt."
+
+#: core.php:2043
+msgid "Clear Plugin Cache"
+msgstr "Tøm bufferen til utvidelsen."
+
+#: core.php:2047
+msgid ""
+"Builder files may also be cached in your browser. Please clear your browser "
+"cache."
+msgstr ""
+"Builder-filer kan også bli bufret i nettleseren din. Vennligst tøm "
+"nettleserens buffer."
+
+#: core.php:2051
+msgid "Clear Browser Cache"
+msgstr "Tøm nettleserens buffer"
+
+#: core.php:2075
+msgid "Builder Cache Warning"
+msgstr "Builder-buffer advarsel"
+
+#: core.php:2076
+msgid ""
+"The Divi Builder has been updated, however your browser is loading an old "
+"cached version of the builder. Loading old files can cause the builder to "
+"malfunction."
+msgstr ""
+"Divi Builderen har blitt oppdatert, men nettleseren din laster en gammel "
+"bufret versjon av byggeren. Lasting av gamle filer kan føre til at ting ikke "
+"fungerer som det skal."
+
+#: core.php:2077 core.php:2131
+msgid "Reload The Builder"
+msgstr "Oppdater Byggeren"
+
+#: core.php:2080
+msgid ""
+"If you have cleared your plugin cache and browser cache, but still get this "
+"warning, then your files may be cached at the DNS or Server level. Contact "
+"your host or CDN for assistance."
+msgstr ""
+"Dersom du har tømt bufrene til utvidelsen og nettleseren, men fremdeles får "
+"denne advarselen, kan filene dine være bufret på DNS- eller servernivå. "
+"Kontakt din host eller CDN for assistanse."
+
+#: core.php:2129
+msgid "Divi Builder Timeout"
+msgstr "Divi Builder Timeout"
+
+#: core.php:2132
+msgid ""
+"Oops, it looks like the Divi Builder failed to load. Performing the "
+"following actions may help solve the problem."
+msgstr ""
+"Oi sann, det ser ut til at innlasting av Divi Bygger mislyktes. "
+"Gjennomføring av følgende handlinger kan bidra til å løse problemet."
+
+#: core.php:2161
+msgid "You Have Unsaved Changes"
+msgstr "Du har ulagrede endringer"
+
+#: core.php:2162
+msgid ""
+"Your page contains changes that have not been saved. If you close the "
+"builder without saving, these changes will be lost. If you would like to "
+"leave the builder and save all changes, please select <strong>Save & Exit</"
+"strong>. If you would like to discard all recent changes, choose "
+"<strong>Discard & Exit</strong>."
+msgstr ""
+"Siden din inneholder endringer som ikke har blitt lagret. Dersom du lukker "
+"byggeren uten å lagre, vil disse endringene gå tapt. Dersom du ønsker å "
+"forlate byggeren og lagre alle endringer, vennligst velg <strong>Lagre & "
+"avslutt</strong>. Dersom du ønsker å forkaste alle nylige endringer, velg "
+"<strong>Forkast & avslutt</strong>."
+
+#: core.php:2163
+msgid "Discard & Exit"
+msgstr "Forkast & avslutt"
+
+#: core.php:2164 functions.php:3687
+msgid "Save & Exit"
+msgstr "Lagre og avslutt"
+
+#: core.php:2191
+msgid "A Browser Backup Exists"
+msgstr "Det finnes en sikkerhetskopi i nettleseren"
+
+#: core.php:2192
+msgid ""
+"A browser backup exists for this post that is newer than  the version you "
+"are currently viewing. This backup was captured during your previous editing "
+"session, but you never saved it. Would you like to restore this backup and "
+"continue editing where you left off?"
+msgstr ""
+"Det finnes en sikkerhetskopi av dette innlegget i nettleseren som er nyere "
+"enn versjonen du ser på for øyeblikket. Denne sikkerhetskopien ble opprettet "
+"i løpet av din forrige redigeringsøkt, men du lagret den aldri. Vil du "
+"gjenopprette denne sikkerhetskopien og fortsette å redigere der du slapp?"
+
+#: core.php:2193 core.php:2222
+msgid "Don't Restore"
+msgstr "Ikke gjenopprett"
+
+#: core.php:2194 core.php:2223
+msgid "Restore"
+msgstr "Gjenopprett"
+
+#: core.php:2220
+msgid "An Autosave Exists"
+msgstr "Det finnes en autolagret versjon"
+
+#: core.php:2221
+msgid ""
+"A recent autosave exists for this post that is newer than the version you "
+"are currently viewing. This autosave was captured during your previous "
+"editing session, but you never saved it. Would you like to restore this "
+"autosave and continue editing where you left off?"
+msgstr ""
+"Det finnes en autolagret versjon av dette innlegget som er nyere enn "
+"versjonen du ser på for øyeblikket. Denne versjonen ble opprettet i løpet av "
+"din forrige redigeringsøkt, men du lagret den aldri. Vil du gjenopprette "
+"denne autolagrede versjonen og fortsette å redigere der du slapp?"
+
+#: core.php:2251
+msgid "Your Save Has Failed"
+msgstr "Lagring mislyktes"
+
+#: core.php:2252
+msgid ""
+"An error has occurred while saving your page. Various problems can cause a "
+"save to fail, such as a lack of server resources, firewall blockages, plugin "
+"conflicts or server misconfiguration. You can try saving again by clicking "
+"Try Again, or you can download a backup of your unsaved page by clicking "
+"Download Backup. Backups can be restored using the portability system while "
+"next editing your page."
+msgstr ""
+"En feil oppstod under lagring av siden din. Diverse problemer kan forårsake "
+"at lagring mislykkes, som f.eks. mangel på serverressurser, "
+"brannmurblokkeringer, innstikkskonflikter eller feilkonfigurering av "
+"serveren. Du kan prøve å lagre igjen ved å klikke Prøv igjen, eller du kan "
+"laste ned en sikkerhetskopi av den ulagrede siden din ved å klikke Last ned "
+"sikkerhetskopi. Sikkerhetskopier kan gjenopprettes ved bruk av "
+"mobilitetssystemet neste gang du redigerer siden din."
+
+#: core.php:2253
+msgid ""
+"Contacting your host and asking them to increase the following PHP variables "
+"may help: memory_limit, max_execution_time, upload_max_filesize, "
+"post_max_size, max_input_time, max_input_vars. In addition, auditing your "
+"firewall error log (such as ModSecurity) may reveal false positives that are "
+"preventing saves from completing."
+msgstr ""
+"Det kan hjelpe å ta kontakt med serverleverandøren din og be dem øke de "
+"følgende PHP-variablene: memory_limit, max_execution_time, "
+"upload_max_filesize, post_max_size, max_input_time, max_input_vars. I "
+"tillegg kan revisjon av feilloggen til brannmuren din (f.eks. ModSecurity) "
+"avsløre falske alarmer som forhindrer lagring."
+
+#: core.php:2254
+msgid ""
+"Lastly, it is recommended that you temporarily disable all WordPress plugins "
+"and browser extensions and try to save again to determine if something is "
+"causing a conflict."
+msgstr ""
+"Til slutt anbefales det at du midlertidig deaktiverer alle WordPress-"
+"innstikk og nettleserutvidelser, og så prøver å lagre igjen for å avgjøre om "
+"det er noe som forårsaker en konflikt."
+
+#: core.php:2255
+msgid "Try Again"
+msgstr "Prøv igjen"
+
+#: core.php:2256
+msgid "Download Backup"
+msgstr "Last ned sikkerhetskopi"
+
+#: core.php:2275
+msgid "You have WP_DEBUG enabled. Please disable this setting in wp-config.php"
+msgstr ""
+"Du har aktivert WP_DEBUG. Vennligst deaktiver denne innstillingen i wp-"
+"config.php"
+
+#: core.php:2276
+msgid "Disable Debug Mode"
+msgstr "Deaktiver Debug-modus"
+
+#: core.php:2308
+msgid ""
+"You are using third party plugins. Try disabling each plugin to see if one "
+"is causing a conflict."
+msgstr ""
+"Du bruker utvidelser fra tredjeparter. Prøv å deaktivere hver utvidelse for "
+"å se om en av de fører til problemer."
+
+#: core.php:2309
+msgid "Manage Your Plugins"
+msgstr "Administrer utvidelsene dine"
+
+#: core.php:2323
+msgid "You are using an outdated version of WordPress. Please upgrade."
+msgstr "Du bruker en utdatert versjon av WordPress. Vennligst oppgrader."
+
+#: core.php:2324
+msgid "Upgrade WordPress"
+msgstr "Oppgrader WordPress"
+
+#: core.php:2342
+msgid ""
+"Please increase your PHP Memory Limit to 128M. You can return the value to "
+"default via the Divi Theme Options in the future"
+msgstr ""
+"Vennligst hev din PHP minnegrense til 128M. Du kan sette verdien tilbake til "
+"standard via Divi Temaalternativer senere"
+
+#: core.php:2343
+msgid "Increase Your Memory Limit Now"
+msgstr "Hev din minnegrense nå"
+
+#: core.php:2366
+msgid ""
+"You are using an outdated version of the theme. The latest version is %1$s"
+msgstr "Du bruker en utdatert versjon av temaet. Den nyeste versjonen er %1$s"
+
+#: core.php:2369
+msgid "Upgrade"
+msgstr "Oppgrader"
+
+#: core.php:2467
+msgid "Disable Memory Limit Increase"
+msgstr "Deaktiver heving av minnegrense"
+
+#: core.php:2784
+msgid "Divi Role Editor Settings"
+msgstr "Divi Role innstillinger for redigering"
+
+#: core.php:2792 frontend-builder/assets.php:67
+msgid "Divi Builder Layout"
+msgstr "Divi Builder Layout"
+
+#: core.php:2799
+msgid "Divi Builder Layouts"
+msgstr "Divi Builder Layouter"
+
+#: core.php:3716
+msgid "This is not a valid excuse to not escape the passed value."
+msgstr ""
+"Dette er ikke en gyldig unnskyldning for å ikke bruke skiftesekvenser i den "
+"sendte verdien."
+
+#: core.php:3746
+msgid "This is not a valid excuse to not sanitize the passed value."
+msgstr ""
+"Dette er ikke en gyldig unnskyldning for å ikke rense den sendte verdien."
+
+#: framework.php:98
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr "Kontrollér at feltene nedenfor er riktig fylt ut."
+
+#: framework.php:100
+msgid "Please, fill in the following fields:"
+msgstr "Fyll ut følgende felt:"
+
+#: framework.php:101
+msgid "Please, fix the following errors:"
+msgstr "Vennligst, fikse følgende feil:"
+
+#: framework.php:102
+msgid "Invalid email"
+msgstr "Ugyldig e-postadresse"
+
+#: framework.php:103
+msgid "Captcha"
+msgstr "Captcha"
+
+#: framework.php:104
+msgid "Prev"
+msgstr "Forrige"
+
+#: framework.php:105
+msgid "Previous"
+msgstr "Forrige"
+
+#: framework.php:106
+msgid "Next"
+msgstr "Neste"
+
+#: framework.php:107
+msgid "You entered the wrong number in captcha."
+msgstr "Du skrev inn feil tegn i captcha."
+
+#: framework.php:153
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr "Uautorisert tilgang. Forhåndsvisning kan ikke nås utenfor %1$s."
+
+#: frontend-builder/assets.php:97 frontend-builder/helpers.php:750
+msgid "Clear"
+msgstr "Tøm"
+
+#: frontend-builder/assets.php:99
+msgid "Select Color"
+msgstr "Velg Farge"
+
+#: frontend-builder/assets.php:100
+msgid "Current Color"
+msgstr "Gjeldende Farge"
+
+#: frontend-builder/assets.php:155 functions.php:2380
+msgid "Your memory limit has been increased"
+msgstr "Din minnegrense har blitt hevet"
+
+#: frontend-builder/assets.php:156 functions.php:2381
+msgid "Your memory limit can't be changed automatically"
+msgstr "Din minnegrense kan ikke endres automatisk"
+
+#: frontend-builder/helpers.php:179
+msgid "Backup of %s"
+msgstr "Sikkerhetskopi av %s"
+
+#: frontend-builder/helpers.php:229
+msgid "Column %s Background Image"
+msgstr "Kolonne %s Bakgrunnsbilde"
+
+#: frontend-builder/helpers.php:235 main-modules.php:3707
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Dette bildet vil bli brukt som bakgrunn for modulen. Slett URL-en fra "
+"inndatafeltet for å fjerne bildet."
+
+#: frontend-builder/helpers.php:241
+msgid "Column %s Background Color"
+msgstr "Kolonne %s Bakgrunnsfarge"
+
+#: frontend-builder/helpers.php:249
+msgid "Column %s Parallax Effect"
+msgstr "Kolonne %s  Parallakseeffekt"
+
+#: frontend-builder/helpers.php:264 main-modules.php:17120
+#: main-modules.php:22169
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr "Velg om det skal brukes parallakseeffekt på fremhevet bilde."
+
+#: frontend-builder/helpers.php:270
+msgid "Column %s Parallax Method"
+msgstr "Kolonne %s Parallaksemetode"
+
+#: frontend-builder/helpers.php:281 main-modules.php:17133
+#: main-modules.php:22182
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr "Velg hvilken parallaksemetode som skal brukes på fremhevet bilde."
+
+#: frontend-builder/helpers.php:287
+msgid "Column %s Background Image Size"
+msgstr "Kolonne %s: bakgrunnsbildets størrelse"
+
+#: frontend-builder/helpers.php:303
+msgid "Column %s Background Image Position"
+msgstr "Kolonne %s: bakgrunnsbildets plassering"
+
+#: frontend-builder/helpers.php:325
+msgid "Column %s Background Image Repeat"
+msgstr "Kolonne %s: gjenta bakgrunnsbilde"
+
+#: frontend-builder/helpers.php:344
+msgid "Column %s Background Image Blend"
+msgstr "Kolonne %s: bakgrunnsbildets blanding"
+
+#: frontend-builder/helpers.php:373
+msgid "Column %s Use Background Color Gradient"
+msgstr "Kolonne %s: bruk bakgrunnsfargeovergang"
+
+#: frontend-builder/helpers.php:394
+msgid "Column %s Gradient Start"
+msgstr "Kolonne %s: fargeovergangsstart"
+
+#: frontend-builder/helpers.php:408
+msgid "Column %s Gradient End"
+msgstr "Kolonne %s: fargeovergangsslutt"
+
+#: frontend-builder/helpers.php:422
+msgid "Column %s Gradient Type"
+msgstr "Kolonne %s: fargeovergangstype"
+
+#: frontend-builder/helpers.php:444
+msgid "Column %s Gradient Direction"
+msgstr "Kolonne %s: fargeovergangsretning"
+
+#: frontend-builder/helpers.php:465
+msgid "Column %s Radial Direction"
+msgstr "Kolonne %s: radiell retning"
+
+#: frontend-builder/helpers.php:490
+msgid "Column %s Start Position"
+msgstr "Kolonne %s: startposisjon"
+
+#: frontend-builder/helpers.php:511
+msgid "Column %s End Position"
+msgstr "Kolonne %s: sluttposisjon"
+
+#: frontend-builder/helpers.php:532
+msgid "Column %s Background Video MP4"
+msgstr "Kolonne %s: bakgrunnsvideo, MP4"
+
+#: frontend-builder/helpers.php:544
+msgid "Column %s Background Video Webm"
+msgstr "Kolonne %s: bakgrunnsvideo, Webm"
+
+#: frontend-builder/helpers.php:556
+msgid "Column %s Background Video Width"
+msgstr "Kolonne %s: bakgrunnsvideoens bredde"
+
+#: frontend-builder/helpers.php:563
+msgid "Column %s Background Video Height"
+msgstr "Kolonne %s: bakgrunnsvideoens høyde"
+
+#: frontend-builder/helpers.php:571
+msgid "Column %s Pause Video"
+msgstr "Kolonne %s: sett video på pause"
+
+#: frontend-builder/helpers.php:596
+msgid "Column %s Custom Padding"
+msgstr "Kolonne %s Tilpasset Utfylling"
+
+#: frontend-builder/helpers.php:600 main-structure-elements.php:277
+#: main-structure-elements.php:1771 main-structure-elements.php:3152
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Skriv inn spesifikke verdier for luft (padding), eller la det være tomt for "
+"å bruke standardvalg."
+
+#: frontend-builder/helpers.php:608
+msgid "Column %s CSS ID"
+msgstr "Kolonne %sCSS ID"
+
+#: frontend-builder/helpers.php:617
+msgid "Column %s CSS Class"
+msgstr "Kolonne %s CSS Klasse"
+
+#: frontend-builder/helpers.php:626
+msgid "Column %s before"
+msgstr "Kolonne %s før"
+
+#: frontend-builder/helpers.php:634
+msgid "Column %s Main Element"
+msgstr "Kolonne %s Hovedelement"
+
+#: frontend-builder/helpers.php:640
+msgid "Column %s After"
+msgstr "Kolonne %sEtter"
+
+#: frontend-builder/helpers.php:672
+msgid "Column %s Background"
+msgstr "Kolonne %s: bakgrunn"
+
+#: frontend-builder/helpers.php:675 main-modules.php:12387
+msgid "Thanks for contacting us"
+msgstr "Takk for at du kontaktet oss"
+
+#: frontend-builder/helpers.php:676 frontend-builder/helpers.php:727
+#: main-modules.php:7994 main-modules.php:12536
+msgid "Submit"
+msgstr "Send"
+
+#: frontend-builder/helpers.php:679 main-modules.php:13165
+msgid "No options added."
+msgstr "Ingen alternativer lagt til."
+
+#: frontend-builder/helpers.php:680
+msgid "-- Please Select --"
+msgstr "-- Vennligst velg --"
+
+#: frontend-builder/helpers.php:683 main-modules.php:16017
+msgid "Day(s)"
+msgstr "Dag(er)"
+
+#: frontend-builder/helpers.php:684 main-modules.php:16024
+msgid "Day"
+msgstr "Dag(er)"
+
+#: frontend-builder/helpers.php:685 main-modules.php:16018
+msgid "Hour(s)"
+msgstr "Time(r)"
+
+#: frontend-builder/helpers.php:686 main-modules.php:16019
+msgid "Hrs"
+msgstr "T"
+
+#: frontend-builder/helpers.php:687 main-modules.php:16020
+msgid "Minute(s)"
+msgstr "Minutt(er)"
+
+#: frontend-builder/helpers.php:688 main-modules.php:16021
+msgid "Min"
+msgstr "Min"
+
+#: frontend-builder/helpers.php:689 main-modules.php:16022
+msgid "Second(s)"
+msgstr "Sekund(er)"
+
+#: frontend-builder/helpers.php:690 main-modules.php:16023
+msgid "Sec"
+msgstr "Sek"
+
+#: frontend-builder/helpers.php:693 functions.php:6382 main-modules.php:8418
+#: main-modules.php:12317
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#: frontend-builder/helpers.php:694 main-modules.php:8416
+msgid "First Name"
+msgstr "Fornavn"
+
+#: frontend-builder/helpers.php:695 main-modules.php:8417
+msgid "Last Name"
+msgstr "Etternavn"
+
+#: frontend-builder/helpers.php:696 functions.php:6381 main-modules.php:8493
+#: main-modules.php:12316 main-modules.php:13863
+msgid "Name"
+msgstr "Navn"
+
+#: frontend-builder/helpers.php:697 main-modules.php:12097
+#: main-modules.php:12194
+msgid "Email"
+msgstr "E-post"
+
+#: frontend-builder/helpers.php:700 main-modules.php:10211
+#: main-modules.php:12785 main-modules.php:12839
+msgid "All"
+msgstr "Alle"
+
+#: frontend-builder/helpers.php:703
+msgid "Login as %s"
+msgstr "Logg inn som %s"
+
+#: frontend-builder/helpers.php:704 main-modules.php:8569 main-modules.php:8999
+msgid "Login"
+msgstr "Innlogging"
+
+#: frontend-builder/helpers.php:705 main-modules.php:8959
+msgid "Log out"
+msgstr "Logg ut"
+
+#: frontend-builder/helpers.php:706 main-modules.php:8992
+msgid "Forgot your password?"
+msgstr "Glemt passordet?"
+
+#: frontend-builder/helpers.php:707 main-modules.php:8971
+msgid "Username"
+msgstr "Brukernavn"
+
+#: frontend-builder/helpers.php:708 main-modules.php:8972
+msgid "Password"
+msgstr "Passord"
+
+#: frontend-builder/helpers.php:709
+msgid ""
+"Note: this field is used to disable browser autofill during the form editing "
+"in VB"
+msgstr ""
+"Merk: dette feltet brukes til å deaktivere nettleserens automatiske "
+"utfylling under skjemaredigeringen i VB"
+
+#: frontend-builder/helpers.php:712 frontend-builder/helpers.php:719
+msgid "by "
+msgstr "av "
+
+#: frontend-builder/helpers.php:715 frontend-builder/helpers.php:826
+#: main-modules.php:17540 main-modules.php:17967
+msgid "Search"
+msgstr "Søk"
+
+#: frontend-builder/helpers.php:716 main-modules.php:17966
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: frontend-builder/helpers.php:722 main-modules.php:16837
+msgid "Follow"
+msgstr "Følg"
+
+#: frontend-builder/helpers.php:725 frontend-builder/helpers.php:921
+#: functions.php:3239 functions.php:3933 functions.php:3988 functions.php:4134
+#: functions.php:4256 functions.php:6573
+msgid "Save"
+msgstr "Lagre"
+
+#: frontend-builder/helpers.php:726
+msgid "Save Draft"
+msgstr "Lagre Utkast"
+
+#: frontend-builder/helpers.php:727 frontend-builder/helpers.php:922
+#: functions.php:6573
+msgid "Publish"
+msgstr "Publiser"
+
+#: frontend-builder/helpers.php:730
+msgid "Visual"
+msgstr "Visuell"
+
+#: frontend-builder/helpers.php:740
+msgid "Add Media"
+msgstr "Legg til Media"
+
+#: frontend-builder/helpers.php:741
+msgid "Insert Media"
+msgstr "Sett inn Media"
+
+#: frontend-builder/helpers.php:751 functions.php:2385
+msgid "Select"
+msgstr "Velg"
+
+#: frontend-builder/helpers.php:754 functions.php:440
+msgid "Update Gallery"
+msgstr "Oppdatér galleri"
+
+#: frontend-builder/helpers.php:757 main-modules.php:16120
+#: main-modules.php:16326 main-modules.php:21196
+msgid "Find"
+msgstr "Finn"
+
+#: frontend-builder/helpers.php:758 functions.php:2345
+msgid "Geocode was not successful for the following reason"
+msgstr "Geokoding var ikke vellykket, pga. følgende årsak"
+
+#: frontend-builder/helpers.php:759 functions.php:2346
+msgid "Geocoder failed due to"
+msgstr "Geokoding feilet grunnet"
+
+#: frontend-builder/helpers.php:760 functions.php:2347
+msgid "No results found"
+msgstr "Ingen resultater funnet"
+
+#: frontend-builder/helpers.php:761 functions.php:2360
+msgid "Invalid Pin and address data. Please try again."
+msgstr "Ugyldig pin og adressedata. Vennligst prøv igjen."
+
+#: frontend-builder/helpers.php:769 main-modules.php:16105
+#: main-modules.php:21181
+msgid "Change API Key"
+msgstr "Endre API-nøkkel"
+
+#: frontend-builder/helpers.php:770 main-modules.php:1148 main-modules.php:1643
+msgid "Generate From Video"
+msgstr "Lag fra video"
+
+#: frontend-builder/helpers.php:787 frontend-builder/helpers.php:932
+#: functions.php:3214 functions.php:3300 functions.php:3301 functions.php:6795
+#: functions.php:7119
+msgid "Undo"
+msgstr "Angre"
+
+#: frontend-builder/helpers.php:788 frontend-builder/helpers.php:931
+#: functions.php:3215 functions.php:3292 functions.php:3293 functions.php:6803
+#: functions.php:7126
+msgid "Redo"
+msgstr "Gjenta"
+
+#: frontend-builder/helpers.php:789 functions.php:3131
+msgid "Lock"
+msgstr "Lås"
+
+#: frontend-builder/helpers.php:790 functions.php:3130
+msgid "Unlock"
+msgstr "Lås opp"
+
+#: frontend-builder/helpers.php:791 functions.php:3100
+msgid "Copy"
+msgstr "Kopiér"
+
+#: frontend-builder/helpers.php:792 functions.php:3112 functions.php:3118
+msgid "Paste"
+msgstr "Lim inn"
+
+#: frontend-builder/helpers.php:793
+msgid "Copy Style"
+msgstr "Kopier stil"
+
+#: frontend-builder/helpers.php:794
+msgid "Paste Style"
+msgstr "Lim inn stil"
+
+#: frontend-builder/helpers.php:795 functions.php:3140
+msgid "Disable"
+msgstr "Deaktivér"
+
+#: frontend-builder/helpers.php:796 functions.php:3139 main-modules.php:12819
+msgid "Enable"
+msgstr "Aktivér"
+
+#: frontend-builder/helpers.php:797 frontend-builder/helpers.php:853
+#: functions.php:3124 functions.php:3259 functions.php:3260
+msgid "Save to Library"
+msgstr "Lagre til bibliotek"
+
+#: frontend-builder/helpers.php:800 functions.php:2052 functions.php:2641
+#: functions.php:6461 functions.php:6582 main-structure-elements.php:1379
+#: main-structure-elements.php:2912
+msgid "Row"
+msgstr "Rad"
+
+#: frontend-builder/helpers.php:801 functions.php:2053 functions.php:2636
+#: functions.php:6459 functions.php:6580 main-structure-elements.php:5
+msgid "Section"
+msgstr "Seksjon"
+
+#: frontend-builder/helpers.php:803 functions.php:3158
+msgid "Disable Global"
+msgstr "Deaktiver global"
+
+#: frontend-builder/helpers.php:806 functions.php:3826
+msgid "Insert Module"
+msgstr "Sett inn modul"
+
+#: frontend-builder/helpers.php:807 functions.php:3782
+msgid "Insert Columns"
+msgstr "Sett inn kolonner"
+
+#: frontend-builder/helpers.php:808
+msgid "Insert Section"
+msgstr "Sett inn Seksjon"
+
+#: frontend-builder/helpers.php:809
+msgid "Insert Row"
+msgstr "Sett inn Rad"
+
+#: frontend-builder/helpers.php:810 functions.php:3827
+msgid "New Module"
+msgstr "Ny modul"
+
+#: frontend-builder/helpers.php:811 functions.php:3784
+msgid "New Row"
+msgstr "Ny rad"
+
+#: frontend-builder/helpers.php:812
+msgid "New Section"
+msgstr "Ny Seksjon"
+
+#: frontend-builder/helpers.php:813 functions.php:3445 functions.php:3754
+#: functions.php:3797 functions.php:3860 functions.php:5594
+msgid "Add From Library"
+msgstr "Legg til fra bibliotek"
+
+#: frontend-builder/helpers.php:814
+msgid "Add to Library"
+msgstr "Legg til i Arkiv"
+
+#: frontend-builder/helpers.php:815
+msgid "loading..."
+msgstr "Laster…"
+
+#: frontend-builder/helpers.php:816 functions.php:6498
+msgid "Regular"
+msgstr "Vanlig"
+
+#: frontend-builder/helpers.php:817 functions.php:6500 main-modules.php:9150
+#: main-modules.php:9780 main-modules.php:14262
+msgid "Fullwidth"
+msgstr "Fullbredde"
+
+#: frontend-builder/helpers.php:818 functions.php:6499
+msgid "Specialty"
+msgstr "Spesialitet"
+
+#: frontend-builder/helpers.php:819
+msgid "Choose Layout"
+msgstr "Velg Layout"
+
+#: frontend-builder/helpers.php:820 frontend-builder/helpers.php:912
+#: functions.php:3275 functions.php:3276 functions.php:3957
+msgid "Clear Layout"
+msgstr "Fjern layout"
+
+#: frontend-builder/helpers.php:821
+msgid "All of your current page content will be lost. Do you wish to proceed?"
+msgstr "Alt på gjeldende sideinnhold vil gå  tapt. Ønsker du å fortsette?"
+
+#: frontend-builder/helpers.php:823 frontend-builder/helpers.php:910
+#: functions.php:3267 functions.php:3268
+msgid "Load From Library"
+msgstr "Last fra bibliotek"
+
+#: frontend-builder/helpers.php:824 functions.php:3859
+msgid "Predefined Layouts"
+msgstr "Forhåndsdefinerte layouter"
+
+#: frontend-builder/helpers.php:825
+msgid "Replace existing content."
+msgstr "Erstatt eksisterende innhold."
+
+#: frontend-builder/helpers.php:827 frontend-builder/helpers.php:915
+#: functions.php:5662 functions.php:5666
+msgid "Portability"
+msgstr "Portabilitet"
+
+#: frontend-builder/helpers.php:828
+msgid "Export"
+msgstr "Eksport"
+
+#: frontend-builder/helpers.php:829
+msgid "Import"
+msgstr "Import"
+
+#: frontend-builder/helpers.php:830
+msgid ""
+"Exporting your Divi Builder Layout will create a JSON file that can be "
+"imported into a different website."
+msgstr ""
+"Eksportering av din Divi Builder-Layout vil opprette en JSON-fil som kan "
+"importeres inn på en annen nettside."
+
+#: frontend-builder/helpers.php:831
+msgid "Export File Name"
+msgstr "Eksporter filnavn"
+
+#: frontend-builder/helpers.php:832
+msgid "Export Divi Builder Layout"
+msgstr "Eksporter Divi Builder-Layout"
+
+#: frontend-builder/helpers.php:833
+msgid ""
+"Importing a previously-exported Divi Builder Layout file will overwrite all "
+"content currently on this page."
+msgstr ""
+"Å importere et tidligere eksportert Divi Builder-Layoutfil vil overskrive "
+"alt gjeldende innhold på denne siden."
+
+#: frontend-builder/helpers.php:834
+msgid "Select File To Import"
+msgstr "Velg fil å importere"
+
+#: frontend-builder/helpers.php:835
+msgid "Download backup before importing"
+msgstr "Last ned backup før import"
+
+#: frontend-builder/helpers.php:836
+msgid "Import Divi Builder Layout"
+msgstr "Importer Divi Builder-Layout"
+
+#: frontend-builder/helpers.php:837
+msgid "No File Selected"
+msgstr "Ingen fil valgt"
+
+#: frontend-builder/helpers.php:838
+msgid "Choose File"
+msgstr "Velg fil"
+
+#: frontend-builder/helpers.php:841
+msgid "Include General Settings"
+msgstr "Inkludér generelle innstillinger"
+
+#: frontend-builder/helpers.php:842
+msgid "Include Advanced Design Settings"
+msgstr "Inkludér avanserte designinnstillinger"
+
+#: frontend-builder/helpers.php:843 functions.php:4064
+msgid "Include Custom CSS"
+msgstr "Inkludér egendefinert CSS"
+
+#: frontend-builder/helpers.php:844 functions.php:2086
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr "Velg kategori(er) for ny mal eller angi et nytt navn (valgfritt)"
+
+#: frontend-builder/helpers.php:845 functions.php:2129 functions.php:4096
+msgid "Template Name"
+msgstr "Navn på mal"
+
+#: frontend-builder/helpers.php:846
+msgid "Please select at least 1 tab to save"
+msgstr "Vennligst velg minst 1 fane for å lagre"
+
+#: frontend-builder/helpers.php:847
+msgid "Save as Global"
+msgstr "Lagre som global"
+
+#: frontend-builder/helpers.php:848 functions.php:4098
+msgid "Make this a global item"
+msgstr "Gjør dette til et globalt objekt"
+
+#: frontend-builder/helpers.php:849 functions.php:4045
+msgid "Create New Category"
+msgstr "Opprett ny kategori"
+
+#: frontend-builder/helpers.php:850
+msgid "Add To Categories"
+msgstr "Legg til i kategorier"
+
+#: frontend-builder/helpers.php:851
+msgid "Here you can add the current item to your Divi Library for later use."
+msgstr ""
+"Her kan du legge til det gjeldende elementet til ditt Divi-Arkiv for senere "
+"bruk."
+
+#: frontend-builder/helpers.php:852 functions.php:4002
+msgid "Save your current page to the Divi Library for later use."
+msgstr "Lagre den nåværende siden til Divi-biblioteket for senere bruk."
+
+#: frontend-builder/helpers.php:858
+msgid "General"
+msgstr "Generell"
+
+#: frontend-builder/helpers.php:863
+msgid "%s Settings"
+msgstr "%s innstillinger"
+
+#: frontend-builder/helpers.php:870
+msgid "Search Options"
+msgstr "Søkealternativer"
+
+#: frontend-builder/helpers.php:874 frontend-builder/helpers.php:914
+msgid "Editing History"
+msgstr "Redigeringshistorie"
+
+#: frontend-builder/helpers.php:876
+msgid "History States"
+msgstr "Historietilstander"
+
+#: frontend-builder/helpers.php:883 functions.php:4561
+msgid "Divi Builder Helper"
+msgstr "Divi Byggerassistent"
+
+#: frontend-builder/helpers.php:885 functions.php:4562
+msgid "Shortcuts"
+msgstr "Snarveier"
+
+#: frontend-builder/helpers.php:891 functions.php:2414
+msgid ""
+"You do not have permission to edit the module, row or section in this split "
+"test."
+msgstr ""
+"Du har ikke tillatelse til å redigere modulen, raden eller seksjonen i denne "
+"split-testen."
+
+#: frontend-builder/helpers.php:892 functions.php:2498
+msgid ""
+"A split testing goal cannot be moved inside of a split testing subject. To "
+"perform this action you must first end your split test."
+msgstr ""
+"Et split-testingmål kan ikke flyttes inni et split-testingsubjekt. For å "
+"utføre denne handlingen må du først avslutte split-testen."
+
+#: frontend-builder/helpers.php:893 functions.php:2502
+msgid ""
+"A split testing subject cannot be moved inside of a split testing goal. To "
+"perform this action you must first end your split test."
+msgstr ""
+"Et split-testingsubjekt kan ikke flyttes inni et split-testingmål. For å "
+"utføre denne handlingen må du først avslutte din split-test."
+
+#: frontend-builder/helpers.php:894 frontend-builder/helpers.php:897
+#: functions.php:2490 functions.php:2494
+msgid ""
+"Once set, a goal that has been placed inside a split testing subject cannot "
+"be moved outside the split testing subject. You can end your split test and "
+"start a new one if you would like to make this change."
+msgstr ""
+"Et mål som har blitt plassert inni et split-testingsubjekt kan ikke, når det "
+"er satt, flyttes utenfor split-testingsubjektet. Du kan avslutte split-"
+"testen og starte en ny dersom du ønsker å utføre denne endringen."
+
+#: frontend-builder/helpers.php:895 functions.php:2339
+msgid "The section should have at least one row."
+msgstr "Seksjonen bør ha minst én rad."
+
+#: frontend-builder/helpers.php:896 functions.php:2351
+msgid "You cannot add global modules into global sections or rows"
+msgstr "Du kan ikke legge til globale moduler i globale seksjoner eller rader."
+
+#: frontend-builder/helpers.php:898 functions.php:2341
+msgid "3 column row can't be used in this column."
+msgstr "3-kolonnerad kan ikke brukes her."
+
+#: frontend-builder/helpers.php:903
+msgid "Wireframe View"
+msgstr "Trådnettsvisning"
+
+#: frontend-builder/helpers.php:904
+msgid "Zoom Out"
+msgstr "Zoome Ut"
+
+#: frontend-builder/helpers.php:905
+msgid "Desktop View"
+msgstr "Skrivebordvisning"
+
+#: frontend-builder/helpers.php:906
+msgid "Tablet View"
+msgstr "Nettbrettvisning"
+
+#: frontend-builder/helpers.php:907
+msgid "Phone View"
+msgstr "Mobilvisning"
+
+#: frontend-builder/helpers.php:911 functions.php:4001 functions.php:5590
+msgid "Save To Library"
+msgstr "Lagre til bibliotek"
+
+#: frontend-builder/helpers.php:913
+msgid "Page Settings"
+msgstr "Sideinnstillinger"
+
+#: frontend-builder/helpers.php:916
+msgid "Expand Settings"
+msgstr "Utvid Innstillinger"
+
+#: frontend-builder/helpers.php:917
+msgid "Collapse Settings"
+msgstr "Forkast Innstillinger"
+
+#: frontend-builder/helpers.php:920
+msgid "Save as Draft"
+msgstr "Lagre som Utkast"
+
+#: frontend-builder/helpers.php:926
+msgid "Expand Modal"
+msgstr "Utvid Modal"
+
+#: frontend-builder/helpers.php:927
+msgid "Contract Modal"
+msgstr "Forminsk Modal"
+
+#: frontend-builder/helpers.php:928
+msgid "Resize Modal"
+msgstr "Endre Størrelse på Modal"
+
+#: frontend-builder/helpers.php:929
+msgid "Snap to Left"
+msgstr "Flytt til Venstre"
+
+#: frontend-builder/helpers.php:930
+msgid "Separate Modal"
+msgstr "Del Modal"
+
+#: frontend-builder/helpers.php:933
+msgid "Discard All Changes"
+msgstr "Forkast Alle Endringer"
+
+#: frontend-builder/helpers.php:934 functions.php:7111
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: frontend-builder/helpers.php:937
+msgid "Go Back"
+msgstr "Gå tilbake"
+
+#: frontend-builder/helpers.php:938
+msgid "Decrease Font Size"
+msgstr "Senk skriftstørrelsen"
+
+#: frontend-builder/helpers.php:939
+msgid "Increase Font Size"
+msgstr "Øk skriftstørrelsen"
+
+#: frontend-builder/helpers.php:940
+msgid "Bold Text"
+msgstr "Uthevet tekst"
+
+#: frontend-builder/helpers.php:941
+msgid "Italic Text"
+msgstr "Kursiv tekst"
+
+#: frontend-builder/helpers.php:942
+msgid "Underline Text"
+msgstr "Understreket tekst"
+
+#: frontend-builder/helpers.php:943
+msgid "Insert Link"
+msgstr "Sett inn kobling"
+
+#: frontend-builder/helpers.php:944
+msgid "Insert Quote"
+msgstr "Sett inn sitat"
+
+#: frontend-builder/helpers.php:945
+msgid "Text Alignment"
+msgstr "Tekstjustering"
+
+#: frontend-builder/helpers.php:946
+msgid "Center Text"
+msgstr "Midtjustert tekst"
+
+#: frontend-builder/helpers.php:947
+msgid "Right Text"
+msgstr "Høyrejustert tekst"
+
+#: frontend-builder/helpers.php:948
+msgid "Left Text"
+msgstr "Venstrejustert tekst"
+
+#: frontend-builder/helpers.php:949
+msgid "Justify Text"
+msgstr "Juster tekst"
+
+#: frontend-builder/helpers.php:950
+msgid "List Settings"
+msgstr "Listeinnstillinger"
+
+#: frontend-builder/helpers.php:951
+msgid "Indent List"
+msgstr "Rykk inn liste"
+
+#: frontend-builder/helpers.php:952
+msgid "Undent List"
+msgstr "Fjern listeinnrykk"
+
+#: frontend-builder/helpers.php:953
+msgid "Insert Ordered List"
+msgstr "Sett inn ordnet liste"
+
+#: frontend-builder/helpers.php:954
+msgid "Insert Unordered List"
+msgstr "Sett inn uordnet liste"
+
+#: frontend-builder/helpers.php:955
+msgid "Text Settings"
+msgstr "Tekstinnstillinger"
+
+#: frontend-builder/helpers.php:956 main-modules.php:759 main-modules.php:1894
+#: main-modules.php:2345 main-modules.php:3921 main-modules.php:4784
+#: main-modules.php:5745 main-modules.php:7067 main-modules.php:7372
+#: main-modules.php:7660 main-modules.php:8144 main-modules.php:8722
+#: main-modules.php:9220 main-modules.php:9851 main-modules.php:10370
+#: main-modules.php:11017 main-modules.php:11274 main-modules.php:13330
+#: main-modules.php:13903 main-modules.php:14490 main-modules.php:15876
+#: main-modules.php:16477 main-modules.php:17223 main-modules.php:17653
+#: main-modules.php:18181 main-modules.php:18983 main-modules.php:19660
+#: main-modules.php:20780 main-modules.php:22272 main-modules.php:23073
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: frontend-builder/helpers.php:958
+msgid "Insert Heading One"
+msgstr "Sett inn overskrift én"
+
+#: frontend-builder/helpers.php:959
+msgid "Insert Heading Two"
+msgstr "Sett inn overskrift to"
+
+#: frontend-builder/helpers.php:960
+msgid "Insert Heading Three"
+msgstr "Sett inn overskrift tre"
+
+#: frontend-builder/helpers.php:961
+msgid "Insert Heading Four"
+msgstr "Sett inn overskrift fire"
+
+#: frontend-builder/helpers.php:966
+msgid "Move Section"
+msgstr "Flytt Seksjon"
+
+#: frontend-builder/helpers.php:967
+msgid "Section Settings"
+msgstr "Seksjonsinnstillinger"
+
+#: frontend-builder/helpers.php:968
+msgid "Duplicate Section"
+msgstr "Dupliser Seksjon"
+
+#: frontend-builder/helpers.php:969
+msgid "Save Section To Library"
+msgstr "Lagre Seksjon til Arkivet"
+
+#: frontend-builder/helpers.php:970 functions.php:3412 functions.php:3413
+msgid "Delete Section"
+msgstr "Slett seksjon"
+
+#: frontend-builder/helpers.php:972 functions.php:7009
+msgid "Add New Section"
+msgstr "Legg til Ny Seksjon"
+
+#: frontend-builder/helpers.php:976
+msgid "Move Row"
+msgstr "Flytt Rad"
+
+#: frontend-builder/helpers.php:977
+msgid "Row Settings"
+msgstr "Radinnstillinger"
+
+#: frontend-builder/helpers.php:978
+msgid "Duplicate Row"
+msgstr "Dupliser Rad"
+
+#: frontend-builder/helpers.php:979
+msgid "Save Row To Library"
+msgstr "Lagre Rad til Arkiv"
+
+#: frontend-builder/helpers.php:980 functions.php:3529 functions.php:3530
+msgid "Delete Row"
+msgstr "Slett rad"
+
+#: frontend-builder/helpers.php:981 functions.php:6979
+msgid "Change Column Structure"
+msgstr "Endre Kolonnestruktur"
+
+#: frontend-builder/helpers.php:983 functions.php:7001
+msgid "Add New Row"
+msgstr "Legg til ny Rad"
+
+#: frontend-builder/helpers.php:984
+msgid "Choose Column Structure"
+msgstr "Velg kolonnestruktur"
+
+#: frontend-builder/helpers.php:988
+msgid "Move Module"
+msgstr "Flytt Modul"
+
+#: frontend-builder/helpers.php:989 functions.php:3661 functions.php:3662
+msgid "Module Settings"
+msgstr "Modulinnstillinger"
+
+#: frontend-builder/helpers.php:990
+msgid "Duplicate Module"
+msgstr "Dupliser Modul"
+
+#: frontend-builder/helpers.php:991
+msgid "Save Module To Library"
+msgstr "Lagre Modul til Arkivet"
+
+#: frontend-builder/helpers.php:992
+msgid "Delete Module"
+msgstr "Slett Modul"
+
+#: frontend-builder/helpers.php:994
+msgid "Add New Module"
+msgstr "Legg til Ny Modul"
+
+#: frontend-builder/helpers.php:997
+msgid ""
+"Unsaved changes will be lost if you leave the Divi Builder at this time."
+msgstr "Ulagrede endringer vil gå tapt dersom du forlater Divi-Byggeren nå."
+
+#: frontend-builder/helpers.php:998
+msgid ""
+"Error loading Library items from server. Please refresh the page and try "
+"again."
+msgstr ""
+"Feil ved innlasting av bibliotekselementer fra serveren. Vennligst oppdater "
+"siden og prøv igjen."
+
+#: functions.php:107 functions.php:6463 functions.php:6584
+msgid "Modules"
+msgstr "Moduler"
+
+#: functions.php:108 functions.php:6491 functions.php:6507
+msgid "Rows"
+msgstr "Rader"
+
+#: functions.php:109 functions.php:6490
+msgid "Sections"
+msgstr "Seksjoner"
+
+#: functions.php:110
+msgid "Layouts"
+msgstr "Nettsideelementer"
+
+#: functions.php:114
+msgid "Global/not Global"
+msgstr "Global/ikke global"
+
+#: functions.php:115 functions.php:2080
+msgid "Global"
+msgstr "Global"
+
+#: functions.php:116
+msgid "not Global"
+msgstr "ikke global"
+
+#: functions.php:169 functions.php:186 functions.php:201 functions.php:2232
+msgid "you don't have sufficient permissions to access this page"
+msgstr "du har ikke tilstrekkelige rettigheter for adgang til denne siden"
+
+#: functions.php:296
+msgid "Mine"
+msgstr "Mine"
+
+#: functions.php:422
+msgid "Justified"
+msgstr "Blokkjustert"
+
+#: functions.php:449
+msgid "Select a menu"
+msgstr "Velg en meny"
+
+#: functions.php:574 functions.php:2700
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: functions.php:578
+msgid "%d Comments"
+msgstr "%d  kommentarer"
+
+#: functions.php:596 functions.php:2683
+msgid "Posts by %s"
+msgstr "Innlegg av %s"
+
+#: functions.php:1130
+msgid "You currently don't have any projects assigned to a category."
+msgstr "Du har for øyeblikket ingen prosjekter tildelt en kategori."
+
+#: functions.php:1248
+msgid "Solid"
+msgstr "Heltrukket"
+
+#: functions.php:1249
+msgid "Dotted"
+msgstr "Prikket"
+
+#: functions.php:1250
+msgid "Dashed"
+msgstr "Streket"
+
+#: functions.php:1251
+msgid "Double"
+msgstr "Dobbel"
+
+#: functions.php:1252
+msgid "Groove"
+msgstr "Renne"
+
+#: functions.php:1253
+msgid "Ridge"
+msgstr "Kant"
+
+#: functions.php:1254
+msgid "Inset"
+msgstr "Innfelt"
+
+#: functions.php:1255
+msgid "Outset"
+msgstr "Utfelt"
+
+#: functions.php:1597
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Du har ikke tilstrekkelige rettigheter for å eksportere nettstedsinnhold."
+
+#: functions.php:1599
+msgid "Manage Categories"
+msgstr "Administrér kategorier"
+
+#: functions.php:1878 functions.php:1880
+msgid "Use Default Editor"
+msgstr "Bruk opprinnelig editor"
+
+#: functions.php:1878 functions.php:1879
+msgid "Use The Divi Builder"
+msgstr "Bruk Divi-byggeren"
+
+#: functions.php:1889 functions.php:5581
+msgid "Use Visual Builder"
+msgstr "Bruk Visuell Bygger"
+
+#: functions.php:1943
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr "Her kan man lage nye widget-områder for bruk i sidekolonnemodulen"
+
+#: functions.php:1944
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Merk: velg unike navn. Navngivning etter standardmønsteret \"sidebar 1\", "
+"\"sidebar 2\", \"sidebar 3\", \"sidebar 4\" eller \"sidebar 5\" vil "
+"forårsake konflikter med dette temaet."
+
+#: functions.php:1945
+msgid "Widget Name"
+msgstr "Widget-navn"
+
+#: functions.php:1946
+msgid "Create"
+msgstr "Opprett"
+
+#: functions.php:2051
+msgid "Fullwidth Module"
+msgstr "Fullbreddemodul"
+
+#: functions.php:2054 functions.php:2638 functions.php:3456
+msgid "Fullwidth Section"
+msgstr "Fullbreddeseksjon"
+
+#: functions.php:2055 functions.php:2639 functions.php:3462
+msgid "Specialty Section"
+msgstr "Spesialseksjon"
+
+#: functions.php:2056 functions.php:2646 main-modules.php:558
+#: main-modules.php:677 main-modules.php:3027 main-modules.php:4535
+#: main-modules.php:6125 main-modules.php:6589 main-modules.php:9086
+#: main-modules.php:9146 main-modules.php:9685 main-modules.php:9776
+#: main-modules.php:10306 main-modules.php:12646 main-modules.php:13267
+#: main-modules.php:14186 main-modules.php:14258 main-modules.php:18835
+#: main-modules.php:19558 main-modules.php:20114 main-modules.php:20628
+#: main-modules.php:20722 main-modules.php:22688
+#: main-structure-elements.php:153
+msgid "Layout"
+msgstr "Nettsideelement"
+
+#: functions.php:2064
+msgid "Template Type"
+msgstr "Mal type"
+
+#: functions.php:2128
+msgid "New Template Settings"
+msgstr "Nye malinnstillinger "
+
+#: functions.php:2340
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "Fullbreddemoduler kan ikke brukes utenfor fullbreddeseksjoner."
+
+#: functions.php:2342 functions.php:3219 functions.php:3704
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: functions.php:2344
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Det kan ikke genereres stillbilder fra denne videotjenesten og/eller dette "
+"videoformatet"
+
+#: functions.php:2348
+msgid "No available options for this configuration."
+msgstr "Ingen tilgjengelige innstillinger for denne konfigurasjonen."
+
+#: functions.php:2349
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"Du er i ferd med å oppdatere en global modul - endringen vil dermed bli "
+"brukt på alle sider der modulen benyttes. Trykk OK dersom du fremdeles vil "
+"oppdatere."
+
+#: functions.php:2350
+msgid "You cannot add global rows into global sections"
+msgstr "Du kan ikke legge til globale rader i globale seksjoner."
+
+#: functions.php:2359
+msgid "Map Pin Address cannot be empty"
+msgstr "Kart pin adresse kan ikke være tom"
+
+#: functions.php:2361
+msgid "You do not have permission to unlock this section."
+msgstr "Du har ikke rettigheter for å låse opp denne delen."
+
+#: functions.php:2362
+msgid "You do not have permission to unlock this row."
+msgstr "Du har ikke rettigheter for å låse opp denne raden."
+
+#: functions.php:2363
+msgid "You do not have permission to unlock this module."
+msgstr "Du har ikke rettigheter for å låse opp denne modulen."
+
+#: functions.php:2364
+msgid "You do not have permission to perform this task."
+msgstr "Du har ikke rettigheter for å utføre denne oppgaven."
+
+#: functions.php:2365
+msgid ""
+"Unable to perform copy/paste process due to inavailability of localStorage "
+"feature in your browser. Please use latest modern browser (Chrome, Firefox, "
+"or Safari) to perform copy/paste process"
+msgstr ""
+"På grunn av manglende localStorage-funksjon i nettleseren din kunne ikke "
+"kopier/lim inn-prosessen utføres. Vennligst bruk en moderne nettleser "
+"(Chrome, Firefox eller Safari)."
+
+#: functions.php:2366
+msgid "Invalid Color"
+msgstr "Ugyldig farge"
+
+#: functions.php:2401
+msgid "Sales"
+msgstr "Salg"
+
+#: functions.php:2403
+msgid "Total"
+msgstr "Total"
+
+#: functions.php:2413
+msgid "Unauthorized Action"
+msgstr "Uautorisert handling"
+
+#: functions.php:2417 functions.php:2433
+msgid "Select Split Testing Subject"
+msgstr "Velg subjekt  for split-testing"
+
+#: functions.php:2418
+msgid ""
+"You have activated the Divi Leads Split Testing System. Using split testing, "
+"you can create different element variations on your page to find out which "
+"variation most positively affects the conversion rate of your desired goal. "
+"After closing this window, please click on the section, row or module that "
+"you would like to split test."
+msgstr ""
+"Du har aktivert Divi Leads Split Testing System. Ved å bruke split-testing "
+"kan du lage ulike elementvariasjoner på siden din for å finne ut hvilken "
+"variasjon som har best effekt på konversjonsraten til ditt ønskemål. Etter å "
+"ha lukket dette vinduet, vennligst klikk på seksjonen, raden eller modulen "
+"som du ønsker å split-teste."
+
+#: functions.php:2421
+msgid "Select Your Goal"
+msgstr "Velg målet ditt"
+
+#: functions.php:2422
+msgid ""
+"Congratulations, you have selected a split testing subject! Next you need to "
+"select your goal. After closing this window, please click the section, row "
+"or module that you want to use as your goal. Depending on the element you "
+"choose, Divi will track relevant conversion rates for clicks, reads or "
+"sales. For example, if you select a Call To Action module as your goal, then "
+"Divi will track how variations in your test subjects affect how often "
+"visitors read and click the button in your Call To Action module. The test "
+"subject itself can also be selected as your goal."
+msgstr ""
+"Gratulerer, du har valgt et emne for split-testing! Nå må du velge et mål. "
+"Etter å ha lukket dette vinduet, vennligst klikk på seksjonen, raden eller "
+"modulen du ønsker å bruke som mål. Avhengig av elementet du velger vil Divi "
+"spore relevante konversjonsrater for klikk, lesinger eller salg. For "
+"eksempel, dersom du velger en Call to Action-modul som ditt mål, vil Divi "
+"spore hvordan variasjoner i testsubjektene dine påvirker hvor ofte besøkende "
+"leser og klikker på knappen i din Call to Action-modul. Selve testsubjektet "
+"kan også velges som mål."
+
+#: functions.php:2425
+msgid "Configure Subject Variations"
+msgstr "Konfigurer subjektvariasjoner"
+
+#: functions.php:2426
+msgid ""
+"Congratulations, your split test is ready to go! You will notice that your "
+"split testing subject has been duplicated. Each split testing variation will "
+"be displayed to your visitors and statistics will be collected to figure out "
+"which variation results in the highest goal conversion rate. Your test will "
+"begin when you save this page."
+msgstr ""
+"Gratulerer, din split-test er klar til å kjøres! Du vil merke at split-"
+"testsubjektet har blitt duplisert. Hver split-testingvariasjon vil vises for "
+"dine besøkende, og statistikk vil samles for å beregne hvilke variasjoner "
+"som fører til den høyeste målkonversjonsraten. Testen vil starte når du "
+"lagrer denne siden."
+
+#: functions.php:2429
+msgid "Select Split Testing Winner"
+msgstr "Velg split-testingvinner"
+
+#: functions.php:2430
+msgid ""
+"Before ending your split test, you must choose which split testing variation "
+"to keep. Please select your favorite or highest converting subject. "
+"Alternative split testing subjects will be removed."
+msgstr ""
+"Før du avslutter split-testen må du velge hvilken split-testingvariasjon du "
+"ønsker å beholde. Vennligst velg din favoritt eller det høyest konverterende "
+"subjektet. Alternative split-testingsubjekter vil bli fjernet."
+
+#: functions.php:2434
+msgid "You need to select a split testing subject first."
+msgstr "Du må velge et split-testingsubjekt først."
+
+#: functions.php:2437
+msgid "Select Split Testing Goal"
+msgstr "Velg split-testingmål"
+
+#: functions.php:2438
+msgid "You need to select a split testing goal first. "
+msgstr "Du må velge et split-testingmål først. "
+
+#: functions.php:2441
+msgid "Select A Different Goal"
+msgstr "Velg et annet mål"
+
+#: functions.php:2442
+msgid ""
+"This element cannot be used as a your split testing goal. Please select a "
+"different module, or section."
+msgstr ""
+"Dette elementet kan ikke brukes som et split-testingmål. Vennligst velg en "
+"annen modul eller seksjon."
+
+#: functions.php:2447
+msgid "Can't Save Layout"
+msgstr "Kan ikke lagre layout"
+
+#: functions.php:2448
+msgid ""
+"You cannot save layout while a split test is running. Please end your split "
+"test and then try again."
+msgstr ""
+"Du kan ikke lagre layout mens du kjører en split-test. Vennligst avslutt din "
+"split-test og prøv så igjen."
+
+#: functions.php:2452
+msgid "Can't Save Section"
+msgstr "Kan ikke lagre seksjon"
+
+#: functions.php:2453
+msgid ""
+"You cannot save this section while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"Du kan ikke lagre denne seksjonen mens en split-test kjøres. Vennligst "
+"avslutt din split-test og prøv så igjen."
+
+#: functions.php:2457 functions.php:2462
+msgid "Can't Save Row"
+msgstr "Kan ikke lagre rad"
+
+#: functions.php:2458 functions.php:2463
+msgid ""
+"You cannot save this row while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"Du kan ikke lagre denne raden mens en split-test kjøres. Vennligst avslutt "
+"din split-test og prøv så igjen."
+
+#: functions.php:2467
+msgid "Can't Save Module"
+msgstr "Kan ikke lagre modul"
+
+#: functions.php:2468
+msgid ""
+"You cannot save this module while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"Du kan ikke lagre denne modulen mens en split-test kjøres. Vennligst avslutt "
+"din split-test og prøv så igjen."
+
+#: functions.php:2473
+msgid "Can't Load Layout"
+msgstr "Kan ikke laste layout"
+
+#: functions.php:2474
+msgid ""
+"You cannot load a new layout while a split test is running. Please end your "
+"split test and then try again."
+msgstr ""
+"Du kan ikke laste en ny layout mens en split-test kjøres. Vennligst avslutt "
+"din split-test og prøv så igjen."
+
+#: functions.php:2477
+msgid "Can't Clear Layout"
+msgstr "Kan ikke fjerne layout"
+
+#: functions.php:2478
+msgid ""
+"You cannot clear your layout while a split testing is running. Please end "
+"your split test before clearing your layout."
+msgstr ""
+"Du kan ikke fjerne din layout mens en split-test kjøres. Vennligst avslutt "
+"din split-test og prøv så igjen."
+
+#: functions.php:2483
+msgid "Can't Import/Export Layout"
+msgstr "Kan ikke Importere/Eksportere Layout"
+
+#: functions.php:2484
+msgid ""
+"You cannot import or export a layout while a split test is running. Please "
+"end your split test and then try again."
+msgstr ""
+"Du kan verken importere eller eksportere en layout mens en delingstest "
+"kjører. Vennligst avslutt delingstesten din og prøv deretter igjen."
+
+#: functions.php:2489 functions.php:2493 functions.php:2497
+msgid "Can't Move Goal"
+msgstr "Kan ikke flytte mål"
+
+#: functions.php:2501
+msgid "Can't Move Subject"
+msgstr "Kan ikke flytte subjekt"
+
+#: functions.php:2507
+msgid "Can't Clone Section"
+msgstr "Kan ikke klone seksjon"
+
+#: functions.php:2508
+msgid ""
+"This section cannot be duplicated because it contains a split testing goal. "
+"Goals cannot be duplicated. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Denne seksjonen kan ikke dupliseres fordi den inneholder et split-"
+"testingmål. Mål kan ikke dupliseres. Du må først avslutte split-testen din "
+"før du utfører denne handlingen."
+
+#: functions.php:2511
+msgid "Can't Clone Row"
+msgstr "Kan ikke klone rad"
+
+#: functions.php:2512
+msgid ""
+"This row cannot be duplicated because it contains a split testing goal. "
+"Goals cannot be duplicated. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Denne raden kan ikke dupliseres fordi den inneholder et split-testingmål. "
+"Mål kan ikke dupliseres. Du må først avslutte split-testen din før du "
+"utfører denne handlingen."
+
+#: functions.php:2517 functions.php:2527
+msgid "Can't Remove Section"
+msgstr "Kan ikke fjerne seksjon"
+
+#: functions.php:2518
+msgid ""
+"This section cannot be removed because it contains a split testing goal. "
+"Goals cannot be deleted. You must first end your split test before "
+"performing this action."
+msgstr ""
+"Denne seksjonen kan ikke fjernes fordi den inneholder et split-testingmål. "
+"Mål kan ikke slettes. Du må først avslutte split-testen din før du utfører "
+"denne handlingen."
+
+#: functions.php:2521 functions.php:2531
+msgid "Can't Remove Row"
+msgstr "Kan ikke fjerne rad"
+
+#: functions.php:2522
+msgid ""
+"This row cannot be removed because it contains a split testing goal. Goals "
+"cannot be deleted. You must first end your split test before performing this "
+"action."
+msgstr ""
+"Denne raden kan ikke fjernes fordi den inneholder et split-testingmål. Mål "
+"kan ikke slettes. Du må først avslutte split-testen din før du utfører denne "
+"handlingen."
+
+#: functions.php:2528
+msgid ""
+"Split testing requires at least 2 subject variations. This variation cannot "
+"be removed until additional variations have been added."
+msgstr ""
+"Split-testing krever minst 2 subjektvariasjoner. Denne variasjonen kan ikke "
+"fjernes før det har blitt lagt til ytterligere variasjoner."
+
+#: functions.php:2532
+msgid ""
+"Split testing requires at least 2 subject variations. This variation cannot "
+"be removed until additional variations have been added"
+msgstr ""
+"Split-testing krever minst 2 subjektvariasjoner. Denne variasjonen kan ikke "
+"fjernes før det har blitt lagt til ytterligere variasjoner"
+
+#: functions.php:2538 functions.php:2545 functions.php:2552 functions.php:2559
+#: functions.php:2566 functions.php:2573
+msgid "ID"
+msgstr "ID"
+
+#: functions.php:2539 functions.php:2546 functions.php:2553 functions.php:2560
+#: functions.php:2567 functions.php:2574
+msgid "Subject"
+msgstr "Subjekt"
+
+#: functions.php:2540 functions.php:2547 functions.php:2554 functions.php:2568
+#: functions.php:2575
+msgid "Impressions"
+msgstr "Visninger"
+
+#: functions.php:2541 functions.php:4385
+msgid "Clicks"
+msgstr "Klikk"
+
+#: functions.php:2542
+msgid "Clickthrough Rate"
+msgstr "Klikkfrekvens"
+
+#: functions.php:2548 functions.php:4386
+msgid "Reads"
+msgstr "Lesninger"
+
+#: functions.php:2549
+msgid "Reading Rate"
+msgstr "Lesningsrate"
+
+#: functions.php:2555
+msgid "Stays"
+msgstr "Opphold"
+
+#: functions.php:2556
+msgid "Bounce Rate"
+msgstr "Bounce-rate"
+
+#: functions.php:2561
+msgid "Goal Views"
+msgstr "Målvisninger"
+
+#: functions.php:2562
+msgid "Goal Reads"
+msgstr "Mållesninger"
+
+#: functions.php:2563
+msgid "Engagement Rate"
+msgstr "Engasjementsrate"
+
+#: functions.php:2569
+msgid "Conversion Goals"
+msgstr "Konversjonsmål"
+
+#: functions.php:2570 functions.php:2577
+msgid "Conversion Rate"
+msgstr "Konversjonsrate"
+
+#: functions.php:2576 functions.php:4396
+msgid "Shortcode Conversions"
+msgstr "Shortcode-konverteringer"
+
+#: functions.php:2614
+msgid "Did"
+msgstr "Gjorde"
+
+#: functions.php:2615
+msgid "Added"
+msgstr "Lagt til"
+
+#: functions.php:2616
+msgid "Edited"
+msgstr "Redigert"
+
+#: functions.php:2617
+msgid "Removed"
+msgstr "Fjernet"
+
+#: functions.php:2618
+msgid "Moved"
+msgstr "Flyttet"
+
+#: functions.php:2619
+msgid "Expanded"
+msgstr "Utvidet"
+
+#: functions.php:2620
+msgid "Collapsed"
+msgstr "Sammenfoldet"
+
+#: functions.php:2621
+msgid "Locked"
+msgstr "Låst"
+
+#: functions.php:2622
+msgid "Unlocked"
+msgstr "Åpnet"
+
+#: functions.php:2623
+msgid "Cloned"
+msgstr "Klonet"
+
+#: functions.php:2624
+msgid "Cleared"
+msgstr "Nullstilt"
+
+#: functions.php:2625 functions.php:5803
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: functions.php:2626 functions.php:5804
+msgid "Disabled"
+msgstr "Deaktivert"
+
+#: functions.php:2627
+msgid "Copied"
+msgstr "Kopiert"
+
+#: functions.php:2628
+msgid "Cut"
+msgstr "Klippet ut"
+
+#: functions.php:2629
+msgid "Pasted"
+msgstr "Limt inn"
+
+#: functions.php:2630
+msgid "Renamed"
+msgstr "Omdøpt"
+
+#: functions.php:2631
+msgid "Loaded"
+msgstr "Lastet"
+
+#: functions.php:2632
+msgid "Turned On"
+msgstr "Slått på"
+
+#: functions.php:2633
+msgid "Turned Off"
+msgstr "Slått av"
+
+#: functions.php:2637
+msgid "Saved Section"
+msgstr "Lagret seksjon"
+
+#: functions.php:2642
+msgid "Saved Row"
+msgstr "Lagret rad"
+
+#: functions.php:2644
+msgid "Saved Module"
+msgstr "Lagret modul"
+
+#: functions.php:2645
+msgid "Page"
+msgstr "Side"
+
+#: functions.php:2648 functions.php:3318 functions.php:3319 functions.php:3384
+#: functions.php:3385 functions.php:3395 functions.php:3396 functions.php:3512
+#: functions.php:3513 functions.php:3913
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: functions.php:2651
+msgid "on Phone"
+msgstr "i telefon."
+
+#: functions.php:2652
+msgid "on Tablet"
+msgstr "på nettbrett"
+
+#: functions.php:2653
+msgid "on Desktop"
+msgstr "på stasjonær PC"
+
+#: functions.php:2662
+msgid "The Divi Builder"
+msgstr "Divi-byggeren"
+
+#: functions.php:2698
+msgid "% Comments"
+msgstr "%  kommentarer"
+
+#: functions.php:2713
+msgid "by"
+msgstr "av"
+
+#: functions.php:3094 functions.php:3250
+msgid "Rename"
+msgstr "Gi nytt navn"
+
+#: functions.php:3106
+msgid "Paste After"
+msgstr "Lim inn etter"
+
+#: functions.php:3146
+msgid "Split Test"
+msgstr "Split-test"
+
+#: functions.php:3152
+msgid "End Split Test"
+msgstr "Avslutt split-test"
+
+#: functions.php:3209 main-modules.php:19739
+msgid "Expand"
+msgstr "Utvid"
+
+#: functions.php:3210
+msgid "Collapse"
+msgstr "Fold sammen"
+
+#: functions.php:3238 functions.php:3727 functions.php:3932 functions.php:3987
+#: functions.php:4133 functions.php:4164 functions.php:4223 functions.php:4286
+#: main-modules.php:7980 main-modules.php:7989
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: functions.php:3251
+msgid "Enter a new name for this module"
+msgstr "Angi et nytt navn for modulen"
+
+#: functions.php:3284 functions.php:3285
+msgid "See History"
+msgstr "Se historikk"
+
+#: functions.php:3309 functions.php:3310
+msgid "View Stats"
+msgstr "Se statistikk"
+
+#: functions.php:3363
+msgid "View Split Testing Stats"
+msgstr "Se statistikk fra split-test"
+
+#: functions.php:3403 functions.php:3404
+msgid "Clone Section"
+msgstr "Duplisér seksjon"
+
+#: functions.php:3419 functions.php:3420
+msgid "Unlock Section"
+msgstr "Lås opp seksjon"
+
+#: functions.php:3438 functions.php:3439
+msgid "Expand Section"
+msgstr "Utvid seksjon"
+
+#: functions.php:3450
+msgid "Standard Section"
+msgstr "Standardseksjon"
+
+#: functions.php:3485 functions.php:3886
+msgid "Insert Row(s)"
+msgstr "Sett inn rad(er)"
+
+#: functions.php:3520 functions.php:3521
+msgid "Clone Row"
+msgstr "Duplisér rad"
+
+#: functions.php:3538 functions.php:3539
+msgid "Change Structure"
+msgstr "Endre struktur"
+
+#: functions.php:3545 functions.php:3546
+msgid "Unlock Row"
+msgstr "Lås opp rad"
+
+#: functions.php:3571 functions.php:3572
+msgid "Expand Row"
+msgstr "Utvid rad"
+
+#: functions.php:3592
+msgid "Add Row"
+msgstr "Legg til rad"
+
+#: functions.php:3600
+msgid "Insert Column(s)"
+msgstr "Sett inn kolonne(r)"
+
+#: functions.php:3630 functions.php:3631 functions.php:3914
+msgid "Clone Module"
+msgstr "Duplisér modul"
+
+#: functions.php:3641 functions.php:3642
+msgid "Remove Module"
+msgstr "Fjern modul"
+
+#: functions.php:3652 functions.php:3653
+msgid "Unlock Module"
+msgstr "Lås opp modul"
+
+#: functions.php:3696
+msgid "Save & Add To Library"
+msgstr "Lagre og legg til i bibliotek"
+
+#: functions.php:3858 functions.php:5577
+msgid "Load Layout"
+msgstr "Last layout"
+
+#: functions.php:3869
+msgid "Insert Module(s)"
+msgstr "Sett inn modul(er)"
+
+#: functions.php:3944
+msgid "Disable Builder"
+msgstr "Deaktivér Divi-byggeren"
+
+#: functions.php:3945
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Alt innhold laget i Divi-byggeren vil gå tapt, og tidligere innhold "
+"gjenopprettes."
+
+#: functions.php:3946 functions.php:3959 functions.php:3970
+msgid "Do you wish to proceed?"
+msgstr "Ønsker du å fortsette?"
+
+#: functions.php:3958
+msgid "All of your current page content will be lost."
+msgstr "Alt nåværende sideinnhold vil gå tapt."
+
+#: functions.php:3969
+msgid "All advanced module settings in will be lost."
+msgstr "Alle avanserte modulinnstillinger vil gå tapt."
+
+#: functions.php:4003
+msgid "Layout Name:"
+msgstr "Navn på layout:"
+
+#: functions.php:4017
+msgid "Save And Add To Library"
+msgstr "Lagre og legg til i bibliotek"
+
+#: functions.php:4024
+msgid "Add To Categories:"
+msgstr "Legg til i kategorier:"
+
+#: functions.php:4052
+msgid "Include General settings"
+msgstr "Inkludér generelle innstillinger"
+
+#: functions.php:4058
+msgid "Include Advanced Design settings"
+msgstr "Inkludér avanserte designinnstillinger"
+
+#: functions.php:4095
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Her kan du lagre det nåværende objektet, samt legge det til i Divi-"
+"biblioteket for senere bruk."
+
+#: functions.php:4097
+msgid "Save as Global:"
+msgstr "Lagre som global:"
+
+#: functions.php:4145
+msgid "Divi Builder Settings"
+msgstr "Divi Builder Innstillinger"
+
+#: functions.php:4175
+msgid "End Split Test?"
+msgstr "Avslutte split-test?"
+
+#: functions.php:4176
+msgid ""
+"Upon ending your split test, you will be asked to select which subject "
+"variation you would like to keep. Remaining subjects will be removed."
+msgstr ""
+"Når du har avsluttet split-testen vil du bli bedt om å velge hvilken "
+"subjektvariasjon du ønsker å beholde. Gjenværende subjekter vil bli fjernet."
+
+#: functions.php:4177
+msgid "Note: this process cannot be undone."
+msgstr "Merk: denne prosessen kan ikke angres."
+
+#: functions.php:4192
+msgid "Ok"
+msgstr "Ok"
+
+#: functions.php:4206 functions.php:4238
+msgid "An Error Occurred"
+msgstr "En feil oppsto"
+
+#: functions.php:4207 functions.php:4239
+msgid "For some reason, you cannot perform this task."
+msgstr "Av en eller annen grunn kan du ikke utføre denne oppgaven."
+
+#: functions.php:4224
+msgid "Proceed"
+msgstr "Fortsett"
+
+#: functions.php:4255
+msgid "Save as Global Item"
+msgstr "Lagre som global gjenstand"
+
+#: functions.php:4269
+msgid "Set Winner Status"
+msgstr "Sett vinnerstatus"
+
+#: functions.php:4270
+msgid ""
+"You were using global item as split testing winner. Consequently, you have "
+"to choose between:"
+msgstr ""
+"Du brukte global gjenstand som split-testingvinner. Du må derfor velge "
+"mellom:"
+
+#: functions.php:4271
+msgid ""
+"Save winner as global item (selected subject will be synced and your global "
+"item will be updated in the Divi Library)"
+msgstr ""
+"Lagre vinner som global gjenstand (valgt subjekt vil synkroniseres og din "
+"globale gjenstand vil bli oppdatert i Divi Library)"
+
+#: functions.php:4272
+msgid ""
+"Save winner as non-global item (selected subject will no longer be a global "
+"item and your changes will not modify the global item)"
+msgstr ""
+"Lagre vinner som ikke-global gjenstand (valgt subjekt vil ikke lenger være "
+"en global gjenstand, og endringene dine vil ikke modifisere den globale "
+"gjenstanden)"
+
+#: functions.php:4330
+msgid "Last 24 Hours"
+msgstr "Siste 24 timer"
+
+#: functions.php:4331
+msgid "Last 7 Days"
+msgstr "Siste 7 dager"
+
+#: functions.php:4332
+msgid "Last Month"
+msgstr "Siste måned"
+
+#: functions.php:4333
+msgid "All Time"
+msgstr "For alltid"
+
+#: functions.php:4334
+msgid "Summary &amp; Data"
+msgstr "Sammendrag & data"
+
+#: functions.php:4336
+msgid "Statistics are still being collected for this time frame"
+msgstr "Statistikk blir fremdeles samlet inn for denne tidsrammen"
+
+#: functions.php:4337 functions.php:4393
+msgid "Stats will be displayed upon sufficient data collection"
+msgstr "Statistikk vil vises når det er samlet inn nok data"
+
+#: functions.php:4384
+msgid "Split Testing Statistics"
+msgstr "Statistikk for split-testing"
+
+#: functions.php:4387
+msgid "Bounces"
+msgstr "Bouncer"
+
+#: functions.php:4388
+msgid "Goal Engagement"
+msgstr "Målengasjement"
+
+#: functions.php:4389
+msgid "Conversions"
+msgstr "Konversjoner"
+
+#: functions.php:4392
+msgid "Statistics are being collected"
+msgstr "Statistikk blir samlet inn"
+
+#: functions.php:4394 functions.php:4395
+msgid "Refresh Stats"
+msgstr "Oppdater statistikk"
+
+#: functions.php:4397
+msgid "End Split Test &amp; Pick Winner"
+msgstr "Avslutt Deltest & Velg Vinner"
+
+#: functions.php:4405
+msgid "Add Specialty Section"
+msgstr "Legg til spesialseksjon"
+
+#: functions.php:4463
+msgid "Mobile"
+msgstr "Mobil"
+
+#: functions.php:4464 functions.php:4495 main-modules.php:328
+#: main-modules.php:829 main-modules.php:1173 main-modules.php:1455
+#: main-modules.php:1950 main-modules.php:2447 main-modules.php:2719
+#: main-modules.php:3332 main-modules.php:5016 main-modules.php:5824
+#: main-modules.php:6334 main-modules.php:7123 main-modules.php:7397
+#: main-modules.php:7676 main-modules.php:8226 main-modules.php:8804
+#: main-modules.php:9263 main-modules.php:9911 main-modules.php:10463
+#: main-modules.php:11059 main-modules.php:11290 main-modules.php:11511
+#: main-modules.php:11922 main-modules.php:12278 main-modules.php:13357
+#: main-modules.php:13641 main-modules.php:13968 main-modules.php:14532
+#: main-modules.php:15498 main-modules.php:15913 main-modules.php:16197
+#: main-modules.php:16515 main-modules.php:17267 main-modules.php:17780
+#: main-modules.php:18210 main-modules.php:18541 main-modules.php:19240
+#: main-modules.php:19764 main-modules.php:20418 main-modules.php:20845
+#: main-modules.php:21249 main-modules.php:21400 main-modules.php:21518
+#: main-modules.php:21795 main-modules.php:22316 main-modules.php:23295
+#: main-structure-elements.php:842 main-structure-elements.php:2355
+#: main-structure-elements.php:3429
+msgid "Tablet"
+msgstr "Nettbrett"
+
+#: functions.php:4465 functions.php:4494 main-modules.php:329
+#: main-modules.php:830 main-modules.php:1174 main-modules.php:1456
+#: main-modules.php:1951 main-modules.php:2448 main-modules.php:2720
+#: main-modules.php:3333 main-modules.php:5017 main-modules.php:5825
+#: main-modules.php:6335 main-modules.php:7124 main-modules.php:7398
+#: main-modules.php:7677 main-modules.php:8227 main-modules.php:8805
+#: main-modules.php:9264 main-modules.php:9912 main-modules.php:10464
+#: main-modules.php:11060 main-modules.php:11291 main-modules.php:11512
+#: main-modules.php:11923 main-modules.php:12279 main-modules.php:13358
+#: main-modules.php:13642 main-modules.php:13969 main-modules.php:14533
+#: main-modules.php:15499 main-modules.php:15914 main-modules.php:16198
+#: main-modules.php:16516 main-modules.php:17268 main-modules.php:17781
+#: main-modules.php:18211 main-modules.php:18542 main-modules.php:19241
+#: main-modules.php:19765 main-modules.php:20419 main-modules.php:20846
+#: main-modules.php:21250 main-modules.php:21401 main-modules.php:21519
+#: main-modules.php:21796 main-modules.php:22317 main-modules.php:23296
+#: main-structure-elements.php:843 main-structure-elements.php:2356
+#: main-structure-elements.php:3430
+msgid "Desktop"
+msgstr "Skrivebord"
+
+#: functions.php:4496
+msgid "Smartphone"
+msgstr "Smarttelefon"
+
+#: functions.php:4969
+msgid "Connecting..."
+msgstr "Kobler til..."
+
+#: functions.php:4970
+msgid "Connection failed"
+msgstr "Tilkobling mislyktes"
+
+#: functions.php:4971
+msgid "Removing connection..."
+msgstr "Fjerner tilkobling..."
+
+#: functions.php:4972
+msgid "Done"
+msgstr "Ferdig"
+
+#: functions.php:5002
+msgid "Step 1:"
+msgstr "Steg 1:"
+
+#: functions.php:5004
+msgid "Generate authorization code"
+msgstr "Generer autorisasjonskode"
+
+#: functions.php:5006
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Trinn 2: Lim inn autorisasjonskoden og klikk på \"Opprett tilkobling\"-"
+"knappen: "
+
+#: functions.php:5007
+msgid "Make a connection"
+msgstr "Opprett tilkobling"
+
+#: functions.php:5010
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber er satt opp riktig. Tilkoblingen kan fjernes her dersom ønskelig."
+
+#: functions.php:5011
+msgid "Remove the connection"
+msgstr "Fjern tilkobling"
+
+#: functions.php:5072
+msgid "Read more"
+msgstr "Les mer"
+
+#: functions.php:5514
+msgid "Theme Customizer"
+msgstr "Tematilpasser"
+
+#: functions.php:5519
+msgid "Module Customizer"
+msgstr "Modultilpasser"
+
+#: functions.php:5524
+msgid "Page Options"
+msgstr "Sideinnstillinger"
+
+#: functions.php:5535
+msgid "Plugin Options"
+msgstr "Innstikk-innstillinger"
+
+#: functions.php:5535
+msgid "Theme Options"
+msgstr "Temainnstillinger"
+
+#: functions.php:5540
+msgid "Divi Library"
+msgstr "Divi-bibliotek"
+
+#: functions.php:5550
+msgid "Builder Interface"
+msgstr "Divi-bygger grensesnitt"
+
+#: functions.php:5553
+msgid "Add/Delete Item"
+msgstr "Legg til/slett element"
+
+#: functions.php:5557
+msgid "Edit Item"
+msgstr "Redigér element"
+
+#: functions.php:5561
+msgid "Move Item"
+msgstr "Flytt element"
+
+#: functions.php:5565
+msgid "Disable Item"
+msgstr "Deaktivér element"
+
+#: functions.php:5569
+msgid "Lock Item"
+msgstr "Lås element"
+
+#: functions.php:5573
+msgid "Toggle Divi Builder"
+msgstr "Slå av/på Divi-bygger"
+
+#: functions.php:5587
+msgid "Library Settings"
+msgstr "Bibliotekinnstillinger"
+
+#: functions.php:5598
+msgid "Edit Global Items"
+msgstr "Globale elementer"
+
+#: functions.php:5604
+msgid "Settings Tabs"
+msgstr "Faneinnstillinger"
+
+#: functions.php:5607
+msgid "Content Settings"
+msgstr "Innholdsinnstillinger"
+
+#: functions.php:5611
+msgid "Design Settings"
+msgstr "Utformingsinnstillinger"
+
+#: functions.php:5615
+msgid "Advanced Settings"
+msgstr "Avanserte innstillinger"
+
+#: functions.php:5621
+msgid "Settings Types"
+msgstr "Innstillingstyper"
+
+#: functions.php:5624
+msgid "Edit Colors"
+msgstr "Farger"
+
+#: functions.php:5628
+msgid "Edit Content"
+msgstr "Innhold"
+
+#: functions.php:5632
+msgid "Edit Fonts"
+msgstr "Skrifttyper"
+
+#: functions.php:5636
+msgid "Edit Buttons"
+msgstr "Knapper"
+
+#: functions.php:5644
+msgid "Edit Configuration"
+msgstr "Konfigurasjon"
+
+#: functions.php:5650
+msgid "Module Use"
+msgstr "Modulbruk"
+
+#: functions.php:5725
+msgid "Divi Role Editor"
+msgstr "Divi-rolleadministrator "
+
+#: functions.php:5726
+msgid "Save Divi Roles"
+msgstr "Lagre Divi-roller"
+
+#: functions.php:5766
+msgid ""
+"Using the Divi Role Editor, you can limit the types of actions that can be "
+"taken by WordPress users of different roles. This is a great way to limit "
+"the functionality available to your customers or guest authors to ensure "
+"that they only have the necessary options available to them."
+msgstr ""
+"Divi-rolleadministratoren avgrenser ytterligere hvilke typer handlinger som "
+"kan utføres av WordPress-brukere med ulike rettighetsnivåer. Dette er en god "
+"måte å begrense de tilgjengelige valgene for kunder eller bidragsytere og "
+"sikrer at de bare har tilgang til nødvendig funksjonalitet."
+
+#: functions.php:5835
+msgid "Reset Roles"
+msgstr "Tilbakestill Divi-roller"
+
+#: functions.php:5836
+msgid ""
+"All of your current role settings will be set to defaults. Do you wish to "
+"proceed?"
+msgstr ""
+"Alle nåværende rolle-innstillinger vil bli tilbakestilt til standardvalg. "
+"Ønsker du å gå videre?"
+
+#: functions.php:5838
+msgid "no"
+msgstr "nei"
+
+#. translators: 1: date, 2: time
+#: functions.php:6114
+msgid "on %1$s at %2$s"
+msgstr "på %1$s hos %2$s"
+
+#: functions.php:6117
+msgid "(Edit)"
+msgstr "(Endre)"
+
+#: functions.php:6120
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:6129
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderering."
+
+#: functions.php:6272 functions.php:6827
+msgid "Exit Visual Builder"
+msgstr "Avslutt Visuell Bygger"
+
+#: functions.php:6293
+msgid "Enable Visual Builder"
+msgstr "Aktiver Visuell Bygger"
+
+#: functions.php:6383 main-modules.php:12318
+msgid "Message"
+msgstr "Melding"
+
+#: functions.php:6456
+msgid "Welcome To The Divi Builder"
+msgstr "Velkommen til Divi Builder"
+
+#: functions.php:6458 functions.php:6579
+msgid ""
+"%10$sBuilding beautiful pages is a breeze using the Visual Builder. To get "
+"started, add a new %1$s to your page by pressing the %2$s button. Next, add "
+"a %3$s of columns inside your section by pressing the %4$s button. Finally, "
+"start adding some content %5$s inside your columns by pressing the %6$s "
+"button. You can customize the design and content of any element on the page "
+"by pressing the %7$s button. If you ever need help, visit our %9$s page for "
+"a full list of tutorials."
+msgstr ""
+"%10$sÅ skape vakre sider er lett som en lek med Visual Builder. For å komme "
+"i gang kan du legge til en ny %1$s på siden din ved å klikke %2$s-knappen. "
+"Etterpå legger du til en %3$s av kolonner i seksjonen din ved å klikke %4$s-"
+"knappen. Til slutt kan du begynne å legge til litt innhold %5$s i kolonnene "
+"dine ved å klikke %6$s-knappen. Du kan tilpasse utformingen og innholdet til "
+"ethvert element på siden ved å klikke %7$s-knappen. Hvis du noensinne "
+"trenger hjelp, kan du besøke %9$s-siden vår for en full liste over "
+"innføringer."
+
+#: functions.php:6467 functions.php:6588
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: functions.php:6475 functions.php:6596
+msgid "Start Building"
+msgstr "Begynn å bygge"
+
+#: functions.php:6476
+msgid "Take the Tour"
+msgstr "Få omvisningen"
+
+#: functions.php:6479
+msgid "Load A New Layout"
+msgstr "Last inn et nytt oppsett"
+
+#: functions.php:6480
+msgid ""
+"Loading pre-made layouts is a great way to jump-start your new page. The "
+"Divi Builder comes with dozens of layouts to choose from, and you can find "
+"lots of great free layouts online too. You can save your favorite layouts to "
+"the Divi Library and load them on new pages or share them with the "
+"community. Click the highlighted button to open the layouts menu and select "
+"a pre-made layout."
+msgstr ""
+"Innlasting av forhåndslagde oppsett er en flott måte å hurtigstarte den nye "
+"siden din på. Divi Builder kommer med dusinvis av oppsett å velge mellom, og "
+"du kan finne massevis av flotte gratisoppsett på nettet også. Du kan lagre "
+"favorittoppsettene dine i Divi Library og laste dem inn på nye sider eller "
+"dele dem med fellesskapet. Klikk den fremhevede knappen for å åpne "
+"oppsettsmenyen og velge et forhåndslagd oppsett."
+
+#: functions.php:6483
+msgid "Choose A Design To Start With"
+msgstr "Velg en utforming å begynne med"
+
+#: functions.php:6484
+msgid ""
+"Here you can see a list of pre-made layouts that ship with the Divi Builder. "
+"You can also access layouts that you have saved to your Divi Library. Choose "
+"the “Divi Builder Demo” layout to load the new layout to your page."
+msgstr ""
+"Her kan du se en liste over forhåndslagde oppsett som følger med Divi "
+"Builder. Du har også tilgang til oppsett du har lagret i ditt Divi Library. "
+"Velg «Divi Builder Demo»-oppsettet for å laste inn det nye oppsettet på "
+"siden din."
+
+#: functions.php:6487
+msgid "Add A New Section"
+msgstr "Legg til en ny seksjon"
+
+#: functions.php:6489
+msgid ""
+"Now that your pre-made layout has been loaded, we can start adding new "
+"content to the page. The Divi Builder organizes content using %1$s, %2$s and "
+"Modules. Sections are the largest organizational element. Click the "
+"highlighted button to add a new section to the page."
+msgstr ""
+"Nå som det forhåndslagde oppsettet ditt er lastet inn, kan vi begynne å "
+"legge til nytt innhold på siden. Divi Builder organiserer innhold ved bruk "
+"av %1$s, %2$s og moduler. Seksjoner er det største organiseringselementet. "
+"Klikk den fremhevede knappen for å legge til en ny seksjon på siden."
+
+#: functions.php:6495
+msgid "Choose A Section Type"
+msgstr "Velg en seksjonstype"
+
+#: functions.php:6497
+msgid ""
+"The Divi Builder has three different section types. %1$s sections conform to "
+"the standard width of your page layout. %2$s Sections can be used to create "
+"advanced sidebar layouts. %3$s sections extend the full width of your page "
+"and can be used with fullwidth modules. Click the “Regular” section button "
+"to add a new section to your page."
+msgstr ""
+"Divi Builder har tre ulike seksjonstyper. %1$s-seksjoner samsvarer med "
+"standardbredden til sideoppsettet ditt. %2$s-seksjoner kan brukes til å lage "
+"avanserte sidepaneloppsett. %3$s-seksjoner strekker seg over den fulle "
+"bredden til siden din og kan brukes med fullbreddemoduler. Klikk "
+"seksjonsknappen «Vanlig» for å legge til en ny seksjon på siden din."
+
+#: functions.php:6504
+msgid "Add A New Row Of Columns"
+msgstr "Legg til en ny rad av kolonner"
+
+#: functions.php:6506
+msgid ""
+"Every section contains one or more %1$s of columns. You can choose between "
+"various column layouts for each row you add to your page. Click the "
+"highlighted three-column layout to add a new row to your section."
+msgstr ""
+"Hver seksjon inneholder en eller flere %1$s av kolonner. Du kan velge mellom "
+"diverse kolonneoppsett for hver rad du legger til på siden din. Klikk det "
+"fremhevede trekolonnersoppsettet for å legge til en ny rad i seksjonen din."
+
+#: functions.php:6511
+msgid "Add A Module To The Column"
+msgstr "Legg til en modul i kolonnen"
+
+#: functions.php:6512
+msgid ""
+"Within each column you can add one or more Modules. A module is basic "
+"content element. The Divi Builder comes with over 40 different content "
+"elements to choose from, such as Images, Videos, Text, and Buttons. Click "
+"the highlighted Blurb button to add a new Blurb module to the first column "
+"in your row."
+msgstr ""
+"I hver kolonne kan du legge til en eller flere moduler. En modul er et "
+"grunnleggende innholdselement. Divi Builder kommer med mer enn 40 ulike "
+"innholdselementer å velge mellom, blant annet bilder, videoer, tekst og "
+"knapper. Klikk den fremhevede Vaskeseddel-knappen for å legge til en ny "
+"Vaskeseddel-modul i den første kolonnen i raden din."
+
+#: functions.php:6515
+msgid "Adjust Your Module Settings"
+msgstr "Juster modulinnstillingene dine"
+
+#: functions.php:6516
+msgid ""
+"Each Module comes with various settings. These settings are separated into "
+"three tabs: Content, Design and Advanced. Inside the content tab you can "
+"modify the module content elements, such as text and images. If you need "
+"more control over the appearance of your module, head over to the Design "
+"tab. For more advanced modifications, such as custom CSS and HTML "
+"attributes, explore the Advanced tab. Try adjusting the Title of your blurb "
+"by clicking into the highlighted field."
+msgstr ""
+"Hver modul kommer med diverse innstillinger. Disse innstillingene er atskilt "
+"i tre faner: Innhold, Utforming og Avansert. I fanen Innhold kan du endre "
+"modulinnholdselementene, som tekst og bilder. Hvis du trenger mer kontroll "
+"over utseendet til modulen din, kan du bevege deg over til fanen Utforming. "
+"For mer avanserte endringer, som egendefinerte CSS- og HTML-attributter, kan "
+"du utforske fanen Avansert. Prøv å justere tittelen til vaskeseddelen din "
+"ved å klikke i det fremhevede feltet."
+
+#: functions.php:6519
+msgid "Accept Or Discard Your Changes"
+msgstr "Godta eller forkast endringene dine"
+
+#: functions.php:6520
+msgid ""
+"Whenever you make changes in the Divi Builder, these changes can be Undone, "
+"Redone, Discarded or Accepted. Now that you have adjusted your module’s "
+"title, you can click the red discard button to cancel these changes, or your "
+"can click the green button to accept them."
+msgstr ""
+"Når du gjør endringer i Divi Builder, kan disse endringene angres, gjentas, "
+"forkastes eller godtas. Nå som du har justert tittelen til modulen din, kan "
+"du klikke den røde forkast-knappen for å avbryte disse endringene, eller du "
+"kan klikke den grønne knappen for å godta dem."
+
+#: functions.php:6523
+msgid "Hover To Access Action Buttons"
+msgstr "Svev over for å få tilgang til handlingsknapper"
+
+#: functions.php:6524
+msgid ""
+"Whenever you hover over a Section, Row or Module in the Divi Builder, action "
+"buttons will appear. These buttons can be used to move, modify, duplicate or "
+"delete your content. Click the highlighted “duplicate” icon to duplicate the "
+"blurb module that you just added to the page."
+msgstr ""
+"Når du svever over en seksjon, rad eller modul i Divi Builder, dukker "
+"handlingsknapper opp. Disse knappene kan brukes til å flytte, endre, "
+"duplisere eller slette innholdet ditt. Klikk det uthevede «dupliser»-ikonet "
+"for å duplisere vaskeseddelmodulen du nettopp la til på siden."
+
+#: functions.php:6527
+msgid "Drag & Drop Content"
+msgstr "Dra og slipp innhold"
+
+#: functions.php:6528
+msgid ""
+"Every item on the page can be dragged and dropped to new locations. Using "
+"your mouse, click the highlighted move icon and hold down the mouse button. "
+"While holding down the mouse button, move your cursor over to the empty "
+"column and then release your mouse button to drop the module into the new "
+"column."
+msgstr ""
+"Hvert element på siden kan dras og slippes på nye plasseringer. Bruk musen "
+"din til å klikke på det uthevede flytt-ikonet, og hold nede museknappen. "
+"Mens du holder museknappen nede, flytter du musepekeren din bort til den "
+"tomme kolonnen, og så slipper du museknappen for å slippe modulen i den nye "
+"kolonnen."
+
+#: functions.php:6531
+msgid "Access Right Click Options"
+msgstr "Tilgang til høyreklikkalternativer"
+
+#: functions.php:6532
+msgid ""
+"In addition to hover actions, additional options can be accessed by Right "
+"Clicking or Cmd + Clicking on any module, row or section. Using the right "
+"click menu shown, click the highlighted “Copy Module” button to copy the "
+"blurb module that you just moved."
+msgstr ""
+"I tillegg til svevehandlingene får du tilgang til tilleggsalternativer ved å "
+"høyreklikke eller holde inne Cmd og klikke på hvilken som helst modul, rad "
+"eller seksjon. Ved bruk av den viste høyreklikkmenyen klikker du den "
+"uthevede «Kopier modul»-knappen for å kopiere vaskeseddelmodulen du nettopp "
+"flyttet."
+
+#: functions.php:6535
+msgid "Paste Your Copied Module"
+msgstr "Lim inn din kopierte modul"
+
+#: functions.php:6536
+msgid ""
+"Now that you have copied a module using the Right Click menu, you can Right "
+"Click in a new location to paste that module. Using the right click options "
+"shown, click the “Paste Module” button to paste the module you just copied "
+"into the empty column."
+msgstr ""
+"Nå som du har kopiert en modul ved bruk av høyreklikkmenyen, kan du "
+"høyreklikke på et nytt sted for å lime inn den modulen. Ved bruk av de viste "
+"høyreklikkalternativene klikker du «Lim inn modul»-knappen for å lime inn "
+"modulen du nettopp kopierte i den tomme kolonnen."
+
+#: functions.php:6539
+msgid "Access Your Row Options"
+msgstr "Få tilgang til radalternativene dine"
+
+#: functions.php:6540
+msgid ""
+"Every Row and Section has its own set of options that can be used to adjust "
+"the item’s appearance. You can adjust its width, padding, background and "
+"more. To access a row’s settings, hover over the row and click the "
+"highlighted options button."
+msgstr ""
+"Hver rad og seksjon har sitt eget utvalg av alternativer som kan brukes til "
+"å justere elementets utseende. Du kan justere dets bredde, utfylling, "
+"bakgrunn og mer. For å få tilgang til innstillingene til en rad, svever du "
+"over raden og klikker den uthevede alternativer-knappen."
+
+#: functions.php:6543
+msgid "Adjust Your Row Setting"
+msgstr "Juster radinnstillingen din"
+
+#: functions.php:6544
+msgid ""
+"Just like Modules, Rows come with a lot of settings that are separated into "
+"the Content, Design and Advanced tabs. Click the highlighted button to add a "
+"new background color to your row."
+msgstr ""
+"Akkurat som moduler kommer rader med massevis av innstillinger som er "
+"atskilt i fanene Innhold, Utforming og Avansert. Klikk den fremhevede "
+"knappen for å legge til en ny bakgrunnsfarge i raden din."
+
+#: functions.php:6547
+msgid "Accept Your Changes"
+msgstr "Godta endringene dine"
+
+#: functions.php:6548
+msgid "Click the highlighted green check mark button to accept your changes. "
+msgstr ""
+"Klikk den fremhevede, grønne knappen med haketegnet for å godta endringene "
+"dine. "
+
+#: functions.php:6551
+msgid "Open Your Page Settings"
+msgstr "Åpne sideinnstillingene dine"
+
+#: functions.php:6552
+msgid ""
+"While using the Divi Builder, you can access your page settings by toggling "
+"the page settings bar at the bottom of your screen. Click the highlighted "
+"button to reveal your page settings."
+msgstr ""
+"Mens du bruker Divi Builder har du tilgang til sideinnstillingene dine ved å "
+"slå på sideinnstillingslinjen nederst på skjermen din. Klikk den fremhevede "
+"knappen for å vise sideinnstillingene dine."
+
+#: functions.php:6555
+msgid "Preview Your Page On Mobile"
+msgstr "Forhåndsvis siden din på mobil"
+
+#: functions.php:6556
+msgid ""
+"While editing your page, it’s easy to see what your design will look like on "
+"mobile devices. You can also make adjustments to your module, row and "
+"section settings for each mobile breakpoint. Click the highlighted “Tablet” "
+"icon to enter Tablet preview mode. "
+msgstr ""
+"Mens du redigerer siden din er det enkelt å se hvordan utformingen din vil "
+"se ut på mobilenheter. Du kan også gjøre justeringer på modulen din, raden "
+"din og seksjonsinnstillingene dine for hvert mobile stoppunkt. Klikk det "
+"fremhevede «Nettbrett»-ikonet for å gå inn i forhåndsvisningsmodus for "
+"nettbrett. "
+
+#: functions.php:6559
+msgid "Switch Back To Desktop Mode"
+msgstr "Bytt tilbake til PC-modus"
+
+#: functions.php:6560
+msgid ""
+"You can switch back and forth between each preview mode freely while editing "
+"your page. Now that we have previewed our page on Tablet, let’s switch back "
+"to Desktop preview mode by clicking the highlighted button."
+msgstr ""
+"Du kan fritt bytte frem og tilbake mellom hver forhåndsvisningsmodus mens du "
+"redigerer siden din. Nå som vi har forhåndsvist siden vår på nettbrett, la "
+"oss bytte tilbake til forhåndsvisningsmodus for PC ved å klikke den "
+"fremhevede knappen."
+
+#: functions.php:6563
+msgid "Access Your Editing History"
+msgstr "Få tilgang til redigeringshistorikken din"
+
+#: functions.php:6564
+msgid ""
+"Every change you make while editing your page is saved in your editing "
+"history. You can navigate backwards and forwards through time to any point "
+"during your current editing session, as well as undo and redo recent "
+"changes. Click the highlighted History button to access your editing "
+"history. "
+msgstr ""
+"Hver endring du gjør mens du redigerer siden din, lagres i "
+"redigeringshistorikken din. Du kan navigere deg bakover og fremover gjennom "
+"tid til ethvert punkt i din gjeldende redigeringsøkt, og du kan også angre "
+"og gjenta nylige endringer. Klikk den fremhevede Historikk-knappen for å få "
+"tilgang til redigeringshistorikken din. "
+
+#: functions.php:6567
+msgid "Undo, Redo And Restore"
+msgstr "Angre, gjenta og gjenopprett"
+
+#: functions.php:6568
+msgid ""
+"Here you can undo, redo or restore a saved history state. If you change your "
+"mind about recent changes, simply click back in time and start building "
+"again. You can also undo and redo recent changes. Click the undo and redo "
+"buttons and then accept your changes by clicking the green check mark."
+msgstr ""
+"Her kan du angre, gjenta eller gjenopprette en lagret historikktilstand. "
+"Hvis du ombestemmer deg angående nylige endringer, trenger du bare klikke "
+"deg bakover i tid og begynne å bygge igjen. Du kan også angre og gjenta "
+"nylige endringer. Klikk angre- og gjenta-knappene, og godta deretter "
+"endringene dine ved å klikke det grønne haketegnet."
+
+#: functions.php:6571
+msgid "Save Your Page"
+msgstr "Lagre siden din"
+
+#: functions.php:6572
+msgid ""
+"When you are all done, you can save your changes by clicking the %1$s button "
+"inside of your page settings bar. You can also press Ctrl + S at any time to "
+"save your changes. Click the highlighted Save button to save your changes. "
+"Don’t worry, the page you were working on before starting this tour will not "
+"be lost!"
+msgstr ""
+"Når du er helt ferdig, kan du lagre endringene dine ved å klikke %1$s-"
+"knappen på sideinnstillingslinjen din. Du kan også trykke Ctrl + S når som "
+"helst for å lagre endringene dine. Klikk den fremhevede Lagre-knappen for å "
+"lagre endringene dine. Ikke vær redd – siden du jobbet med før du startet "
+"denne omvisningen vil ikke gå tapt!"
+
+#: functions.php:6577
+msgid "You’re Ready To Go!"
+msgstr "Du er klar til å sette i gang!"
+
+#: functions.php:6598
+msgid "End the Tour"
+msgstr "Avslutt omvisningen"
+
+#: functions.php:6599
+msgid "Skip This Step"
+msgstr "Hopp over dette trinnet"
+
+#: functions.php:6787
+msgid "Page Shortcuts"
+msgstr "Sidesnarveier"
+
+#: functions.php:6811
+msgid "Save Page"
+msgstr "Lagre side"
+
+#: functions.php:6819
+msgid "Save Page As Draft"
+msgstr "Lagre side som utkast"
+
+#: functions.php:6834
+msgid "Exit To Backend Builder"
+msgstr "Avslutt og gå til backend-bygger"
+
+#: functions.php:6841
+msgid "Toggle Settings Bar"
+msgstr "Skru innstillingslinjen av eller på"
+
+#: functions.php:6848
+msgid "Open Page Settings"
+msgstr "Åpne sideinnstillinger"
+
+#: functions.php:6856
+msgid "Open History Window"
+msgstr "Åpne historikkvindu"
+
+#: functions.php:6864
+msgid "Open Portability Window"
+msgstr "Åpne mobilitetsvindu"
+
+#: functions.php:6872
+msgid "Responsive Zoom In"
+msgstr "Responsiv forstørring"
+
+#: functions.php:6879
+msgid "Responsive Zoom Out"
+msgstr "Responsiv forminskning"
+
+#: functions.php:6886
+msgid "List All Shortcuts"
+msgstr "List opp alle snarveier"
+
+#: functions.php:6895
+msgid "Inline Editor Shortcuts"
+msgstr "Snarveier for innebygd redigering"
+
+#: functions.php:6902
+msgid "Exit Inline Editor"
+msgstr "Avslutt innebygd redigering"
+
+#: functions.php:6910
+msgid "Module Shortcuts"
+msgstr "Modulsnarveier"
+
+#: functions.php:6918
+msgid "Copy Module"
+msgstr "Kopier modul"
+
+#: functions.php:6926
+msgid "Cut Module"
+msgstr "Klipp ut modul"
+
+#: functions.php:6934
+msgid "Paste Module"
+msgstr "Lim inn modul"
+
+#: functions.php:6942
+msgid "Copy Module Styles"
+msgstr "Kopier modulstiler"
+
+#: functions.php:6949
+msgid "Paste Module Styles"
+msgstr "Lim inn modulstiler"
+
+#: functions.php:6956
+msgid "Lock Module"
+msgstr "Lås modul"
+
+#: functions.php:6964
+msgid "Disable Module"
+msgstr "Deaktiver modul"
+
+#: functions.php:6972
+msgid "Move and copy module into dropped location"
+msgstr "Flytt og kopier modulen til sluppet plassering"
+
+#: functions.php:6987
+msgid "Make Row Fullwidth"
+msgstr "Gjør rad fullbreddes"
+
+#: functions.php:6994
+msgid "Change Gutter Width"
+msgstr "Endre ryggbredde"
+
+#: functions.php:7017
+msgid "Restrict padding to 10px increments"
+msgstr "Begrens utfylling til inkrementer på 10px"
+
+#: functions.php:7024
+msgid "Padding limited to opposing value"
+msgstr "Utfylling avgrenset til motstridende verdi"
+
+#: functions.php:7031
+msgid "Mirror padding on both sides"
+msgstr "Speil utfylling på begge sider"
+
+#: functions.php:7038
+msgid "Increase Row Padding"
+msgstr "Øk radutfylling"
+
+#: functions.php:7045
+msgid "Decrease Row Padding"
+msgstr "Senk radutfylling"
+
+#: functions.php:7052
+msgid "Increase Section Padding"
+msgstr "Øk seksjonsutfylling"
+
+#: functions.php:7059
+msgid "Decrease Section Padding"
+msgstr "Senk seksjonsutfylling"
+
+#: functions.php:7066
+msgid "Increase Row Padding By 10px"
+msgstr "Øk radutfylling med 10px"
+
+#: functions.php:7073
+msgid "Decrease Row Padding By 10px"
+msgstr "Senk radutfylling med 10px"
+
+#: functions.php:7080
+msgid "Increase Section Padding By 10px"
+msgstr "Øk seksjonsutfylling med 10px"
+
+#: functions.php:7087
+msgid "Decrease Section Padding By 10px"
+msgstr "Senk seksjonsutfylling med 10px"
+
+#: functions.php:7095
+msgid "Modal Shortcuts"
+msgstr "Modale snarveier"
+
+#: functions.php:7103
+msgid "Close Modal"
+msgstr "Lukk modalvindu"
+
+#: functions.php:7133
+msgid "Switch Tabs"
+msgstr "Bytt fane"
+
+#: functions.php:7141
+msgid "Expand Modal Fullscreen"
+msgstr "Utvid modalfullskjerm"
+
+#: functions.php:7148
+msgid "Snap Modal Left / Right"
+msgstr "Fest modalvindu på venstre/høyre side"
+
+#: layouts.php:52
+msgid "Built For Any"
+msgstr "Bygget for noen"
+
+#: layouts.php:77
+msgid "Built For"
+msgstr "Bygget for"
+
+#: layouts.php:78
+msgid "Global Layout"
+msgstr "Global layout"
+
+#: layouts.php:90
+msgid "Standard"
+msgstr "Standard"
+
+#: layouts.php:344
+msgid "Divi Builder Demo"
+msgstr "Divi Builder Demo"
+
+#: layouts.php:352
+msgid "Homepage Basic"
+msgstr "Grunnleggende"
+
+#: layouts.php:360
+msgid "Homepage Shop"
+msgstr "Nettbutikk"
+
+#: layouts.php:370
+msgid "Homepage Portfolio"
+msgstr "Portfolio"
+
+#: layouts.php:378
+msgid "Homepage Company"
+msgstr "Bedrift"
+
+#: layouts.php:386
+msgid "Homepage Corporate"
+msgstr "Konsern"
+
+#: layouts.php:397
+msgid "Homepage Extended"
+msgstr "Utvidet"
+
+#: layouts.php:406
+msgid "Page Fullwidth"
+msgstr "Fullbredde"
+
+#: layouts.php:440
+msgid "Page Right Sidebar"
+msgstr "Med høyre sidekolonne"
+
+#: layouts.php:474
+msgid "Page Left Sidebar"
+msgstr "Med venstre sidekolonne"
+
+#: layouts.php:508
+msgid "Page Dual Sidebars"
+msgstr "Med to sidekolonner"
+
+#: layouts.php:530
+msgid "Portfolio Grid"
+msgstr "Portfolio rutenett"
+
+#: layouts.php:538
+msgid "Portfolio 1 Column"
+msgstr "Portfolio med én kolonne"
+
+#: layouts.php:546
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portfolio med fullbredde karusell"
+
+#: layouts.php:554
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portfolio med fullbredde rutenett"
+
+#: layouts.php:562
+msgid "Project Extended"
+msgstr "Prosjekt utvidet"
+
+#: layouts.php:572
+msgid "Project Extended 2"
+msgstr "Prosjekt utvidet 2"
+
+#: layouts.php:585
+msgid "Blog Masonry"
+msgstr "Blogg fliser"
+
+#: layouts.php:593
+msgid "Blog Standard"
+msgstr "Blogg standard"
+
+#: layouts.php:601
+msgid "Shop Basic"
+msgstr "Grunnleggende nettbutikk"
+
+#: layouts.php:609
+msgid "Shop Extended"
+msgstr "Utvidet nettbutikk"
+
+#: layouts.php:617
+msgid "Splash Page"
+msgstr "Åpningsside (splash)"
+
+#: layouts.php:628
+msgid "Maintenance Mode"
+msgstr "Vedlikeholdsmodus"
+
+#: layouts.php:637
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: layouts.php:645
+msgid "Landing Page"
+msgstr "Landingsside"
+
+#: layouts.php:654
+msgid "About Me"
+msgstr "Om meg"
+
+#: layouts.php:663
+msgid "About Us"
+msgstr "Om oss"
+
+#: layouts.php:672
+msgid "Contact Us"
+msgstr "Kontakt oss"
+
+#: layouts.php:688
+msgid "Our Team"
+msgstr "Vårt team"
+
+#: layouts.php:801
+msgid "Creative Agency"
+msgstr "Kreativt byrå"
+
+#: layouts.php:810
+msgid "Sales Page"
+msgstr "Tilbudsside"
+
+#: layouts.php:846
+msgid "Case Study"
+msgstr "Case-studie"
+
+#: layouts.php:856
+msgid "Product Features"
+msgstr "Produktspesifikasjoner"
+
+#: main-modules.php:52 main-modules.php:2104 main-modules.php:3574
+#: main-modules.php:5601 main-modules.php:6583 main-modules.php:6941
+#: main-modules.php:7286 main-modules.php:16618 main-modules.php:21614
+msgid "Link"
+msgstr "Kobling"
+
+#: main-modules.php:58 main-modules.php:3585 main-modules.php:7291
+msgid "Alignment"
+msgstr "Justering"
+
+#: main-modules.php:60 main-modules.php:1852 main-modules.php:2116
+#: main-modules.php:6951 main-modules.php:13549 main-modules.php:17588
+#: main-modules.php:18843 main-modules.php:21349
+#: main-structure-elements.php:155 main-structure-elements.php:1421
+#: main-structure-elements.php:2953
+msgid "Sizing"
+msgstr "Størrelse"
+
+#: main-modules.php:68 main-modules.php:247 main-modules.php:569
+#: main-modules.php:2124 main-modules.php:3037 main-modules.php:4551
+#: main-modules.php:13801 main-modules.php:13887 main-modules.php:19565
+#: main-modules.php:20124 main-modules.php:20640 main-modules.php:21625
+#: main-modules.php:21775 main-modules.php:22704
+msgid "Animation"
+msgstr "Animasjon"
+
+#: main-modules.php:72 main-modules.php:3595 main-modules.php:7301
+#: main-modules.php:18851 main-modules.php:21629
+msgid "Attributes"
+msgstr "Attributter"
+
+#: main-modules.php:93 main-modules.php:2335 main-modules.php:13893
+#: main-modules.php:21779
+msgid "Left To Right"
+msgstr "Venstre til høyre"
+
+#: main-modules.php:94 main-modules.php:2336 main-modules.php:13894
+#: main-modules.php:21780
+msgid "Right To Left"
+msgstr "Høyre til venstre"
+
+#: main-modules.php:95 main-modules.php:2334 main-modules.php:13895
+#: main-modules.php:21781
+msgid "Top To Bottom"
+msgstr "Topp til bunn"
+
+#: main-modules.php:96 main-modules.php:2337 main-modules.php:13896
+#: main-modules.php:21782
+msgid "Bottom To Top"
+msgstr "Bunn til topp"
+
+#: main-modules.php:97 main-modules.php:13892 main-modules.php:21783
+msgid "Fade In"
+msgstr "Bli gradvis tydeligere"
+
+#: main-modules.php:98 main-modules.php:2338 main-modules.php:13891
+#: main-modules.php:21784
+msgid "No Animation"
+msgstr "Ingen animasjon"
+
+#: main-modules.php:122 main-modules.php:13877 main-modules.php:21650
+msgid "Image URL"
+msgstr "Bilde-URL"
+
+#: main-modules.php:126 main-modules.php:1144 main-modules.php:1639
+#: main-modules.php:2306 main-modules.php:5707 main-modules.php:7645
+#: main-modules.php:13881 main-modules.php:19159 main-modules.php:19211
+#: main-modules.php:21654
+msgid "Choose an Image"
+msgstr "Velg et bilde"
+
+#: main-modules.php:127 main-modules.php:1145 main-modules.php:1640
+#: main-modules.php:2307 main-modules.php:5708 main-modules.php:7646
+#: main-modules.php:13882 main-modules.php:19160 main-modules.php:19212
+#: main-modules.php:21655
+msgid "Set As Image"
+msgstr "Sett som bilde"
+
+#: main-modules.php:132 main-modules.php:5709 main-modules.php:7647
+#: main-modules.php:13883 main-modules.php:19165 main-modules.php:19213
+#: main-modules.php:21660
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr "Last opp ønsket bilde eller skriv inn URL til bildet som skal vises."
+
+#: main-modules.php:136 main-modules.php:3909 main-modules.php:21664
+msgid "Image Alternative Text"
+msgstr "Alternativ tekst for bilde"
+
+#: main-modules.php:143 main-modules.php:19176 main-modules.php:21671
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Bildets alternative tekst er til erstatning for bildet ved bruk av "
+"spesialnettlesere."
+
+#: main-modules.php:148 main-modules.php:21676
+msgid "Image Title Text"
+msgstr "Titteltekst for bilde"
+
+#: main-modules.php:155 main-modules.php:19188 main-modules.php:21683
+msgid "This defines the HTML Title text."
+msgstr ""
+"Bildets titteltekst, en beskrivelse av bildet, vises ved mouseover og bruk "
+"av spesialnettlesere."
+
+#: main-modules.php:160
+msgid "Open in Lightbox"
+msgstr "Åpne i Lightbox"
+
+#: main-modules.php:173 main-modules.php:21701
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Velg om bildet skal åpnes i Lightbox eller ikke. Merk: dersom Lightbox "
+"velges vil URL-alternativene nedenfor ignoreres."
+
+#: main-modules.php:176 main-modules.php:21704
+msgid "Link URL"
+msgstr "URL-lenke"
+
+#: main-modules.php:183 main-modules.php:21711
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Skriv inn mål-URL her dersom bildet skal være en lenke. Dersom feltet er "
+"tomt vil det ikke opprettes en lenke."
+
+#: main-modules.php:187 main-modules.php:2203 main-modules.php:7028
+#: main-modules.php:7341 main-modules.php:16489 main-modules.php:21715
+msgid "Url Opens"
+msgstr "URL åpner"
+
+#: main-modules.php:191 main-modules.php:2207 main-modules.php:5696
+#: main-modules.php:7032 main-modules.php:7345 main-modules.php:16493
+#: main-modules.php:21719
+msgid "In The Same Window"
+msgstr "i det samme vinduet"
+
+#: main-modules.php:192 main-modules.php:2208 main-modules.php:5697
+#: main-modules.php:7033 main-modules.php:7346 main-modules.php:16494
+#: main-modules.php:21720
+msgid "In The New Tab"
+msgstr "i en ny fane"
+
+#: main-modules.php:196 main-modules.php:2211 main-modules.php:7036
+#: main-modules.php:7349 main-modules.php:16497 main-modules.php:21724
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Velg om lenken skal åpnes i et nytt vindu/fane eller ikke."
+
+#: main-modules.php:199 main-modules.php:21727
+msgid "Image Overlay"
+msgstr "Overleggsbilde"
+
+#: main-modules.php:214 main-modules.php:21742
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+"Hvis aktivert vil en overleggsfarge og ikon bli vist når besøkende streifer "
+"over bildet."
+
+#: main-modules.php:217 main-modules.php:14457 main-modules.php:21745
+msgid "Overlay Icon Color"
+msgstr "Overleggsikonfarge"
+
+#: main-modules.php:223 main-modules.php:14463 main-modules.php:21751
+msgid "Here you can define a custom color for the overlay icon"
+msgstr "Her kan du definere en valgfri farge for overleggsikonet"
+
+#: main-modules.php:226 main-modules.php:807 main-modules.php:9240
+#: main-modules.php:9882 main-modules.php:14466 main-modules.php:15477
+#: main-modules.php:20824 main-modules.php:21754
+msgid "Hover Overlay Color"
+msgstr "Overleggsfarge på mouseover"
+
+#: main-modules.php:232 main-modules.php:14472 main-modules.php:21760
+msgid "Here you can define a custom color for the overlay"
+msgstr "Her kan du definere en valgfri farge for overlegget."
+
+#: main-modules.php:235 main-modules.php:815 main-modules.php:9248
+#: main-modules.php:9863 main-modules.php:14475 main-modules.php:15484
+#: main-modules.php:20831 main-modules.php:21763
+msgid "Hover Icon Picker"
+msgstr "Velg ikon for mouseover"
+
+#: main-modules.php:244 main-modules.php:14482 main-modules.php:21772
+msgid "Here you can define a custom icon for the overlay"
+msgstr "Her kan du definere et valgfritt ikon for overlegget"
+
+#: main-modules.php:253 main-modules.php:2342 main-modules.php:13900
+#: main-modules.php:21788
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Dette kontrollerer retningen på animasjonen."
+
+#: main-modules.php:256
+msgid "Remove Space Below The Image"
+msgstr "Fjern luft (padding) under bildet"
+
+#: main-modules.php:265
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr "Velg om det skal være luft under bildet (standardvalg) eller ikke."
+
+#: main-modules.php:268
+msgid "Image Alignment"
+msgstr "Bildeplassering"
+
+#: main-modules.php:278
+msgid "Here you can choose the image alignment."
+msgstr "Velg plassering av bildet."
+
+#: main-modules.php:281 main-modules.php:2373
+msgid "Image Max Width"
+msgstr "Bildets maksimale bredde"
+
+#: main-modules.php:294
+msgid "Force Fullwidth"
+msgstr "Tving til fullbredde"
+
+#: main-modules.php:305
+msgid "Always Center Image On Mobile"
+msgstr "Midtstill alltid bildet på mobil"
+
+#: main-modules.php:324 main-modules.php:825 main-modules.php:1169
+#: main-modules.php:1451 main-modules.php:1946 main-modules.php:2443
+#: main-modules.php:2715 main-modules.php:3328 main-modules.php:5012
+#: main-modules.php:5820 main-modules.php:6330 main-modules.php:7119
+#: main-modules.php:7393 main-modules.php:7672 main-modules.php:8222
+#: main-modules.php:8800 main-modules.php:9259 main-modules.php:9907
+#: main-modules.php:10459 main-modules.php:11055 main-modules.php:11286
+#: main-modules.php:11507 main-modules.php:11918 main-modules.php:12274
+#: main-modules.php:13353 main-modules.php:13637 main-modules.php:13964
+#: main-modules.php:14528 main-modules.php:15494 main-modules.php:15909
+#: main-modules.php:16193 main-modules.php:16511 main-modules.php:17263
+#: main-modules.php:17776 main-modules.php:18206 main-modules.php:18537
+#: main-modules.php:19236 main-modules.php:19760 main-modules.php:20414
+#: main-modules.php:20841 main-modules.php:21245 main-modules.php:21396
+#: main-modules.php:21514 main-modules.php:21791 main-modules.php:22312
+#: main-modules.php:23291 main-structure-elements.php:838
+#: main-structure-elements.php:2351 main-structure-elements.php:3425
+msgid "Disable on"
+msgstr "Deaktiver på"
+
+#: main-modules.php:327 main-modules.php:828 main-modules.php:1172
+#: main-modules.php:1454 main-modules.php:1949 main-modules.php:2446
+#: main-modules.php:2718 main-modules.php:3331 main-modules.php:5015
+#: main-modules.php:5823 main-modules.php:6333 main-modules.php:7122
+#: main-modules.php:7396 main-modules.php:7675 main-modules.php:8225
+#: main-modules.php:8803 main-modules.php:9262 main-modules.php:9910
+#: main-modules.php:10462 main-modules.php:11058 main-modules.php:11289
+#: main-modules.php:11510 main-modules.php:11921 main-modules.php:12277
+#: main-modules.php:13356 main-modules.php:13640 main-modules.php:13967
+#: main-modules.php:14531 main-modules.php:15497 main-modules.php:15912
+#: main-modules.php:16196 main-modules.php:16514 main-modules.php:17266
+#: main-modules.php:17779 main-modules.php:18209 main-modules.php:18540
+#: main-modules.php:19239 main-modules.php:19763 main-modules.php:20417
+#: main-modules.php:20844 main-modules.php:21248 main-modules.php:21399
+#: main-modules.php:21517 main-modules.php:21794 main-modules.php:22315
+#: main-modules.php:23294 main-structure-elements.php:841
+#: main-structure-elements.php:2354 main-structure-elements.php:3428
+msgid "Phone"
+msgstr "Telefon"
+
+#: main-modules.php:333 main-modules.php:834 main-modules.php:1178
+#: main-modules.php:1460 main-modules.php:1955 main-modules.php:2452
+#: main-modules.php:2724 main-modules.php:3337 main-modules.php:5021
+#: main-modules.php:5829 main-modules.php:6339 main-modules.php:7128
+#: main-modules.php:7402 main-modules.php:7681 main-modules.php:8231
+#: main-modules.php:8809 main-modules.php:9268 main-modules.php:9916
+#: main-modules.php:10468 main-modules.php:11064 main-modules.php:11295
+#: main-modules.php:11516 main-modules.php:11927 main-modules.php:12283
+#: main-modules.php:13362 main-modules.php:13646 main-modules.php:13973
+#: main-modules.php:14537 main-modules.php:15503 main-modules.php:15918
+#: main-modules.php:16202 main-modules.php:16520 main-modules.php:17272
+#: main-modules.php:17785 main-modules.php:18215 main-modules.php:18546
+#: main-modules.php:19245 main-modules.php:19769 main-modules.php:20423
+#: main-modules.php:20850 main-modules.php:21254 main-modules.php:21405
+#: main-modules.php:21523 main-modules.php:21800 main-modules.php:22321
+#: main-modules.php:23300 main-structure-elements.php:847
+#: main-structure-elements.php:2362 main-structure-elements.php:3434
+msgid "This will disable the module on selected devices"
+msgstr "Dette vil deaktivere modulen på selekterte enheter"
+
+#: main-modules.php:340 main-modules.php:841 main-modules.php:1185
+#: main-modules.php:1467 main-modules.php:1962 main-modules.php:2459
+#: main-modules.php:2731 main-modules.php:3344 main-modules.php:5028
+#: main-modules.php:5836 main-modules.php:6346 main-modules.php:7135
+#: main-modules.php:7409 main-modules.php:7688 main-modules.php:8238
+#: main-modules.php:8816 main-modules.php:9275 main-modules.php:9923
+#: main-modules.php:10475 main-modules.php:11071 main-modules.php:11302
+#: main-modules.php:11523 main-modules.php:11934 main-modules.php:12290
+#: main-modules.php:13369 main-modules.php:13653 main-modules.php:13980
+#: main-modules.php:14544 main-modules.php:15510 main-modules.php:15925
+#: main-modules.php:16209 main-modules.php:16527 main-modules.php:17279
+#: main-modules.php:17792 main-modules.php:18222 main-modules.php:18553
+#: main-modules.php:19252 main-modules.php:19776 main-modules.php:20430
+#: main-modules.php:20857 main-modules.php:21261 main-modules.php:21412
+#: main-modules.php:21530 main-modules.php:21807 main-modules.php:22328
+#: main-modules.php:23307
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Dette endrer teksten for modulens merkelapp i Divi-byggeren, for rask "
+"identifikasjon av innholdet."
+
+#: main-modules.php:513
+msgid "Gallery"
+msgstr "Galleri"
+
+#: main-modules.php:552 main-modules.php:18829
+msgid "Images"
+msgstr "Bilder"
+
+#: main-modules.php:553 main-modules.php:1362 main-modules.php:3021
+#: main-modules.php:4528 main-modules.php:5602 main-modules.php:6120
+#: main-modules.php:6584 main-modules.php:9081 main-modules.php:9680
+#: main-modules.php:10300 main-modules.php:10936 main-modules.php:11181
+#: main-modules.php:12098 main-modules.php:14180 main-modules.php:16919
+#: main-modules.php:17575 main-modules.php:18006 main-modules.php:20108
+#: main-modules.php:20623 main-modules.php:21982 main-modules.php:22681
+msgid "Elements"
+msgstr "Elementer"
+
+#: main-modules.php:580 main-modules.php:2189 main-modules.php:2912
+#: main-modules.php:6743 main-modules.php:7014 main-modules.php:7540
+#: main-modules.php:7620 main-modules.php:8109 main-modules.php:8683
+#: main-modules.php:9099 main-modules.php:9698 main-modules.php:10322
+#: main-modules.php:10647 main-modules.php:10954 main-modules.php:10988
+#: main-modules.php:11197 main-modules.php:11243 main-modules.php:11708
+#: main-modules.php:11808 main-modules.php:11860 main-modules.php:12108
+#: main-modules.php:12205 main-modules.php:12694 main-modules.php:13299
+#: main-modules.php:13846 main-modules.php:14233 main-modules.php:15321
+#: main-modules.php:15361 main-modules.php:15849 main-modules.php:16312
+#: main-modules.php:16947 main-modules.php:16969 main-modules.php:18861
+#: main-modules.php:18944 main-modules.php:18969 main-modules.php:20650
+#: main-modules.php:22010
+msgid "Title"
+msgstr "Tittel"
+
+#: main-modules.php:586 main-modules.php:7547
+msgid "Caption"
+msgstr "Bildetekst"
+
+#: main-modules.php:610
+msgid "Gallery Item"
+msgstr "Galleriobjekt"
+
+#: main-modules.php:618 main-modules.php:9129 main-modules.php:9751
+msgid "Overlay Icon"
+msgstr "Overleggsikon"
+
+#: main-modules.php:622
+msgid "Gallery Item Title"
+msgstr "Tittel for galleriobjekt"
+
+#: main-modules.php:626
+msgid "Gallery Item Caption"
+msgstr "Galleri element bildetekst"
+
+#: main-modules.php:630
+msgid "Gallery Pagination"
+msgstr "Galleri paginering"
+
+#: main-modules.php:634 main-modules.php
